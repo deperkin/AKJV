@@ -1,0 +1,383 @@
+{
+  "version": "AKJV",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 43,"name": "John","MaxChapters": 21},
+  "chapter": {
+    "Cnumber": 7,
+    "count": 1004,
+    "MaxVerses": 53,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 26330,
+        "text": "After these things Jesus walked in Galilee: for he would not walk in Jewry, because the Jews sought to kill him.",
+        "WordCount": 21,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 26331,
+        "text": "Now the Jews' feast of tabernacles was at hand.",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 26332,
+        "text": "His brethren therefore said unto him, Depart hence, and go into Judaea, that thy disciples also may see the works that thou doest.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 26333,
+        "text": "For [there is] no man [that] doeth any thing in secret, and he himself seeketh to be known openly. If thou do these things, shew thyself to the world.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 26334,
+        "text": "For neither did his brethren believe in him.",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 26335,
+        "text": "Then Jesus said unto them, \"My time is not yet come: but your time is alway ready.\"",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 26336,
+        "text": "\"The world cannot hate you; but me it hateth, because I testify of it, that the works thereof are evil.\"",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 26337,
+        "text": "\"Go ye up unto this feast: I go not up yet unto this feast; for my time is not yet full come.\"",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 26338,
+        "text": "When he had said these words unto them, he abode [still] in Galilee.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 26339,
+        "text": "But when his brethren were gone up, then went he also up unto the feast, not openly, but as it were in secret.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 26340,
+        "text": "Then the Jews sought him at the feast, and said, Where is he?",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 26341,
+        "text": "And there was much murmuring among the people concerning him: for some said, He is a good man: others said, Nay; but he deceiveth the people.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 26342,
+        "text": "Howbeit no man spake openly of him for fear of the Jews.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 26343,
+        "text": "Now about the midst of the feast Jesus went up into the temple, and taught.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 15,
+        "count": 26344,
+        "text": "And the Jews marvelled, saying, How knoweth this man letters, having never learned?",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 26345,
+        "text": "Jesus answered them, and said, \"My doctrine is not mine, but his that sent me.\"",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 26346,
+        "text": "\"If any man will do his will, he shall know of the doctrine, whether it be of God, or [whether] I speak of myself.\"",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 26347,
+        "text": "\"He that speaketh of himself seeketh his own glory: but he that seeketh his glory that sent him, the same is true, and no unrighteousness is in him.\"",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 26348,
+        "text": "\"Did not Moses give you the law, and [yet] none of you keepeth the law? Why go ye about to kill me?\"",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 26349,
+        "text": "The people answered and said, Thou hast a devil: who goeth about to kill thee?",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 26350,
+        "text": "Jesus answered and said unto them, \"I have done one work, and ye all marvel.\"",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 26351,
+        "text": "\"Moses therefore gave unto you circumcision; (not because it is of Moses, but of the fathers;) and ye on the sabbath day circumcise a man.\"",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 26352,
+        "text": "\"If a man on the sabbath day receive circumcision, that the law of Moses should not be broken; are ye angry at me, because I have made a man every whit whole on the sabbath day?\"",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 26353,
+        "text": "\"Judge not according to the appearance, but judge righteous judgment.\"",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 26354,
+        "text": "Then said some of them of Jerusalem, Is not this he, whom they seek to kill?",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 26355,
+        "text": "But, lo, he speaketh boldly, and they say nothing unto him. Do the rulers know indeed that this is the very Christ?",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 26356,
+        "text": "Howbeit we know this man whence he is: but when Christ cometh, no man knoweth whence he is.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 26357,
+        "text": "Then cried Jesus in the temple as he taught, saying, \"Ye both know me, and ye know whence I am: and I am not come of myself, but he that sent me is true, whom ye know not.\"",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 26358,
+        "text": "\"But I know him: for I am from him, and he hath sent me.\"",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 26359,
+        "text": "Then they sought to take him: but no man laid hands on him, because his hour was not yet come.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 26360,
+        "text": "And many of the people believed on him, and said, When Christ cometh, will he do more miracles than these which this [man] hath done?",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 26361,
+        "text": "The Pharisees heard that the people murmured such things concerning him; and the Pharisees and the chief priests sent officers to take him.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 26362,
+        "text": "Then said Jesus unto them, \"Yet a little while am I with you, and [then] I go unto him that sent me.\"",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 26363,
+        "text": "\"Ye shall seek me, and shall not find [me]: \"and where I am, [thither] ye cannot come.\"",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 26364,
+        "text": "Then said the Jews among themselves, Whither will he go, that we shall not find him? will he go unto the dispersed among the Gentiles, and teach the Gentiles?",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 36,
+        "count": 26365,
+        "text": "What [manner of] saying is this that he said, Ye shall seek me, and shall not find [me]: and where I am, [thither] ye cannot come?",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 37,
+        "count": 26366,
+        "text": "In the last day, that great [day] of the feast, Jesus stood and cried, saying, \"If any man thirst, let him come unto me, and drink.\"",
+        "WordCount": 26,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 38,
+        "count": 26367,
+        "text": "\"He that believeth on me, as the scripture hath said, out of his belly shall flow rivers of living water.\"",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 39,
+        "count": 26368,
+        "text": "(But this spake he of the Spirit, which they that believe on him should receive: for the Holy Ghost was not yet [given]; because that Jesus was not yet glorified.)",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 40,
+        "count": 26369,
+        "text": "Many of the people therefore, when they heard this saying, said, Of a truth this is the Prophet.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 41,
+        "count": 26370,
+        "text": "Others said, This is the Christ. But some said, Shall Christ come out of Galilee?",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 42,
+        "count": 26371,
+        "text": "Hath not the scripture said, That Christ cometh of the seed of David, and out of the town of Bethlehem, where David was?",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 43,
+        "count": 26372,
+        "text": "So there was a division among the people because of him.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 44,
+        "count": 26373,
+        "text": "And some of them would have taken him; but no man laid hands on him.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 45,
+        "count": 26374,
+        "text": "Then came the officers to the chief priests and Pharisees; and they said unto them, Why have ye not brought him?",
+        "WordCount": 21,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 46,
+        "count": 26375,
+        "text": "The officers answered, Never man spake like this man.",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 47,
+        "count": 26376,
+        "text": "Then answered them the Pharisees, Are ye also deceived?",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 48,
+        "count": 26377,
+        "text": "Have any of the rulers or of the Pharisees believed on him?",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 49,
+        "count": 26378,
+        "text": "But this people who knoweth not the law are cursed.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 50,
+        "count": 26379,
+        "text": "Nicodemus saith unto them, (he that came to Jesus by night, being one of them,)",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 51,
+        "count": 26380,
+        "text": "Doth our law judge [any] man, before it hear him, and know what he doeth?",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 52,
+        "count": 26381,
+        "text": "They answered and said unto him, Art thou also of Galilee? Search, and look: for out of Galilee ariseth no prophet.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 53,
+        "count": 26382,
+        "text": "And every man went unto his own house.",
+        "WordCount": 8,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

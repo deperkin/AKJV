@@ -1,0 +1,362 @@
+{
+  "version": "AKJV",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 42,"name": "Luke","MaxChapters": 24},
+  "chapter": {
+    "Cnumber": 7,
+    "count": 980,
+    "MaxVerses": 50,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 25197,
+        "text": "Now when he had ended all his sayings in the audience of the people, he entered into Capernaum.",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 25198,
+        "text": "And a certain centurion's servant, who was dear unto him, was sick, and ready to die.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 25199,
+        "text": "And when he heard of Jesus, he sent unto him the elders of the Jews, beseeching him that he would come and heal his servant.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 25200,
+        "text": "And when they came to Jesus, they besought him instantly, saying, That he was worthy for whom he should do this:",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 25201,
+        "text": "For he loveth our nation, and he hath built us a synagogue.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 25202,
+        "text": "Then Jesus went with them. And when he was now not far from the house, the centurion sent friends to him, saying unto him, Lord, trouble not thyself: for I am not worthy that thou shouldest enter under my roof:",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 25203,
+        "text": "Wherefore neither thought I myself worthy to come unto thee: but say in a word, and my servant shall be healed.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 25204,
+        "text": "For I also am a man set under authority, having under me soldiers, and I say unto one, Go, and he goeth; and to another, Come, and he cometh; and to my servant, Do this, and he doeth [it].",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 25205,
+        "text": "When Jesus heard these things, he marvelled at him, and turned him about, and said unto the people that followed him, \"I say unto you, I have not found so great faith, no, not in Israel.\"",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 25206,
+        "text": "And they that were sent, returning to the house, found the servant whole that had been sick.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 25207,
+        "text": "And it came to pass the day after, that he went into a city called Nain; and many of his disciples went with him, and much people.",
+        "WordCount": 27,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 12,
+        "count": 25208,
+        "text": "Now when he came nigh to the gate of the city, behold, there was a dead man carried out, the only son of his mother, and she was a widow: and much people of the city was with her.",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 25209,
+        "text": "And when the Lord saw her, he had compassion on her, and said unto her, \"Weep not.\"",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 25210,
+        "text": "And he came and touched the bier: and they that bare [him] stood still. And he said, \"Young man, I say unto thee, Arise.\"",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 25211,
+        "text": "And he that was dead sat up, and began to speak. And he delivered him to his mother.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 25212,
+        "text": "And there came a fear on all: and they glorified God, saying, That a great prophet is risen up among us; and, That God hath visited his people.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 25213,
+        "text": "And this rumour of him went forth throughout all Judaea, and throughout all the region round about.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 25214,
+        "text": "And the disciples of John shewed him of all these things.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 25215,
+        "text": "And John calling [unto him] two of his disciples sent [them] to Jesus, saying, Art thou he that should come? or look we for another?",
+        "WordCount": 25,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 20,
+        "count": 25216,
+        "text": "When the men were come unto him, they said, John Baptist hath sent us unto thee, saying, Art thou he that should come? or look we for another?",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 25217,
+        "text": "And in that same hour he cured many of [their] infirmities and plagues, and of evil spirits; and unto many [that were] blind he gave sight.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 25218,
+        "text": "Then Jesus answering said unto them, \"Go your way, and tell John what things ye have seen and heard; how that the blind see, the lame walk, the lepers are cleansed, the deaf hear, the dead are raised, to the poor the gospel is preached.\"",
+        "WordCount": 45,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 25219,
+        "text": "\"And blessed is [he], \"whosoever shall not be offended in me.\"",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 25220,
+        "text": "And when the messengers of John were departed, he began to speak unto the people concerning John, \"What went ye out into the wilderness for to see? A reed shaken with the wind?\"",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 25221,
+        "text": "\"But what went ye out for to see? A man clothed in soft raiment? Behold, they which are gorgeously apparelled, and live delicately, are in kings' courts.\"",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 25222,
+        "text": "\"But what went ye out for to see? A prophet? Yea, I say unto you, and much more than a prophet.\"",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 25223,
+        "text": "\"This is [he], \"of whom it is written, Behold, I send my messenger before thy face, which shall prepare thy way before thee.\"",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 25224,
+        "text": "\"For I say unto you, Among those that are born of women there is not a greater prophet than John the Baptist: but he that is least in the kingdom of God is greater than he.\"",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 25225,
+        "text": "And all the people that heard [him], and the publicans, justified God, being baptized with the baptism of John.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 25226,
+        "text": "But the Pharisees and lawyers rejected the counsel of God against themselves, being not baptized of him.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 25227,
+        "text": "And the Lord said, \"Whereunto then shall I liken the men of this generation? and to what are they like?\"",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 25228,
+        "text": "\"They are like unto children sitting in the marketplace, and calling one to another, and saying, We have piped unto you, and ye have not danced; we have mourned to you, and ye have not wept.\"",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 25229,
+        "text": "\"For John the Baptist came neither eating bread nor drinking wine; and ye say, He hath a devil.\"",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 25230,
+        "text": "\"The Son of man is come eating and drinking; and ye say, Behold a gluttonous man, and a winebibber, a friend of publicans and sinners!\"",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 25231,
+        "text": "\"But wisdom is justified of all her children.\"",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 36,
+        "count": 25232,
+        "text": "And one of the Pharisees desired him that he would eat with him. And he went into the Pharisee's house, and sat down to meat.",
+        "WordCount": 25,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 37,
+        "count": 25233,
+        "text": "And, behold, a woman in the city, which was a sinner, when she knew that [Jesus] sat at meat in the Pharisee's house, brought an alabaster box of ointment,",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 38,
+        "count": 25234,
+        "text": "And stood at his feet behind [him] weeping, and began to wash his feet with tears, and did wipe [them] with the hairs of her head, and kissed his feet, and anointed [them] with the ointment.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 39,
+        "count": 25235,
+        "text": "Now when the Pharisee which had bidden him saw [it], he spake within himself, saying, This man, if he were a prophet, would have known who and what manner of woman [this is] that toucheth him: for she is a sinner.",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 40,
+        "count": 25236,
+        "text": "And Jesus answering said unto him, \"Simon, I have somewhat to say unto thee.\" And he saith, Master, say on.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 41,
+        "count": 25237,
+        "text": "\"There was a certain creditor which had two debtors: the one owed five hundred pence, and the other fifty.\"",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 42,
+        "count": 25238,
+        "text": "\"And when they had nothing to pay, he frankly forgave them both. Tell me therefore, which of them will love him most?\"",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 43,
+        "count": 25239,
+        "text": "Simon answered and said, I suppose that [he], to whom he forgave most. And he said unto him, \"Thou hast rightly judged.\"",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 44,
+        "count": 25240,
+        "text": "And he turned to the woman, and said unto Simon, \"Seest thou this woman? I entered into thine house, thou gavest me no water for my feet: but she hath washed my feet with tears, and wiped [them] with the hairs of her head.\"",
+        "WordCount": 44,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 45,
+        "count": 25241,
+        "text": "\"Thou gavest me no kiss: but this woman since the time I came in hath not ceased to kiss my feet.\"",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 46,
+        "count": 25242,
+        "text": "\"My head with oil thou didst not anoint: but this woman hath anointed my feet with ointment.\"",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 47,
+        "count": 25243,
+        "text": "\"Wherefore I say unto thee, Her sins, which are many, are forgiven; for she loved much: but to whom little is forgiven, [the same] loveth little.\"",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 48,
+        "count": 25244,
+        "text": "And he said unto her, \"Thy sins are forgiven.\"",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 49,
+        "count": 25245,
+        "text": "And they that sat at meat with him began to say within themselves, Who is this that forgiveth sins also?",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 50,
+        "count": 25246,
+        "text": "And he said to the woman, \"Thy faith hath saved thee; go in peace.\"",
+        "WordCount": 14,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "version": "AKJV",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 42,"name": "Luke","MaxChapters": 24},
+  "chapter": {
+    "Cnumber": 16,
+    "count": 989,
+    "MaxVerses": 31,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 25622,
+        "text": "And he said also unto his disciples, \"There was a certain rich man, which had a steward; and the same was accused unto him that he had wasted his goods.\"",
+        "WordCount": 30,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 25623,
+        "text": "\"And he called him, and said unto him, How is it that I hear this of thee? give an account of thy stewardship; for thou mayest be no longer steward.\"",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 25624,
+        "text": "\"Then the steward said within himself, What shall I do? for my lord taketh away from me the stewardship: I cannot dig; to beg I am ashamed.\"",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 25625,
+        "text": "\"I am resolved what to do, that, when I am put out of the stewardship, they may receive me into their houses.\"",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 25626,
+        "text": "\"So he called every one of his lord's debtors [unto him], \"and said unto the first, How much owest thou unto my lord?\"",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 25627,
+        "text": "\"And he said, An hundred measures of oil. And he said unto him, Take thy bill, and sit down quickly, and write fifty.\"",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 25628,
+        "text": "\"Then said he to another, And how much owest thou? And he said, An hundred measures of wheat. And he said unto him, Take thy bill, and write fourscore.\"",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 25629,
+        "text": "\"And the lord commended the unjust steward, because he had done wisely: for the children of this world are in their generation wiser than the children of light.\"",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 25630,
+        "text": "\"And I say unto you, Make to yourselves friends of the mammon of unrighteousness; that, when ye fail, they may receive you into everlasting habitations.\"",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 25631,
+        "text": "\"He that is faithful in that which is least is faithful also in much: and he that is unjust in the least is unjust also in much.\"",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 25632,
+        "text": "\"If therefore ye have not been faithful in the unrighteous mammon, who will commit to your trust the true [riches]?",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 25633,
+        "text": "\"And if ye have not been faithful in that which is another man's, who shall give you that which is your own?\"",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 25634,
+        "text": "\"No servant can serve two masters: for either he will hate the one, and love the other; or else he will hold to the one, and despise the other. Ye cannot serve God and mammon.\"",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 25635,
+        "text": "And the Pharisees also, who were covetous, heard all these things: and they derided him.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 25636,
+        "text": "And he said unto them, \"Ye are they which justify yourselves before men; but God knoweth your hearts: for that which is highly esteemed among men is abomination in the sight of God.\"",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 25637,
+        "text": "\"The law and the prophets [were] until John: since that time the kingdom of God is preached, and every man presseth into it.\"",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 25638,
+        "text": "\"And it is easier for heaven and earth to pass, than one tittle of the law to fail.\"",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 25639,
+        "text": "\"Whosoever putteth away his wife, and marrieth another, committeth adultery: and whosoever marrieth her that is put away from [her] husband committeth adultery.\"",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 25640,
+        "text": "\"There was a certain rich man, which was clothed in purple and fine linen, and fared sumptuously every day:\"",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 20,
+        "count": 25641,
+        "text": "\"And there was a certain beggar named Lazarus, which was laid at his gate, full of sores,\"",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 25642,
+        "text": "\"And desiring to be fed with the crumbs which fell from the rich man's table: moreover the dogs came and licked his sores.\"",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 25643,
+        "text": "\"And it came to pass, that the beggar died, and was carried by the angels into Abraham's bosom: the rich man also died, and was buried;\"",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 25644,
+        "text": "\"And in hell he lift up his eyes, being in torments, and seeth Abraham afar off, and Lazarus in his bosom.\"",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 25645,
+        "text": "\"And he cried and said, Father Abraham, have mercy on me, and send Lazarus, that he may dip the tip of his finger in water, and cool my tongue; for I am tormented in this flame.\"",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 25646,
+        "text": "\"But Abraham said, Son, remember that thou in thy lifetime receivedst thy good things, and likewise Lazarus evil things: but now he is comforted, and thou art tormented.\"",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 25647,
+        "text": "\"And beside all this, between us and you there is a great gulf fixed: so that they which would pass from hence to you cannot; neither can they pass to us, that [would come] from thence.\"",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 25648,
+        "text": "\"Then he said, I pray thee therefore, father, that thou wouldest send him to my father's house:\"",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 25649,
+        "text": "\"For I have five brethren; that he may testify unto them, lest they also come into this place of torment.\"",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 25650,
+        "text": "\"Abraham saith unto him, They have Moses and the prophets; let them hear them.\"",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 25651,
+        "text": "\"And he said, Nay, father Abraham: but if one went unto them from the dead, they will repent.\"",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 25652,
+        "text": "\"And he said unto him, If they hear not Moses and the prophets, neither will they be persuaded, though one rose from the dead.\"",
+        "WordCount": 24,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

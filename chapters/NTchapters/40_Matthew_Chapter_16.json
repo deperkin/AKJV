@@ -1,0 +1,208 @@
+{
+  "version": "AKJV",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 40,"name": "Matthew","MaxChapters": 28},
+  "chapter": {
+    "Cnumber": 16,
+    "count": 945,
+    "MaxVerses": 28,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 23674,
+        "text": "The Pharisees also with the Sadducees came, and tempting desired him that he would shew them a sign from heaven.",
+        "WordCount": 20,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 23675,
+        "text": "He answered and said unto them, \"When it is evening, ye say, [It will be] fair weather: for the sky is red.\"",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 23676,
+        "text": "\"And in the morning, [It will be] foul weather to day: for the sky is red and lowring. O [ye] hypocrites, ye can discern the face of the sky; but can ye not [discern] the signs of the times?\"",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 23677,
+        "text": "\"A wicked and adulterous generation seeketh after a sign; and there shall no sign be given unto it, but the sign of the prophet Jonas.\" And he left them, and departed.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 23678,
+        "text": "And when his disciples were come to the other side, they had forgotten to take bread.",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 6,
+        "count": 23679,
+        "text": "Then Jesus said unto them, \"Take heed and beware of the leaven of the Pharisees and of the Sadducees.\"",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 23680,
+        "text": "And they reasoned among themselves, saying, [It is] because we have taken no bread.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 23681,
+        "text": "[Which] when Jesus perceived, he said unto them, \"O ye of little faith, why reason ye among yourselves, because ye have brought no bread?\"",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 23682,
+        "text": "\"Do ye not yet understand, neither remember the five loaves of the five thousand, and how many baskets ye took up?\"",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 23683,
+        "text": "\"Neither the seven loaves of the four thousand, and how many baskets ye took up?\"",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 23684,
+        "text": "\"How is it that ye do not understand that I spake [it] not to you concerning bread, that ye should beware of the leaven of the Pharisees and of the Sadducees?\"",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 23685,
+        "text": "Then understood they how that he bade [them] not beware of the leaven of bread, but of the doctrine of the Pharisees and of the Sadducees.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 23686,
+        "text": "When Jesus came into the coasts of Caesarea Philippi, he asked his disciples, saying, \"Whom do men say that I the Son of man am?\"",
+        "WordCount": 25,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 14,
+        "count": 23687,
+        "text": "And they said, Some [say that thou art] John the Baptist: some, Elias; and others, Jeremias, or one of the prophets.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 23688,
+        "text": "He saith unto them, \"But whom say ye that I am?\"",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 23689,
+        "text": "And Simon Peter answered and said, Thou art the Christ, the Son of the living God.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 23690,
+        "text": "And Jesus answered and said unto him, \"Blessed art thou, Simon Barjona: for flesh and blood hath not revealed [it] unto thee, but my Father which is in heaven.\"",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 23691,
+        "text": "\"And I say also unto thee, That thou art Peter, and upon this rock I will build my church; and the gates of hell shall not prevail against it.\"",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 23692,
+        "text": "\"And I will give unto thee the keys of the kingdom of heaven: and whatsoever thou shalt bind on earth shall be bound in heaven: and whatsoever thou shalt loose on earth shall be loosed in heaven.\"",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 23693,
+        "text": "Then charged he his disciples that they should tell no man that he was Jesus the Christ.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 23694,
+        "text": "From that time forth began Jesus to shew unto his disciples, how that he must go unto Jerusalem, and suffer many things of the elders and chief priests and scribes, and be killed, and be raised again the third day.",
+        "WordCount": 40,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 22,
+        "count": 23695,
+        "text": "Then Peter took him, and began to rebuke him, saying, Be it far from thee, Lord: this shall not be unto thee.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 23696,
+        "text": "But he turned, and said unto Peter, \"Get thee behind me, Satan: thou art an offence unto me: for thou savourest not the things that be of God, but those that be of men.\"",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 23697,
+        "text": "Then said Jesus unto his disciples, \"If any [man] will come after me, let him deny himself, and take up his cross, and follow me.\"",
+        "WordCount": 25,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 25,
+        "count": 23698,
+        "text": "\"For whosoever will save his life shall lose it: and whosoever will lose his life for my sake shall find it.\"",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 23699,
+        "text": "\"For what is a man profited, if he shall gain the whole world, and lose his own soul? or what shall a man give in exchange for his soul?\"",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 23700,
+        "text": "\"For the Son of man shall come in the glory of his Father with his angels; and then he shall reward every man according to his works.\"",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 23701,
+        "text": "\"Verily I say unto you, There be some standing here, which shall not taste of death, till they see the Son of man coming in his kingdom.\"",
+        "WordCount": 27,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "version": "AKJV",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 44,"name": "Acts","MaxChapters": 28},
+  "chapter": {
+    "Cnumber": 18,
+    "count": 1036,
+    "MaxVerses": 28,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 27559,
+        "text": "After these things Paul departed from Athens, and came to Corinth;",
+        "WordCount": 11,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 27560,
+        "text": "And found a certain Jew named Aquila, born in Pontus, lately come from Italy, with his wife Priscilla; (because that Claudius had commanded all Jews to depart from Rome:) and came unto them.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 27561,
+        "text": "And because he was of the same craft, he abode with them, and wrought: for by their occupation they were tentmakers.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 27562,
+        "text": "And he reasoned in the synagogue every sabbath, and persuaded the Jews and the Greeks.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 27563,
+        "text": "And when Silas and Timotheus were come from Macedonia, Paul was pressed in the spirit, and testified to the Jews [that] Jesus [was] Christ.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 27564,
+        "text": "And when they opposed themselves, and blasphemed, he shook [his] raiment, and said unto them, Your blood [be] upon your own heads; I [am] clean: from henceforth I will go unto the Gentiles.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 27565,
+        "text": "And he departed thence, and entered into a certain [man's] house, named Justus, [one] that worshipped God, whose house joined hard to the synagogue.",
+        "WordCount": 24,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 8,
+        "count": 27566,
+        "text": "And Crispus, the chief ruler of the synagogue, believed on the Lord with all his house; and many of the Corinthians hearing believed, and were baptized.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 27567,
+        "text": "Then spake the Lord to Paul in the night by a vision, \"Be not afraid, but speak, and hold not thy peace:\"",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 27568,
+        "text": "\"For I am with thee, and no man shall set on thee to hurt thee: for I have much people in this city.\"",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 27569,
+        "text": "And he continued [there] a year and six months, teaching the word of God among them.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 27570,
+        "text": "And when Gallio was the deputy of Achaia, the Jews made insurrection with one accord against Paul, and brought him to the judgment seat,",
+        "WordCount": 24,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 13,
+        "count": 27571,
+        "text": "Saying, This [fellow] persuadeth men to worship God contrary to the law.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 27572,
+        "text": "And when Paul was now about to open [his] mouth, Gallio said unto the Jews, If it were a matter of wrong or wicked lewdness, O [ye] Jews, reason would that I should bear with you:",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 27573,
+        "text": "But if it be a question of words and names, and [of] your law, look ye [to it]; for I will be no judge of such [matters].",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 27574,
+        "text": "And he drave them from the judgment seat.",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 27575,
+        "text": "Then all the Greeks took Sosthenes, the chief ruler of the synagogue, and beat [him] before the judgment seat. And Gallio cared for none of those things.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 27576,
+        "text": "And Paul [after this] tarried [there] yet a good while, and then took his leave of the brethren, and sailed thence into Syria, and with him Priscilla and Aquila; having shorn [his] head in Cenchrea: for he had a vow.",
+        "WordCount": 40,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 19,
+        "count": 27577,
+        "text": "And he came to Ephesus, and left them there: but he himself entered into the synagogue, and reasoned with the Jews.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 27578,
+        "text": "When they desired [him] to tarry longer time with them, he consented not;",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 27579,
+        "text": "But bade them farewell, saying, I must by all means keep this feast that cometh in Jerusalem: but I will return again unto you, if God will. And he sailed from Ephesus.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 27580,
+        "text": "And when he had landed at Caesarea, and gone up, and saluted the church, he went down to Antioch.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 27581,
+        "text": "And after he had spent some time [there], he departed, and went over [all] the country of Galatia and Phrygia in order, strengthening all the disciples.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 27582,
+        "text": "And a certain Jew named Apollos, born at Alexandria, an eloquent man, [and] mighty in the scriptures, came to Ephesus.",
+        "WordCount": 20,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 25,
+        "count": 27583,
+        "text": "This man was instructed in the way of the Lord; and being fervent in the spirit, he spake and taught diligently the things of the Lord, knowing only the baptism of John.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 27584,
+        "text": "And he began to speak boldly in the synagogue: whom when Aquila and Priscilla had heard, they took him unto [them], and expounded unto him the way of God more perfectly.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 27585,
+        "text": "And when he was disposed to pass into Achaia, the brethren wrote, exhorting the disciples to receive him: who, when he was come, helped them much which had believed through grace:",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 27586,
+        "text": "For he mightily convinced the Jews, [and that] publickly, shewing by the scriptures that Jesus was Christ.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "version": "AKJV",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 47,"name": "2 Corinthians","MaxChapters": 13},
+  "chapter": {
+    "Cnumber": 3,
+    "count": 1081,
+    "MaxVerses": 18,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 28843,
+        "text": "Do we begin again to commend ourselves? or need we, as some [others], epistles of commendation to you, or [letters] of commendation from you?",
+        "WordCount": 24,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 28844,
+        "text": "Ye are our epistle written in our hearts, known and read of all men:",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 28845,
+        "text": "[Forasmuch as ye are] manifestly declared to be the epistle of Christ ministered by us, written not with ink, but with the Spirit of the living God; not in tables of stone, but in fleshy tables of the heart.",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 28846,
+        "text": "And such trust have we through Christ to God-ward:",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 28847,
+        "text": "Not that we are sufficient of ourselves to think any thing as of ourselves; but our sufficiency [is] of God;",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 28848,
+        "text": "Who also hath made us able ministers of the new testament; not of the letter, but of the spirit: for the letter killeth, but the spirit giveth life.",
+        "WordCount": 28,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 7,
+        "count": 28849,
+        "text": "But if the ministration of death, written [and] engraven in stones, was glorious, so that the children of Israel could not stedfastly behold the face of Moses for the glory of his countenance; which [glory] was to be done away:",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 28850,
+        "text": "How shall not the ministration of the spirit be rather glorious?",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 28851,
+        "text": "For if the ministration of condemnation [be] glory, much more doth the ministration of righteousness exceed in glory.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 28852,
+        "text": "For even that which was made glorious had no glory in this respect, by reason of the glory that excelleth.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 28853,
+        "text": "For if that which is done away [was] glorious, much more that which remaineth [is] glorious.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 28854,
+        "text": "Seeing then that we have such hope, we use great plainness of speech:",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 13,
+        "count": 28855,
+        "text": "And not as Moses, [which] put a vail over his face, that the children of Israel could not stedfastly look to the end of that which is abolished:",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 28856,
+        "text": "But their minds were blinded: for until this day remaineth the same vail untaken away in the reading of the old testament; which [vail] is done away in Christ.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 28857,
+        "text": "But even unto this day, when Moses is read, the vail is upon their heart.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 28858,
+        "text": "Nevertheless when it shall turn to the Lord, the vail shall be taken away.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 28859,
+        "text": "Now the Lord is that Spirit: and where the Spirit of the Lord [is], there [is] liberty.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 28860,
+        "text": "But we all, with open face beholding as in a glass the glory of the Lord, are changed into the same image from glory to glory, [even] as by the Spirit of the Lord.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "version": "AKJV",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 40,"name": "Matthew","MaxChapters": 28},
+  "chapter": {
+    "Cnumber": 20,
+    "count": 949,
+    "MaxVerses": 34,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 23794,
+        "text": "\"For the kingdom of heaven is like unto a man [that is] an householder, which went out early in the morning to hire labourers into his vineyard.\"",
+        "WordCount": 27,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 23795,
+        "text": "\"And when he had agreed with the labourers for a penny a day, he sent them into his vineyard.\"",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 23796,
+        "text": "\"And he went out about the third hour, and saw others standing idle in the marketplace,\"",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 23797,
+        "text": "\"And said unto them; Go ye also into the vineyard, and whatsoever is right I will give you. And they went their way.\"",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 23798,
+        "text": "\"Again he went out about the sixth and ninth hour, and did likewise.\"",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 23799,
+        "text": "\"And about the eleventh hour he went out, and found others standing idle, and saith unto them, Why stand ye here all the day idle?\"",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 23800,
+        "text": "\"They say unto him, Because no man hath hired us. He saith unto them, Go ye also into the vineyard; and whatsoever is right, [that] shall ye receive.\"",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 23801,
+        "text": "\"So when even was come, the lord of the vineyard saith unto his steward, Call the labourers, and give them [their] hire, beginning from the last unto the first.\"",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 23802,
+        "text": "\"And when they came that [were hired] about the eleventh hour, they received every man a penny.\"",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 23803,
+        "text": "\"But when the first came, they supposed that they should have received more; and they likewise received every man a penny.\"",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 23804,
+        "text": "\"And when they had received [it], \"they murmured against the goodman of the house,\"",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 23805,
+        "text": "\"Saying, These last have wrought [but] one hour, and thou hast made them equal unto us, which have borne the burden and heat of the day.\"",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 23806,
+        "text": "\"But he answered one of them, and said, Friend, I do thee no wrong: didst not thou agree with me for a penny?\"",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 23807,
+        "text": "\"Take [that] thine [is], \"and go thy way: I will give unto this last, even as unto thee.\"",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 23808,
+        "text": "\"Is it not lawful for me to do what I will with mine own? Is thine eye evil, because I am good?\"",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 23809,
+        "text": "\"So the last shall be first, and the first last: for many be called, but few chosen.\"",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 23810,
+        "text": "And Jesus going up to Jerusalem took the twelve disciples apart in the way, and said unto them,",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 18,
+        "count": 23811,
+        "text": "\"Behold, we go up to Jerusalem; and the Son of man shall be betrayed unto the chief priests and unto the scribes, and they shall condemn him to death,\"",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 23812,
+        "text": "\"And shall deliver him to the Gentiles to mock, and to scourge, and to crucify [him]: \"and the third day he shall rise again.\"",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 23813,
+        "text": "Then came to him the mother of Zebedee's children with her sons, worshipping [him], and desiring a certain thing of him.",
+        "WordCount": 21,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 21,
+        "count": 23814,
+        "text": "And he said unto her, \"What wilt thou?\" She saith unto him, Grant that these my two sons may sit, the one on thy right hand, and the other on the left, in thy kingdom.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 23815,
+        "text": "But Jesus answered and said, \"Ye know not what ye ask. Are ye able to drink of the cup that I shall drink of, and to be baptized with the baptism that I am baptized with?\" They say unto him, We are able.",
+        "WordCount": 43,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 23816,
+        "text": "And he saith unto them, \"Ye shall drink indeed of my cup, and be baptized with the baptism that I am baptized with: but to sit on my right hand, and on my left, is not mine to give, but [it shall be given to them] for whom it is prepared of my Father.\"",
+        "WordCount": 54,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 23817,
+        "text": "And when the ten heard [it], they were moved with indignation against the two brethren.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 23818,
+        "text": "But Jesus called them [unto him], and said, \"Ye know that the princes of the Gentiles exercise dominion over them, and they that are great exercise authority upon them.\"",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 23819,
+        "text": "\"But it shall not be so among you: but whosoever will be great among you, let him be your minister;\"",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 23820,
+        "text": "\"And whosoever will be chief among you, let him be your servant:\"",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 23821,
+        "text": "\"Even as the Son of man came not to be ministered unto, but to minister, and to give his life a ransom for many.\"",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 23822,
+        "text": "And as they departed from Jericho, a great multitude followed him.",
+        "WordCount": 11,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 30,
+        "count": 23823,
+        "text": "And, behold, two blind men sitting by the way side, when they heard that Jesus passed by, cried out, saying, Have mercy on us, O Lord, [thou] Son of David.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 23824,
+        "text": "And the multitude rebuked them, because they should hold their peace: but they cried the more, saying, Have mercy on us, O Lord, [thou] Son of David.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 23825,
+        "text": "And Jesus stood still, and called them, and said, \"What will ye that I shall do unto you?\"",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 23826,
+        "text": "They say unto him, Lord, that our eyes may be opened.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 23827,
+        "text": "So Jesus had compassion [on them], and touched their eyes: and immediately their eyes received sight, and they followed him.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

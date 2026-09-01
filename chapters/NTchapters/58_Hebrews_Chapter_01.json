@@ -1,0 +1,110 @@
+{
+  "version": "AKJV",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 58,"name": "Hebrews","MaxChapters": 13},
+  "chapter": {
+    "Cnumber": 1,
+    "count": 1134,
+    "MaxVerses": 14,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 29965,
+        "text": "God, who at sundry times and in divers manners spake in time past unto the fathers by the prophets,",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 29966,
+        "text": "Hath in these last days spoken unto us by [his] Son, whom he hath appointed heir of all things, by whom also he made the worlds;",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 29967,
+        "text": "Who being the brightness of [his] glory, and the express image of his person, and upholding all things by the word of his power, when he had by himself purged our sins, sat down on the right hand of the Majesty on high;",
+        "WordCount": 43,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 29968,
+        "text": "Being made so much better than the angels, as he hath by inheritance obtained a more excellent name than they.",
+        "WordCount": 20,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 5,
+        "count": 29969,
+        "text": "For unto which of the angels said he at any time, Thou art my Son, this day have I begotten thee? And again, I will be to him a Father, and he shall be to me a Son?",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 29970,
+        "text": "And again, when he bringeth in the firstbegotten into the world, he saith, And let all the angels of God worship him.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 29971,
+        "text": "And of the angels he saith, Who maketh his angels spirits, and his ministers a flame of fire.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 29972,
+        "text": "But unto the Son [he saith], Thy throne, O God, [is] for ever and ever: a sceptre of righteousness [is] the sceptre of thy kingdom.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 29973,
+        "text": "Thou hast loved righteousness, and hated iniquity; therefore God, [even] thy God, hath anointed thee with the oil of gladness above thy fellows.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 29974,
+        "text": "And, Thou, Lord, in the beginning hast laid the foundation of the earth; and the heavens are the works of thine hands:",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 29975,
+        "text": "They shall perish; but thou remainest; and they all shall wax old as doth a garment;",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 29976,
+        "text": "And as a vesture shalt thou fold them up, and they shall be changed: but thou art the same, and thy years shall not fail.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 29977,
+        "text": "But to which of the angels said he at any time, Sit on my right hand, until I make thine enemies thy footstool?",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 29978,
+        "text": "Are they not all ministering spirits, sent forth to minister for them who shall be heirs of salvation?",
+        "WordCount": 18,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

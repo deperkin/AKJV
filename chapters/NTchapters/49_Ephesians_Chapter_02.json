@@ -1,0 +1,166 @@
+{
+  "version": "AKJV",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 49,"name": "Ephesians","MaxChapters": 6},
+  "chapter": {
+    "Cnumber": 2,
+    "count": 1099,
+    "MaxVerses": 22,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 29231,
+        "text": "And you [hath he quickened], who were dead in trespasses and sins;",
+        "WordCount": 12,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 29232,
+        "text": "Wherein in time past ye walked according to the course of this world, according to the prince of the power of the air, the spirit that now worketh in the children of disobedience:",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 29233,
+        "text": "Among whom also we all had our conversation in times past in the lusts of our flesh, fulfilling the desires of the flesh and of the mind; and were by nature the children of wrath, even as others.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 29234,
+        "text": "But God, who is rich in mercy, for his great love wherewith he loved us,",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 5,
+        "count": 29235,
+        "text": "Even when we were dead in sins, hath quickened us together with Christ, (by grace ye are saved;)",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 29236,
+        "text": "And hath raised [us] up together, and made [us] sit together in heavenly [places] in Christ Jesus:",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 29237,
+        "text": "That in the ages to come he might shew the exceeding riches of his grace in [his] kindness toward us through Christ Jesus.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 29238,
+        "text": "For by grace are ye saved through faith; and that not of yourselves: [it is] the gift of God:",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 29239,
+        "text": "Not of works, lest any man should boast.",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 29240,
+        "text": "For we are his workmanship, created in Christ Jesus unto good works, which God hath before ordained that we should walk in them.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 29241,
+        "text": "Wherefore remember, that ye [being] in time past Gentiles in the flesh, who are called Uncircumcision by that which is called the Circumcision in the flesh made by hands;",
+        "WordCount": 29,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 12,
+        "count": 29242,
+        "text": "That at that time ye were without Christ, being aliens from the commonwealth of Israel, and strangers from the covenants of promise, having no hope, and without God in the world:",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 29243,
+        "text": "But now in Christ Jesus ye who sometimes were far off are made nigh by the blood of Christ.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 29244,
+        "text": "For he is our peace, who hath made both one, and hath broken down the middle wall of partition [between us];",
+        "WordCount": 21,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 15,
+        "count": 29245,
+        "text": "Having abolished in his flesh the enmity, [even] the law of commandments [contained] in ordinances; for to make in himself of twain one new man, [so] making peace;",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 29246,
+        "text": "And that he might reconcile both unto God in one body by the cross, having slain the enmity thereby:",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 29247,
+        "text": "And came and preached peace to you which were afar off, and to them that were nigh.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 29248,
+        "text": "For through him we both have access by one Spirit unto the Father.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 29249,
+        "text": "Now therefore ye are no more strangers and foreigners, but fellowcitizens with the saints, and of the household of God;",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 29250,
+        "text": "And are built upon the foundation of the apostles and prophets, Jesus Christ himself being the chief corner [stone];",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 29251,
+        "text": "In whom all the building fitly framed together groweth unto an holy temple in the Lord:",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 29252,
+        "text": "In whom ye also are builded together for an habitation of God through the Spirit.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

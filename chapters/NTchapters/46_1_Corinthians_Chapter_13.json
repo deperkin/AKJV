@@ -1,0 +1,103 @@
+{
+  "version": "AKJV",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 46,"name": "1 Corinthians","MaxChapters": 16},
+  "chapter": {
+    "Cnumber": 13,
+    "count": 1075,
+    "MaxVerses": 13,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 28667,
+        "text": "Though I speak with the tongues of men and of angels, and have not charity, I am become [as] sounding brass, or a tinkling cymbal.",
+        "WordCount": 25,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 28668,
+        "text": "And though I have [the gift of] prophecy, and understand all mysteries, and all knowledge; and though I have all faith, so that I could remove mountains, and have not charity, I am nothing.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 28669,
+        "text": "And though I bestow all my goods to feed [the poor], and though I give my body to be burned, and have not charity, it profiteth me nothing.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 28670,
+        "text": "Charity suffereth long, [and] is kind; charity envieth not; charity vaunteth not itself, is not puffed up,",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 5,
+        "count": 28671,
+        "text": "Doth not behave itself unseemly, seeketh not her own, is not easily provoked, thinketh no evil;",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 28672,
+        "text": "Rejoiceth not in iniquity, but rejoiceth in the truth;",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 28673,
+        "text": "Beareth all things, believeth all things, hopeth all things, endureth all things.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 28674,
+        "text": "Charity never faileth: but whether [there be] prophecies, they shall fail; whether [there be] tongues, they shall cease; whether [there be] knowledge, it shall vanish away.",
+        "WordCount": 26,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 9,
+        "count": 28675,
+        "text": "For we know in part, and we prophesy in part.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 28676,
+        "text": "But when that which is perfect is come, then that which is in part shall be done away.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 28677,
+        "text": "When I was a child, I spake as a child, I understood as a child, I thought as a child: but when I became a man, I put away childish things.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 28678,
+        "text": "For now we see through a glass, darkly; but then face to face: now I know in part; but then shall I know even as also I am known.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 28679,
+        "text": "And now abideth faith, hope, charity, these three; but the greatest of these [is] charity.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

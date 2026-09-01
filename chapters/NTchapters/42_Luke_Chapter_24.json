@@ -1,0 +1,383 @@
+{
+  "version": "AKJV",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 42,"name": "Luke","MaxChapters": 24},
+  "chapter": {
+    "Cnumber": 24,
+    "count": 997,
+    "MaxVerses": 53,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 25993,
+        "text": "Now upon the first [day] of the week, very early in the morning, they came unto the sepulchre, bringing the spices which they had prepared, and certain [others] with them.",
+        "WordCount": 30,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 25994,
+        "text": "And they found the stone rolled away from the sepulchre.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 25995,
+        "text": "And they entered in, and found not the body of the Lord Jesus.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 25996,
+        "text": "And it came to pass, as they were much perplexed thereabout, behold, two men stood by them in shining garments:",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 25997,
+        "text": "And as they were afraid, and bowed down [their] faces to the earth, they said unto them, Why seek ye the living among the dead?",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 25998,
+        "text": "He is not here, but is risen: remember how he spake unto you when he was yet in Galilee,",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 25999,
+        "text": "Saying, The Son of man must be delivered into the hands of sinful men, and be crucified, and the third day rise again.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 26000,
+        "text": "And they remembered his words,",
+        "WordCount": 5,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 26001,
+        "text": "And returned from the sepulchre, and told all these things unto the eleven, and to all the rest.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 26002,
+        "text": "It was Mary Magdalene, and Joanna, and Mary [the mother] of James, and other [women that were] with them, which told these things unto the apostles.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 26003,
+        "text": "And their words seemed to them as idle tales, and they believed them not.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 26004,
+        "text": "Then arose Peter, and ran unto the sepulchre; and stooping down, he beheld the linen clothes laid by themselves, and departed, wondering in himself at that which was come to pass.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 26005,
+        "text": "And, behold, two of them went that same day to a village called Emmaus, which was from Jerusalem [about] threescore furlongs.",
+        "WordCount": 21,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 14,
+        "count": 26006,
+        "text": "And they talked together of all these things which had happened.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 26007,
+        "text": "And it came to pass, that, while they communed [together] and reasoned, Jesus himself drew near, and went with them.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 26008,
+        "text": "But their eyes were holden that they should not know him.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 26009,
+        "text": "And he said unto them, \"What manner of communications [are] these that ye have one to another, as ye walk, and are sad?\"",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 26010,
+        "text": "And the one of them, whose name was Cleopas, answering said unto him, Art thou only a stranger in Jerusalem, and hast not known the things which are come to pass there in these days?",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 26011,
+        "text": "And he said unto them, \"What things?\" And they said unto him, Concerning Jesus of Nazareth, which was a prophet mighty in deed and word before God and all the people:",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 26012,
+        "text": "And how the chief priests and our rulers delivered him to be condemned to death, and have crucified him.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 26013,
+        "text": "But we trusted that it had been he which should have redeemed Israel: and beside all this, to day is the third day since these things were done.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 26014,
+        "text": "Yea, and certain women also of our company made us astonished, which were early at the sepulchre;",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 26015,
+        "text": "And when they found not his body, they came, saying, that they had also seen a vision of angels, which said that he was alive.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 26016,
+        "text": "And certain of them which were with us went to the sepulchre, and found [it] even so as the women had said: but him they saw not.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 26017,
+        "text": "Then he said unto them, \"O fools, and slow of heart to believe all that the prophets have spoken:\"",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 26018,
+        "text": "\"Ought not Christ to have suffered these things, and to enter into his glory?\"",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 26019,
+        "text": "And beginning at Moses and all the prophets, he expounded unto them in all the scriptures the things concerning himself.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 26020,
+        "text": "And they drew nigh unto the village, whither they went: and he made as though he would have gone further.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 26021,
+        "text": "But they constrained him, saying, Abide with us: for it is toward evening, and the day is far spent. And he went in to tarry with them.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 26022,
+        "text": "And it came to pass, as he sat at meat with them, he took bread, and blessed [it], and brake, and gave to them.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 26023,
+        "text": "And their eyes were opened, and they knew him; and he vanished out of their sight.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 26024,
+        "text": "And they said one to another, Did not our heart burn within us, while he talked with us by the way, and while he opened to us the scriptures?",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 26025,
+        "text": "And they rose up the same hour, and returned to Jerusalem, and found the eleven gathered together, and them that were with them,",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 26026,
+        "text": "Saying, The Lord is risen indeed, and hath appeared to Simon.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 26027,
+        "text": "And they told what things [were done] in the way, and how he was known of them in breaking of bread.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 36,
+        "count": 26028,
+        "text": "And as they thus spake, Jesus himself stood in the midst of them, and saith unto them, \"Peace [be] unto you.\"",
+        "WordCount": 21,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 37,
+        "count": 26029,
+        "text": "But they were terrified and affrighted, and supposed that they had seen a spirit.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 38,
+        "count": 26030,
+        "text": "And he said unto them, \"Why are ye troubled? and why do thoughts arise in your hearts?\"",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 39,
+        "count": 26031,
+        "text": "\"Behold my hands and my feet, that it is I myself: handle me, and see; for a spirit hath not flesh and bones, as ye see me have.\"",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 40,
+        "count": 26032,
+        "text": "And when he had thus spoken, he shewed them [his] hands and [his] feet.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 41,
+        "count": 26033,
+        "text": "And while they yet believed not for joy, and wondered, he said unto them, \"Have ye here any meat?\"",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 42,
+        "count": 26034,
+        "text": "And they gave him a piece of a broiled fish, and of an honeycomb.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 43,
+        "count": 26035,
+        "text": "And he took [it], and did eat before them.",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 44,
+        "count": 26036,
+        "text": "And he said unto them, \"These [are] the words which I spake unto you, while I was yet with you, that all things must be fulfilled, which were written in the law of Moses, and [in] the prophets, and [in] the psalms, concerning me.\"",
+        "WordCount": 44,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 45,
+        "count": 26037,
+        "text": "Then opened he their understanding, that they might understand the scriptures,",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 46,
+        "count": 26038,
+        "text": "And said unto them, \"Thus it is written, and thus it behoved Christ to suffer, and to rise from the dead the third day:\"",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 47,
+        "count": 26039,
+        "text": "\"And that repentance and remission of sins should be preached in his name among all nations, beginning at Jerusalem.\"",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 48,
+        "count": 26040,
+        "text": "\"And ye are witnesses of these things.\"",
+        "WordCount": 7,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 49,
+        "count": 26041,
+        "text": "\"And, behold, I send the promise of my Father upon you: but tarry ye in the city of Jerusalem, until ye be endued with power from on high.\"",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 50,
+        "count": 26042,
+        "text": "And he led them out as far as to Bethany, and he lifted up his hands, and blessed them.",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 51,
+        "count": 26043,
+        "text": "And it came to pass, while he blessed them, he was parted from them, and carried up into heaven.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 52,
+        "count": 26044,
+        "text": "And they worshipped him, and returned to Jerusalem with great joy:",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 53,
+        "count": 26045,
+        "text": "And were continually in the temple, praising and blessing God. Amen.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

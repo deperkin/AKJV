@@ -1,0 +1,257 @@
+{
+  "version": "AKJV",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 40,"name": "Matthew","MaxChapters": 28},
+  "chapter": {
+    "Cnumber": 18,
+    "count": 947,
+    "MaxVerses": 35,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 23729,
+        "text": "At the same time came the disciples unto Jesus, saying, Who is the greatest in the kingdom of heaven?",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 23730,
+        "text": "And Jesus called a little child unto him, and set him in the midst of them,",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 23731,
+        "text": "And said, \"Verily I say unto you, Except ye be converted, and become as little children, ye shall not enter into the kingdom of heaven.\"",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 23732,
+        "text": "\"Whosoever therefore shall humble himself as this little child, the same is greatest in the kingdom of heaven.\"",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 23733,
+        "text": "\"And whoso shall receive one such little child in my name receiveth me.\"",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 23734,
+        "text": "\"But whoso shall offend one of these little ones which believe in me, it were better for him that a millstone were hanged about his neck, and [that] he were drowned in the depth of the sea.\"",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 23735,
+        "text": "\"Woe unto the world because of offences! for it must needs be that offences come; but woe to that man by whom the offence cometh!\"",
+        "WordCount": 25,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 8,
+        "count": 23736,
+        "text": "\"Wherefore if thy hand or thy foot offend thee, cut them off, and cast [them] from thee: it is better for thee to enter into life halt or maimed, rather than having two hands or two feet to be cast into everlasting fire.\"",
+        "WordCount": 43,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 23737,
+        "text": "\"And if thine eye offend thee, pluck it out, and cast [it] from thee: it is better for thee to enter into life with one eye, rather than having two eyes to be cast into hell fire.\"",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 23738,
+        "text": "\"Take heed that ye despise not one of these little ones; for I say unto you, That in heaven their angels do always behold the face of my Father which is in heaven.\"",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 23739,
+        "text": "\"For the Son of man is come to save that which was lost.\"",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 23740,
+        "text": "\"How think ye? if a man have an hundred sheep, and one of them be gone astray, doth he not leave the ninety and nine, and goeth into the mountains, and seeketh that which is gone astray?\"",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 23741,
+        "text": "\"And if so be that he find it, verily I say unto you, he rejoiceth more of that [sheep], \"than of the ninety and nine which went not astray.\"",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 23742,
+        "text": "\"Even so it is not the will of your Father which is in heaven, that one of these little ones should perish.\"",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 23743,
+        "text": "\"Moreover if thy brother shall trespass against thee, go and tell him his fault between thee and him alone: if he shall hear thee, thou hast gained thy brother.\"",
+        "WordCount": 29,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 16,
+        "count": 23744,
+        "text": "\"But if he will not hear [thee, then] take with thee one or two more, that in the mouth of two or three witnesses every word may be established.\"",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 23745,
+        "text": "\"And if he shall neglect to hear them, tell [it] unto the church: but if he neglect to hear the church, let him be unto thee as an heathen man and a publican.\"",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 23746,
+        "text": "\"Verily I say unto you, Whatsoever ye shall bind on earth shall be bound in heaven: and whatsoever ye shall loose on earth shall be loosed in heaven.\"",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 23747,
+        "text": "\"Again I say unto you, That if two of you shall agree on earth as touching any thing that they shall ask, it shall be done for them of my Father which is in heaven.\"",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 23748,
+        "text": "\"For where two or three are gathered together in my name, there am I in the midst of them.\"",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 23749,
+        "text": "Then came Peter to him, and said, Lord, how oft shall my brother sin against me, and I forgive him? till seven times?",
+        "WordCount": 23,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 22,
+        "count": 23750,
+        "text": "Jesus saith unto him, \"I say not unto thee, Until seven times: but, Until seventy times seven.\"",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 23751,
+        "text": "\"Therefore is the kingdom of heaven likened unto a certain king, which would take account of his servants.\"",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 23752,
+        "text": "\"And when he had begun to reckon, one was brought unto him, which owed him ten thousand talents.\"",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 23753,
+        "text": "\"But forasmuch as he had not to pay, his lord commanded him to be sold, and his wife, and children, and all that he had, and payment to be made.\"",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 23754,
+        "text": "\"The servant therefore fell down, and worshipped him, saying, Lord, have patience with me, and I will pay thee all.\"",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 23755,
+        "text": "\"Then the lord of that servant was moved with compassion, and loosed him, and forgave him the debt.\"",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 23756,
+        "text": "\"But the same servant went out, and found one of his fellowservants, which owed him an hundred pence: and he laid hands on him, and took [him] by the throat, saying, Pay me that thou owest.\"",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 23757,
+        "text": "\"And his fellowservant fell down at his feet, and besought him, saying, Have patience with me, and I will pay thee all.\"",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 23758,
+        "text": "\"And he would not: but went and cast him into prison, till he should pay the debt.\"",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 23759,
+        "text": "\"So when his fellowservants saw what was done, they were very sorry, and came and told unto their lord all that was done.\"",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 23760,
+        "text": "\"Then his lord, after that he had called him, said unto him, O thou wicked servant, I forgave thee all that debt, because thou desiredst me:\"",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 23761,
+        "text": "\"Shouldest not thou also have had compassion on thy fellowservant, even as I had pity on thee?\"",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 23762,
+        "text": "\"And his lord was wroth, and delivered him to the tormentors, till he should pay all that was due unto him.\"",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 23763,
+        "text": "\"So likewise shall my heavenly Father do also unto you, if ye from your hearts forgive not every one his brother their trespasses.\"",
+        "WordCount": 23,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

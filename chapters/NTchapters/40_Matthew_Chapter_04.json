@@ -1,0 +1,187 @@
+{
+  "version": "AKJV",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 40,"name": "Matthew","MaxChapters": 28},
+  "chapter": {
+    "Cnumber": 4,
+    "count": 933,
+    "MaxVerses": 25,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 23211,
+        "text": "Then was Jesus led up of the Spirit into the wilderness to be tempted of the devil.",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 23212,
+        "text": "And when he had fasted forty days and forty nights, he was afterward an hungred.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 23213,
+        "text": "And when the tempter came to him, he said, If thou be the Son of God, command that these stones be made bread.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 23214,
+        "text": "But he answered and said, \"It is written, Man shall not live by bread alone, but by every word that proceedeth out of the mouth of God.\"",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 23215,
+        "text": "Then the devil taketh him up into the holy city, and setteth him on a pinnacle of the temple,",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 23216,
+        "text": "And saith unto him, If thou be the Son of God, cast thyself down: for it is written, He shall give his angels charge concerning thee: and in [their] hands they shall bear thee up, lest at any time thou dash thy foot against a stone.",
+        "WordCount": 46,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 23217,
+        "text": "Jesus said unto him, \"It is written again, Thou shalt not tempt the Lord thy God.\"",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 23218,
+        "text": "Again, the devil taketh him up into an exceeding high mountain, and sheweth him all the kingdoms of the world, and the glory of them;",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 23219,
+        "text": "And saith unto him, All these things will I give thee, if thou wilt fall down and worship me.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 23220,
+        "text": "Then saith Jesus unto him, \"Get thee hence, Satan: for it is written, Thou shalt worship the Lord thy God, and him only shalt thou serve.\"",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 23221,
+        "text": "Then the devil leaveth him, and, behold, angels came and ministered unto him.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 23222,
+        "text": "Now when Jesus had heard that John was cast into prison, he departed into Galilee;",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 13,
+        "count": 23223,
+        "text": "And leaving Nazareth, he came and dwelt in Capernaum, which is upon the sea coast, in the borders of Zabulon and Nephthalim:",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 23224,
+        "text": "That it might be fulfilled which was spoken by Esaias the prophet, saying,",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 23225,
+        "text": "The land of Zabulon, and the land of Nephthalim, [by] the way of the sea, beyond Jordan, Galilee of the Gentiles;",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 23226,
+        "text": "The people which sat in darkness saw great light; and to them which sat in the region and shadow of death light is sprung up.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 23227,
+        "text": "From that time Jesus began to preach, and to say, \"Repent: for the kingdom of heaven is at hand.\"",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 23228,
+        "text": "And Jesus, walking by the sea of Galilee, saw two brethren, Simon called Peter, and Andrew his brother, casting a net into the sea: for they were fishers.",
+        "WordCount": 28,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 19,
+        "count": 23229,
+        "text": "And he saith unto them, \"Follow me, and I will make you fishers of men.\"",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 23230,
+        "text": "And they straightway left [their] nets, and followed him.",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 23231,
+        "text": "And going on from thence, he saw other two brethren, James [the son] of Zebedee, and John his brother, in a ship with Zebedee their father, mending their nets; and he called them.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 23232,
+        "text": "And they immediately left the ship and their father, and followed him.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 23233,
+        "text": "And Jesus went about all Galilee, teaching in their synagogues, and preaching the gospel of the kingdom, and healing all manner of sickness and all manner of disease among the people.",
+        "WordCount": 31,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 24,
+        "count": 23234,
+        "text": "And his fame went throughout all Syria: and they brought unto him all sick people that were taken with divers diseases and torments, and those which were possessed with devils, and those which were lunatick, and those that had the palsy; and he healed them.",
+        "WordCount": 45,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 23235,
+        "text": "And there followed him great multitudes of people from Galilee, and [from] Decapolis, and [from] Jerusalem, and [from] Judaea, and [from] beyond Jordan.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

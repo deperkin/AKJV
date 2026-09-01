@@ -1,0 +1,354 @@
+{
+  "version": "AKJV",
+  "metadata": {"publisher": ""},
+  "book": {
+    "Bnumber": 56,
+    "name": "Titus",
+    "AbbreviationCount": 3,
+    "AbbreviationList": ["Titus","Tit","ti"],
+    "MaxChapters": 3,
+    "chapters": [
+        {
+          "Cnumber": 1,
+          "count": 1130,
+          "MaxVerses": 16,
+          "verses": [
+      {
+        "Vnumber": 1,
+        "count": 29894,
+        "text": "Paul, a servant of God, and an apostle of Jesus Christ, according to the faith of God's elect, and the acknowledging of the truth which is after godliness;",
+        "WordCount": 28,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 29895,
+        "text": "In hope of eternal life, which God, that cannot lie, promised before the world began;",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 29896,
+        "text": "But hath in due times manifested his word through preaching, which is committed unto me according to the commandment of God our Saviour;",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 29897,
+        "text": "To Titus, [mine] own son after the common faith: Grace, mercy, [and] peace, from God the Father and the Lord Jesus Christ our Saviour.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 29898,
+        "text": "For this cause left I thee in Crete, that thou shouldest set in order the things that are wanting, and ordain elders in every city, as I had appointed thee:",
+        "WordCount": 30,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 6,
+        "count": 29899,
+        "text": "If any be blameless, the husband of one wife, having faithful children not accused of riot or unruly.",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 7,
+        "count": 29900,
+        "text": "For a bishop must be blameless, as the steward of God; not selfwilled, not soon angry, not given to wine, no striker, not given to filthy lucre;",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 29901,
+        "text": "But a lover of hospitality, a lover of good men, sober, just, holy, temperate;",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 29902,
+        "text": "Holding fast the faithful word as he hath been taught, that he may be able by sound doctrine both to exhort and to convince the gainsayers.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 29903,
+        "text": "For there are many unruly and vain talkers and deceivers, specially they of the circumcision:",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 29904,
+        "text": "Whose mouths must be stopped, who subvert whole houses, teaching things which they ought not, for filthy lucre's sake.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 29905,
+        "text": "One of themselves, [even] a prophet of their own, said, The Cretians [are] alway liars, evil beasts, slow bellies.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 29906,
+        "text": "This witness is true. Wherefore rebuke them sharply, that they may be sound in the faith;",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 29907,
+        "text": "Not giving heed to Jewish fables, and commandments of men, that turn from the truth.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 29908,
+        "text": "Unto the pure all things [are] pure: but unto them that are defiled and unbelieving [is] nothing pure; but even their mind and conscience is defiled.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 29909,
+        "text": "They profess that they know God; but in works they deny [him], being abominable, and disobedient, and unto every good work reprobate.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      }          ]
+        },
+        {
+          "Cnumber": 2,
+          "count": 1131,
+          "MaxVerses": 15,
+          "verses": [
+      {
+        "Vnumber": 1,
+        "count": 29910,
+        "text": "But speak thou the things which become sound doctrine:",
+        "WordCount": 9,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 29911,
+        "text": "That the aged men be sober, grave, temperate, sound in faith, in charity, in patience.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 29912,
+        "text": "The aged women likewise, that [they be] in behaviour as becometh holiness, not false accusers, not given to much wine, teachers of good things;",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 29913,
+        "text": "That they may teach the young women to be sober, to love their husbands, to love their children,",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 29914,
+        "text": "[To be] discreet, chaste, keepers at home, good, obedient to their own husbands, that the word of God be not blasphemed.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 29915,
+        "text": "Young men likewise exhort to be sober minded.",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 29916,
+        "text": "In all things shewing thyself a pattern of good works: in doctrine [shewing] uncorruptness, gravity, sincerity,",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 29917,
+        "text": "Sound speech, that cannot be condemned; that he that is of the contrary part may be ashamed, having no evil thing to say of you.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 29918,
+        "text": "[Exhort] servants to be obedient unto their own masters, [and] to please [them] well in all [things]; not answering again;",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 29919,
+        "text": "Not purloining, but shewing all good fidelity; that they may adorn the doctrine of God our Saviour in all things.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 29920,
+        "text": "For the grace of God that bringeth salvation hath appeared to all men,",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 12,
+        "count": 29921,
+        "text": "Teaching us that, denying ungodliness and worldly lusts, we should live soberly, righteously, and godly, in this present world;",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 29922,
+        "text": "Looking for that blessed hope, and the glorious appearing of the great God and our Saviour Jesus Christ;",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 29923,
+        "text": "Who gave himself for us, that he might redeem us from all iniquity, and purify unto himself a peculiar people, zealous of good works.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 29924,
+        "text": "These things speak, and exhort, and rebuke with all authority. Let no man despise thee.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      }          ]
+        },
+        {
+          "Cnumber": 3,
+          "count": 1132,
+          "MaxVerses": 15,
+          "verses": [
+      {
+        "Vnumber": 1,
+        "count": 29925,
+        "text": "Put them in mind to be subject to principalities and powers, to obey magistrates, to be ready to every good work,",
+        "WordCount": 21,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 29926,
+        "text": "To speak evil of no man, to be no brawlers, [but] gentle, shewing all meekness unto all men.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 29927,
+        "text": "For we ourselves also were sometimes foolish, disobedient, deceived, serving divers lusts and pleasures, living in malice and envy, hateful, [and] hating one another.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 29928,
+        "text": "But after that the kindness and love of God our Saviour toward man appeared,",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 29929,
+        "text": "Not by works of righteousness which we have done, but according to his mercy he saved us, by the washing of regeneration, and renewing of the Holy Ghost;",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 29930,
+        "text": "Which he shed on us abundantly through Jesus Christ our Saviour;",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 29931,
+        "text": "That being justified by his grace, we should be made heirs according to the hope of eternal life.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 29932,
+        "text": "[This is] a faithful saying, and these things I will that thou affirm constantly, that they which have believed in God might be careful to maintain good works. These things are good and profitable unto men.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 29933,
+        "text": "But avoid foolish questions, and genealogies, and contentions, and strivings about the law; for they are unprofitable and vain.",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 10,
+        "count": 29934,
+        "text": "A man that is an heretick after the first and second admonition reject;",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 29935,
+        "text": "Knowing that he that is such is subverted, and sinneth, being condemned of himself.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 29936,
+        "text": "When I shall send Artemas unto thee, or Tychicus, be diligent to come unto me to Nicopolis: for I have determined there to winter.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 29937,
+        "text": "Bring Zenas the lawyer and Apollos on their journey diligently, that nothing be wanting unto them.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 29938,
+        "text": "And let ours also learn to maintain good works for necessary uses, that they be not unfruitful.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 29939,
+        "text": "All that are with me salute thee. Greet them that love us in the faith. Grace [be] with you all. Amen.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      }
+          ]
+        }
+      ]
+  }
+}

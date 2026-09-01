@@ -1,0 +1,173 @@
+{
+  "version": "AKJV",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 45,"name": "Romans","MaxChapters": 16},
+  "chapter": {
+    "Cnumber": 6,
+    "count": 1052,
+    "MaxVerses": 23,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 28070,
+        "text": "What shall we say then? Shall we continue in sin, that grace may abound?",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 28071,
+        "text": "God forbid. How shall we, that are dead to sin, live any longer therein?",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 28072,
+        "text": "Know ye not, that so many of us as were baptized into Jesus Christ were baptized into his death?",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 28073,
+        "text": "Therefore we are buried with him by baptism into death: that like as Christ was raised up from the dead by the glory of the Father, even so we also should walk in newness of life.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 28074,
+        "text": "For if we have been planted together in the likeness of his death, we shall be also [in the likeness] of [his] resurrection:",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 28075,
+        "text": "Knowing this, that our old man is crucified with [him], that the body of sin might be destroyed, that henceforth we should not serve sin.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 28076,
+        "text": "For he that is dead is freed from sin.",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 28077,
+        "text": "Now if we be dead with Christ, we believe that we shall also live with him:",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 28078,
+        "text": "Knowing that Christ being raised from the dead dieth no more; death hath no more dominion over him.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 28079,
+        "text": "For in that he died, he died unto sin once: but in that he liveth, he liveth unto God.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 28080,
+        "text": "Likewise reckon ye also yourselves to be dead indeed unto sin, but alive unto God through Jesus Christ our Lord.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 28081,
+        "text": "Let not sin therefore reign in your mortal body, that ye should obey it in the lusts thereof.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 28082,
+        "text": "Neither yield ye your members [as] instruments of unrighteousness unto sin: but yield yourselves unto God, as those that are alive from the dead, and your members [as] instruments of righteousness unto God.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 28083,
+        "text": "For sin shall not have dominion over you: for ye are not under the law, but under grace.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 28084,
+        "text": "What then? shall we sin, because we are not under the law, but under grace? God forbid.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 28085,
+        "text": "Know ye not, that to whom ye yield yourselves servants to obey, his servants ye are to whom ye obey; whether of sin unto death, or of obedience unto righteousness?",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 28086,
+        "text": "But God be thanked, that ye were the servants of sin, but ye have obeyed from the heart that form of doctrine which was delivered you.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 28087,
+        "text": "Being then made free from sin, ye became the servants of righteousness.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 28088,
+        "text": "I speak after the manner of men because of the infirmity of your flesh: for as ye have yielded your members servants to uncleanness and to iniquity unto iniquity; even so now yield your members servants to righteousness unto holiness.",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 28089,
+        "text": "For when ye were the servants of sin, ye were free from righteousness.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 28090,
+        "text": "What fruit had ye then in those things whereof ye are now ashamed? for the end of those things [is] death.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 28091,
+        "text": "But now being made free from sin, and become servants to God, ye have your fruit unto holiness, and the end everlasting life.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 28092,
+        "text": "For the wages of sin [is] death; but the gift of God [is] eternal life through Jesus Christ our Lord.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

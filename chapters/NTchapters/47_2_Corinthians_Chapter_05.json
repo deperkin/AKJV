@@ -1,0 +1,159 @@
+{
+  "version": "AKJV",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 47,"name": "2 Corinthians","MaxChapters": 13},
+  "chapter": {
+    "Cnumber": 5,
+    "count": 1083,
+    "MaxVerses": 21,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 28879,
+        "text": "For we know that if our earthly house of [this] tabernacle were dissolved, we have a building of God, an house not made with hands, eternal in the heavens.",
+        "WordCount": 29,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 28880,
+        "text": "For in this we groan, earnestly desiring to be clothed upon with our house which is from heaven:",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 28881,
+        "text": "If so be that being clothed we shall not be found naked.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 28882,
+        "text": "For we that are in [this] tabernacle do groan, being burdened: not for that we would be unclothed, but clothed upon, that mortality might be swallowed up of life.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 28883,
+        "text": "Now he that hath wrought us for the selfsame thing [is] God, who also hath given unto us the earnest of the Spirit.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 28884,
+        "text": "Therefore [we are] always confident, knowing that, whilst we are at home in the body, we are absent from the Lord:",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 28885,
+        "text": "(For we walk by faith, not by sight:)",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 28886,
+        "text": "We are confident, [I say], and willing rather to be absent from the body, and to be present with the Lord.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 28887,
+        "text": "Wherefore we labour, that, whether present or absent, we may be accepted of him.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 28888,
+        "text": "For we must all appear before the judgment seat of Christ; that every one may receive the things [done] in [his] body, according to that he hath done, whether [it be] good or bad.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 28889,
+        "text": "Knowing therefore the terror of the Lord, we persuade men; but we are made manifest unto God; and I trust also are made manifest in your consciences.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 28890,
+        "text": "For we commend not ourselves again unto you, but give you occasion to glory on our behalf, that ye may have somewhat to [answer] them which glory in appearance, and not in heart.",
+        "WordCount": 33,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 13,
+        "count": 28891,
+        "text": "For whether we be beside ourselves, [it is] to God: or whether we be sober, [it is] for your cause.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 28892,
+        "text": "For the love of Christ constraineth us; because we thus judge, that if one died for all, then were all dead:",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 28893,
+        "text": "And [that] he died for all, that they which live should not henceforth live unto themselves, but unto him which died for them, and rose again.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 28894,
+        "text": "Wherefore henceforth know we no man after the flesh: yea, though we have known Christ after the flesh, yet now henceforth know we [him] no more.",
+        "WordCount": 26,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 17,
+        "count": 28895,
+        "text": "Therefore if any man [be] in Christ, [he is] a new creature: old things are passed away; behold, all things are become new.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 28896,
+        "text": "And all things [are] of God, who hath reconciled us to himself by Jesus Christ, and hath given to us the ministry of reconciliation;",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 28897,
+        "text": "To wit, that God was in Christ, reconciling the world unto himself, not imputing their trespasses unto them; and hath committed unto us the word of reconciliation.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 28898,
+        "text": "Now then we are ambassadors for Christ, as though God did beseech [you] by us: we pray [you] in Christ's stead, be ye reconciled to God.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 28899,
+        "text": "For he hath made him [to be] sin for us, who knew no sin; that we might be made the righteousness of God in him.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

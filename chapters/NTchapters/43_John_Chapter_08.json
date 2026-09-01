@@ -1,0 +1,425 @@
+{
+  "version": "AKJV",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 43,"name": "John","MaxChapters": 21},
+  "chapter": {
+    "Cnumber": 8,
+    "count": 1005,
+    "MaxVerses": 59,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 26383,
+        "text": "Jesus went unto the mount of Olives.",
+        "WordCount": 7,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 26384,
+        "text": "And early in the morning he came again into the temple, and all the people came unto him; and he sat down, and taught them.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 26385,
+        "text": "And the scribes and Pharisees brought unto him a woman taken in adultery; and when they had set her in the midst,",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 26386,
+        "text": "They say unto him, Master, this woman was taken in adultery, in the very act.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 26387,
+        "text": "Now Moses in the law commanded us, that such should be stoned: but what sayest thou?",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 26388,
+        "text": "This they said, tempting him, that they might have to accuse him. But Jesus stooped down, and with [his] finger wrote on the ground, [as though he heard them not].",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 26389,
+        "text": "So when they continued asking him, he lifted up himself, and said unto them, \"He that is without sin among you, let him first cast a stone at her.\"",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 26390,
+        "text": "And again he stooped down, and wrote on the ground.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 26391,
+        "text": "And they which heard [it], being convicted by [their own] conscience, went out one by one, beginning at the eldest, [even] unto the last: and Jesus was left alone, and the woman standing in the midst.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 26392,
+        "text": "When Jesus had lifted up himself, and saw none but the woman, he said unto her, \"Woman, where are those thine accusers? hath no man condemned thee?\"",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 26393,
+        "text": "She said, No man, Lord. And Jesus said unto her, \"Neither do I condemn thee: go, and sin no more.\"",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 26394,
+        "text": "Then spake Jesus again unto them, saying, \"I am the light of the world: he that followeth me shall not walk in darkness, but shall have the light of life.\"",
+        "WordCount": 30,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 13,
+        "count": 26395,
+        "text": "The Pharisees therefore said unto him, Thou bearest record of thyself; thy record is not true.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 26396,
+        "text": "Jesus answered and said unto them, \"Though I bear record of myself, [yet] my record is true: for I know whence I came, and whither I go; but ye cannot tell whence I come, and whither I go.\"",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 26397,
+        "text": "\"Ye judge after the flesh; I judge no man.\"",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 26398,
+        "text": "\"And yet if I judge, my judgment is true: for I am not alone, but I and the Father that sent me.\"",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 26399,
+        "text": "\"It is also written in your law, that the testimony of two men is true.\"",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 26400,
+        "text": "\"I am one that bear witness of myself, and the Father that sent me beareth witness of me.\"",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 26401,
+        "text": "Then said they unto him, Where is thy Father? Jesus answered, \"Ye neither know me, nor my Father: if ye had known me, ye should have known my Father also.\"",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 26402,
+        "text": "These words spake Jesus in the treasury, as he taught in the temple: and no man laid hands on him; for his hour was not yet come.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 26403,
+        "text": "Then said Jesus again unto them, \"I go my way, and ye shall seek me, and shall die in your sins: whither I go, ye cannot come.\"",
+        "WordCount": 27,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 22,
+        "count": 26404,
+        "text": "Then said the Jews, Will he kill himself? because he saith, Whither I go, ye cannot come.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 26405,
+        "text": "And he said unto them, \"Ye are from beneath; I am from above: ye are of this world; I am not of this world.\"",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 26406,
+        "text": "\"I said therefore unto you, that ye shall die in your sins: for if ye believe not that I am [he], \"ye shall die in your sins.\"",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 26407,
+        "text": "Then said they unto him, Who art thou? And Jesus saith unto them, \"Even [the same] that I said unto you from the beginning.\"",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 26408,
+        "text": "\"I have many things to say and to judge of you: but he that sent me is true; and I speak to the world those things which I have heard of him.\"",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 26409,
+        "text": "They understood not that he spake to them of the Father.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 26410,
+        "text": "Then said Jesus unto them, \"When ye have lifted up the Son of man, then shall ye know that I am [he], \"and [that] I do nothing of myself; but as my Father hath taught me, I speak these things.\"",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 26411,
+        "text": "\"And he that sent me is with me: the Father hath not left me alone; for I do always those things that please him.\"",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 26412,
+        "text": "As he spake these words, many believed on him.",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 26413,
+        "text": "Then said Jesus to those Jews which believed on him, \"If ye continue in my word, [then] are ye my disciples indeed;\"",
+        "WordCount": 22,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 32,
+        "count": 26414,
+        "text": "\"And ye shall know the truth, and the truth shall make you free.\"",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 26415,
+        "text": "They answered him, We be Abraham's seed, and were never in bondage to any man: how sayest thou, Ye shall be made free?",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 26416,
+        "text": "Jesus answered them, \"Verily, verily, I say unto you, Whosoever committeth sin is the servant of sin.\"",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 26417,
+        "text": "\"And the servant abideth not in the house for ever: [but] the Son abideth ever.\"",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 36,
+        "count": 26418,
+        "text": "\"If the Son therefore shall make you free, ye shall be free indeed.\"",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 37,
+        "count": 26419,
+        "text": "\"I know that ye are Abraham's seed; but ye seek to kill me, because my word hath no place in you.\"",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 38,
+        "count": 26420,
+        "text": "\"I speak that which I have seen with my Father: and ye do that which ye have seen with your father.\"",
+        "WordCount": 21,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 39,
+        "count": 26421,
+        "text": "They answered and said unto him, Abraham is our father. Jesus saith unto them, \"If ye were Abraham's children, ye would do the works of Abraham.\"",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 40,
+        "count": 26422,
+        "text": "\"But now ye seek to kill me, a man that hath told you the truth, which I have heard of God: this did not Abraham.\"",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 41,
+        "count": 26423,
+        "text": "\"Ye do the deeds of your father.\" Then said they to him, We be not born of fornication; we have one Father, [even] God.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 42,
+        "count": 26424,
+        "text": "Jesus said unto them, \"If God were your Father, ye would love me: for I proceeded forth and came from God; neither came I of myself, but he sent me.\"",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 43,
+        "count": 26425,
+        "text": "\"Why do ye not understand my speech? [even] because ye cannot hear my word.\"",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 44,
+        "count": 26426,
+        "text": "\"Ye are of [your] father the devil, and the lusts of your father ye will do. He was a murderer from the beginning, and abode not in the truth, because there is no truth in him. When he speaketh a lie, he speaketh of his own: for he is a liar, and the father of it.\"",
+        "WordCount": 56,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 45,
+        "count": 26427,
+        "text": "\"And because I tell [you] the truth, ye believe me not.\"",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 46,
+        "count": 26428,
+        "text": "\"Which of you convinceth me of sin? And if I say the truth, why do ye not believe me?\"",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 47,
+        "count": 26429,
+        "text": "\"He that is of God heareth God's words: ye therefore hear [them] not, because ye are not of God.\"",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 48,
+        "count": 26430,
+        "text": "Then answered the Jews, and said unto him, Say we not well that thou art a Samaritan, and hast a devil?",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 49,
+        "count": 26431,
+        "text": "Jesus answered, \"I have not a devil; but I honour my Father, and ye do dishonour me.\"",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 50,
+        "count": 26432,
+        "text": "\"And I seek not mine own glory: there is one that seeketh and judgeth.\"",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 51,
+        "count": 26433,
+        "text": "\"Verily, verily, I say unto you, If a man keep my saying, he shall never see death.\"",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 52,
+        "count": 26434,
+        "text": "Then said the Jews unto him, Now we know that thou hast a devil. Abraham is dead, and the prophets; and thou sayest, If a man keep my saying, he shall never taste of death.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 53,
+        "count": 26435,
+        "text": "Art thou greater than our father Abraham, which is dead? and the prophets are dead: whom makest thou thyself?",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 54,
+        "count": 26436,
+        "text": "Jesus answered, \"If I honour myself, my honour is nothing: it is my Father that honoureth me; of whom ye say, that he is your God:\"",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 55,
+        "count": 26437,
+        "text": "\"Yet ye have not known him; but I know him: and if I should say, I know him not, I shall be a liar like unto you: but I know him, and keep his saying.\"",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 56,
+        "count": 26438,
+        "text": "\"Your father Abraham rejoiced to see my day: and he saw [it], \"and was glad.\"",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 57,
+        "count": 26439,
+        "text": "Then said the Jews unto him, Thou art not yet fifty years old, and hast thou seen Abraham?",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 58,
+        "count": 26440,
+        "text": "Jesus said unto them, \"Verily, verily, I say unto you, Before Abraham was, I am.\"",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 59,
+        "count": 26441,
+        "text": "Then took they up stones to cast at him: but Jesus hid himself, and went out of the temple, going through the midst of them, and so passed by.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

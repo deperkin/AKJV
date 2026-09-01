@@ -1,0 +1,152 @@
+{
+  "version": "AKJV",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 40,"name": "Matthew","MaxChapters": 28},
+  "chapter": {
+    "Cnumber": 28,
+    "count": 957,
+    "MaxVerses": 20,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 24197,
+        "text": "In the end of the sabbath, as it began to dawn toward the first [day] of the week, came Mary Magdalene and the other Mary to see the sepulchre.",
+        "WordCount": 29,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 24198,
+        "text": "And, behold, there was a great earthquake: for the angel of the Lord descended from heaven, and came and rolled back the stone from the door, and sat upon it.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 24199,
+        "text": "His countenance was like lightning, and his raiment white as snow:",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 24200,
+        "text": "And for fear of him the keepers did shake, and became as dead [men].",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 24201,
+        "text": "And the angel answered and said unto the women, Fear not ye: for I know that ye seek Jesus, which was crucified.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 24202,
+        "text": "He is not here: for he is risen, as he said. Come, see the place where the Lord lay.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 24203,
+        "text": "And go quickly, and tell his disciples that he is risen from the dead; and, behold, he goeth before you into Galilee; there shall ye see him: lo, I have told you.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 24204,
+        "text": "And they departed quickly from the sepulchre with fear and great joy; and did run to bring his disciples word.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 24205,
+        "text": "And as they went to tell his disciples, behold, Jesus met them, saying, \"All hail.\" And they came and held him by the feet, and worshipped him.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 24206,
+        "text": "Then said Jesus unto them, \"Be not afraid: go tell my brethren that they go into Galilee, and there shall they see me.\"",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 24207,
+        "text": "Now when they were going, behold, some of the watch came into the city, and shewed unto the chief priests all the things that were done.",
+        "WordCount": 26,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 12,
+        "count": 24208,
+        "text": "And when they were assembled with the elders, and had taken counsel, they gave large money unto the soldiers,",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 24209,
+        "text": "Saying, Say ye, His disciples came by night, and stole him [away] while we slept.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 24210,
+        "text": "And if this come to the governor's ears, we will persuade him, and secure you.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 24211,
+        "text": "So they took the money, and did as they were taught: and this saying is commonly reported among the Jews until this day.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 24212,
+        "text": "Then the eleven disciples went away into Galilee, into a mountain where Jesus had appointed them.",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 17,
+        "count": 24213,
+        "text": "And when they saw him, they worshipped him: but some doubted.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 24214,
+        "text": "And Jesus came and spake unto them, saying, \"All power is given unto me in heaven and in earth.\"",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 24215,
+        "text": "\"Go ye therefore, and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost:\"",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 24216,
+        "text": "\"Teaching them to observe all things whatsoever I have commanded you: and, lo, I am with you alway, [even] unto the end of the world.\" Amen.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

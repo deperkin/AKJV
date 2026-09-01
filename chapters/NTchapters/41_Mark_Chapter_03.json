@@ -1,0 +1,257 @@
+{
+  "version": "AKJV",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 41,"name": "Mark","MaxChapters": 16},
+  "chapter": {
+    "Cnumber": 3,
+    "count": 960,
+    "MaxVerses": 35,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 24290,
+        "text": "And he entered again into the synagogue; and there was a man there which had a withered hand.",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 24291,
+        "text": "And they watched him, whether he would heal him on the sabbath day; that they might accuse him.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 24292,
+        "text": "And he saith unto the man which had the withered hand, \"Stand forth.\"",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 24293,
+        "text": "And he saith unto them, \"Is it lawful to do good on the sabbath days, or to do evil? to save life, or to kill?\" But they held their peace.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 24294,
+        "text": "And when he had looked round about on them with anger, being grieved for the hardness of their hearts, he saith unto the man, \"Stretch forth thine hand.\" And he stretched [it] out: and his hand was restored whole as the other.",
+        "WordCount": 42,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 24295,
+        "text": "And the Pharisees went forth, and straightway took counsel with the Herodians against him, how they might destroy him.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 24296,
+        "text": "But Jesus withdrew himself with his disciples to the sea: and a great multitude from Galilee followed him, and from Judaea,",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 24297,
+        "text": "And from Jerusalem, and from Idumaea, and [from] beyond Jordan; and they about Tyre and Sidon, a great multitude, when they had heard what great things he did, came unto him.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 24298,
+        "text": "And he spake to his disciples, that a small ship should wait on him because of the multitude, lest they should throng him.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 24299,
+        "text": "For he had healed many; insomuch that they pressed upon him for to touch him, as many as had plagues.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 24300,
+        "text": "And unclean spirits, when they saw him, fell down before him, and cried, saying, Thou art the Son of God.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 24301,
+        "text": "And he straitly charged them that they should not make him known.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 24302,
+        "text": "And he goeth up into a mountain, and calleth [unto him] whom he would: and they came unto him.",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 14,
+        "count": 24303,
+        "text": "And he ordained twelve, that they should be with him, and that he might send them forth to preach,",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 24304,
+        "text": "And to have power to heal sicknesses, and to cast out devils:",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 24305,
+        "text": "And Simon he surnamed Peter;",
+        "WordCount": 5,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 24306,
+        "text": "And James the [son] of Zebedee, and John the brother of James; and he surnamed them Boanerges, which is, The sons of thunder:",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 24307,
+        "text": "And Andrew, and Philip, and Bartholomew, and Matthew, and Thomas, and James the [son] of Alphaeus, and Thaddaeus, and Simon the Canaanite,",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 24308,
+        "text": "And Judas Iscariot, which also betrayed him: and they went into an house.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 24309,
+        "text": "And the multitude cometh together again, so that they could not so much as eat bread.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 24310,
+        "text": "And when his friends heard [of it], they went out to lay hold on him: for they said, He is beside himself.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 24311,
+        "text": "And the scribes which came down from Jerusalem said, He hath Beelzebub, and by the prince of the devils casteth he out devils.",
+        "WordCount": 23,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 23,
+        "count": 24312,
+        "text": "And he called them [unto him], and said unto them in parables, \"How can Satan cast out Satan?\"",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 24313,
+        "text": "\"And if a kingdom be divided against itself, that kingdom cannot stand.\"",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 24314,
+        "text": "\"And if a house be divided against itself, that house cannot stand.\"",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 24315,
+        "text": "\"And if Satan rise up against himself, and be divided, he cannot stand, but hath an end.\"",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 24316,
+        "text": "\"No man can enter into a strong man's house, and spoil his goods, except he will first bind the strong man; and then he will spoil his house.\"",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 24317,
+        "text": "\"Verily I say unto you, All sins shall be forgiven unto the sons of men, and blasphemies wherewith soever they shall blaspheme:\"",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 24318,
+        "text": "\"But he that shall blaspheme against the Holy Ghost hath never forgiveness, but is in danger of eternal damnation:\"",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 24319,
+        "text": "Because they said, He hath an unclean spirit.",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 24320,
+        "text": "There came then his brethren and his mother, and, standing without, sent unto him, calling him.",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 32,
+        "count": 24321,
+        "text": "And the multitude sat about him, and they said unto him, Behold, thy mother and thy brethren without seek for thee.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 24322,
+        "text": "And he answered them, saying, \"Who is my mother, or my brethren?\"",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 24323,
+        "text": "And he looked round about on them which sat about him, and said, \"Behold my mother and my brethren!\"",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 24324,
+        "text": "\"For whosoever shall do the will of God, the same is my brother, and my sister, and mother.\"",
+        "WordCount": 18,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,362 @@
+{
+  "version": "AKJV",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 41,"name": "Mark","MaxChapters": 16},
+  "chapter": {
+    "Cnumber": 9,
+    "count": 966,
+    "MaxVerses": 50,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 24540,
+        "text": "And he said unto them, \"Verily I say unto you, That there be some of them that stand here, which shall not taste of death, till they have seen the kingdom of God come with power.\"",
+        "WordCount": 36,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 24541,
+        "text": "And after six days Jesus taketh [with him] Peter, and James, and John, and leadeth them up into an high mountain apart by themselves: and he was transfigured before them.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 24542,
+        "text": "And his raiment became shining, exceeding white as snow; so as no fuller on earth can white them.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 24543,
+        "text": "And there appeared unto them Elias with Moses: and they were talking with Jesus.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 24544,
+        "text": "And Peter answered and said to Jesus, Master, it is good for us to be here: and let us make three tabernacles; one for thee, and one for Moses, and one for Elias.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 24545,
+        "text": "For he wist not what to say; for they were sore afraid.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 24546,
+        "text": "And there was a cloud that overshadowed them: and a voice came out of the cloud, saying, This is my beloved Son: hear him.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 24547,
+        "text": "And suddenly, when they had looked round about, they saw no man any more, save Jesus only with themselves.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 24548,
+        "text": "And as they came down from the mountain, he charged them that they should tell no man what things they had seen, till the Son of man were risen from the dead.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 24549,
+        "text": "And they kept that saying with themselves, questioning one with another what the rising from the dead should mean.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 24550,
+        "text": "And they asked him, saying, Why say the scribes that Elias must first come?",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 24551,
+        "text": "And he answered and told them, \"Elias verily cometh first, and restoreth all things; and how it is written of the Son of man, that he must suffer many things, and be set at nought.\"",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 24552,
+        "text": "\"But I say unto you, That Elias is indeed come, and they have done unto him whatsoever they listed, as it is written of him.\"",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 24553,
+        "text": "And when he came to [his] disciples, he saw a great multitude about them, and the scribes questioning with them.",
+        "WordCount": 20,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 15,
+        "count": 24554,
+        "text": "And straightway all the people, when they beheld him, were greatly amazed, and running to [him] saluted him.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 24555,
+        "text": "And he asked the scribes, \"What question ye with them?\"",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 24556,
+        "text": "And one of the multitude answered and said, Master, I have brought unto thee my son, which hath a dumb spirit;",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 24557,
+        "text": "And wheresoever he taketh him, he teareth him: and he foameth, and gnasheth with his teeth, and pineth away: and I spake to thy disciples that they should cast him out; and they could not.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 24558,
+        "text": "He answereth him, and saith, \"O faithless generation, how long shall I be with you? how long shall I suffer you? bring him unto me.\"",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 24559,
+        "text": "And they brought him unto him: and when he saw him, straightway the spirit tare him; and he fell on the ground, and wallowed foaming.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 24560,
+        "text": "And he asked his father, \"How long is it ago since this came unto him?\" And he said, Of a child.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 24561,
+        "text": "And ofttimes it hath cast him into the fire, and into the waters, to destroy him: but if thou canst do any thing, have compassion on us, and help us.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 24562,
+        "text": "Jesus said unto him, \"If thou canst believe, all things [are] possible to him that believeth.\"",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 24563,
+        "text": "And straightway the father of the child cried out, and said with tears, Lord, I believe; help thou mine unbelief.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 24564,
+        "text": "When Jesus saw that the people came running together, he rebuked the foul spirit, saying unto him, [Thou] dumb and deaf spirit, I charge thee, come out of him, and enter no more into him.\"",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 24565,
+        "text": "And [the spirit] cried, and rent him sore, and came out of him: and he was as one dead; insomuch that many said, He is dead.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 24566,
+        "text": "But Jesus took him by the hand, and lifted him up; and he arose.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 24567,
+        "text": "And when he was come into the house, his disciples asked him privately, Why could not we cast him out?",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 24568,
+        "text": "And he said unto them, \"This kind can come forth by nothing, but by prayer and fasting.\"",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 24569,
+        "text": "And they departed thence, and passed through Galilee; and he would not that any man should know [it].",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 31,
+        "count": 24570,
+        "text": "For he taught his disciples, and said unto them, \"The Son of man is delivered into the hands of men, and they shall kill him; and after that he is killed, he shall rise the third day.\"",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 24571,
+        "text": "But they understood not that saying, and were afraid to ask him.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 24572,
+        "text": "And he came to Capernaum: and being in the house he asked them, \"What was it that ye disputed among yourselves by the way?\"",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 24573,
+        "text": "But they held their peace: for by the way they had disputed among themselves, who [should be] the greatest.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 24574,
+        "text": "And he sat down, and called the twelve, and saith unto them, \"If any man desire to be first, [the same] shall be last of all, and servant of all.\"",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 36,
+        "count": 24575,
+        "text": "And he took a child, and set him in the midst of them: and when he had taken him in his arms, he said unto them,",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 37,
+        "count": 24576,
+        "text": "\"Whosoever shall receive one of such children in my name, receiveth me: and whosoever shall receive me, receiveth not me, but him that sent me.\"",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 38,
+        "count": 24577,
+        "text": "And John answered him, saying, Master, we saw one casting out devils in thy name, and he followeth not us: and we forbad him, because he followeth not us.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 39,
+        "count": 24578,
+        "text": "But Jesus said, \"Forbid him not: for there is no man which shall do a miracle in my name, that can lightly speak evil of me.\"",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 40,
+        "count": 24579,
+        "text": "\"For he that is not against us is on our part.\"",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 41,
+        "count": 24580,
+        "text": "\"For whosoever shall give you a cup of water to drink in my name, because ye belong to Christ, verily I say unto you, he shall not lose his reward.\"",
+        "WordCount": 30,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 42,
+        "count": 24581,
+        "text": "\"And whosoever shall offend one of [these] little ones that believe in me, it is better for him that a millstone were hanged about his neck, and he were cast into the sea.\"",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 43,
+        "count": 24582,
+        "text": "\"And if thy hand offend thee, cut it off: it is better for thee to enter into life maimed, than having two hands to go into hell, into the fire that never shall be quenched:\"",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 44,
+        "count": 24583,
+        "text": "\"Where their worm dieth not, and the fire is not quenched.\"",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 45,
+        "count": 24584,
+        "text": "\"And if thy foot offend thee, cut it off: it is better for thee to enter halt into life, than having two feet to be cast into hell, into the fire that never shall be quenched:\"",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 46,
+        "count": 24585,
+        "text": "\"Where their worm dieth not, and the fire is not quenched.\"",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 47,
+        "count": 24586,
+        "text": "\"And if thine eye offend thee, pluck it out: it is better for thee to enter into the kingdom of God with one eye, than having two eyes to be cast into hell fire:\"",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 48,
+        "count": 24587,
+        "text": "\"Where their worm dieth not, and the fire is not quenched.\"",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 49,
+        "count": 24588,
+        "text": "\"For every one shall be salted with fire, and every sacrifice shall be salted with salt.\"",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 50,
+        "count": 24589,
+        "text": "\"Salt [is] good: but if the salt have lost his saltness, wherewith will ye season it? Have salt in yourselves, and have peace one with another.\"",
+        "WordCount": 26,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

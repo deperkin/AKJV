@@ -1,0 +1,124 @@
+{
+  "version": "AKJV",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 54,"name": "1 Timothy","MaxChapters": 6},
+  "chapter": {
+    "Cnumber": 3,
+    "count": 1122,
+    "MaxVerses": 16,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 29733,
+        "text": "This [is] a true saying, If a man desire the office of a bishop, he desireth a good work.",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 29734,
+        "text": "A bishop then must be blameless, the husband of one wife, vigilant, sober, of good behaviour, given to hospitality, apt to teach;",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 29735,
+        "text": "Not given to wine, no striker, not greedy of filthy lucre; but patient, not a brawler, not covetous;",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 29736,
+        "text": "One that ruleth well his own house, having his children in subjection with all gravity;",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 29737,
+        "text": "(For if a man know not how to rule his own house, how shall he take care of the church of God?)",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 29738,
+        "text": "Not a novice, lest being lifted up with pride he fall into the condemnation of the devil.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 29739,
+        "text": "Moreover he must have a good report of them which are without; lest he fall into reproach and the snare of the devil.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 29740,
+        "text": "Likewise [must] the deacons [be] grave, not doubletongued, not given to much wine, not greedy of filthy lucre;",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 9,
+        "count": 29741,
+        "text": "Holding the mystery of the faith in a pure conscience.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 29742,
+        "text": "And let these also first be proved; then let them use the office of a deacon, being [found] blameless.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 29743,
+        "text": "Even so [must their] wives [be] grave, not slanderers, sober, faithful in all things.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 29744,
+        "text": "Let the deacons be the husbands of one wife, ruling their children and their own houses well.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 29745,
+        "text": "For they that have used the office of a deacon well purchase to themselves a good degree, and great boldness in the faith which is in Christ Jesus.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 29746,
+        "text": "These things write I unto thee, hoping to come unto thee shortly:",
+        "WordCount": 12,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 15,
+        "count": 29747,
+        "text": "But if I tarry long, that thou mayest know how thou oughtest to behave thyself in the house of God, which is the church of the living God, the pillar and ground of the truth.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 29748,
+        "text": "And without controversy great is the mystery of godliness: God was manifest in the flesh, justified in the Spirit, seen of angels, preached unto the Gentiles, believed on in the world, received up into glory.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,292 @@
+{
+  "version": "AKJV",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 44,"name": "Acts","MaxChapters": 28},
+  "chapter": {
+    "Cnumber": 21,
+    "count": 1039,
+    "MaxVerses": 40,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 27666,
+        "text": "And it came to pass, that after we were gotten from them, and had launched, we came with a straight course unto Coos, and the [day] following unto Rhodes, and from thence unto Patara:",
+        "WordCount": 34,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 27667,
+        "text": "And finding a ship sailing over unto Phenicia, we went aboard, and set forth.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 27668,
+        "text": "Now when we had discovered Cyprus, we left it on the left hand, and sailed into Syria, and landed at Tyre: for there the ship was to unlade her burden.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 27669,
+        "text": "And finding disciples, we tarried there seven days: who said to Paul through the Spirit, that he should not go up to Jerusalem.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 27670,
+        "text": "And when we had accomplished those days, we departed and went our way; and they all brought us on our way, with wives and children, till [we were] out of the city: and we kneeled down on the shore, and prayed.",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 27671,
+        "text": "And when we had taken our leave one of another, we took ship; and they returned home again.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 27672,
+        "text": "And when we had finished [our] course from Tyre, we came to Ptolemais, and saluted the brethren, and abode with them one day.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 27673,
+        "text": "And the next [day] we that were of Paul's company departed, and came unto Caesarea: and we entered into the house of Philip the evangelist, which was [one] of the seven; and abode with him.",
+        "WordCount": 35,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 9,
+        "count": 27674,
+        "text": "And the same man had four daughters, virgins, which did prophesy.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 27675,
+        "text": "And as we tarried [there] many days, there came down from Judaea a certain prophet, named Agabus.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 27676,
+        "text": "And when he was come unto us, he took Paul's girdle, and bound his own hands and feet, and said, Thus saith the Holy Ghost, So shall the Jews at Jerusalem bind the man that owneth this girdle, and shall deliver [him] into the hands of the Gentiles.",
+        "WordCount": 48,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 27677,
+        "text": "And when we heard these things, both we, and they of that place, besought him not to go up to Jerusalem.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 27678,
+        "text": "Then Paul answered, What mean ye to weep and to break mine heart? for I am ready not to be bound only, but also to die at Jerusalem for the name of the Lord Jesus.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 27679,
+        "text": "And when he would not be persuaded, we ceased, saying, The will of the Lord be done.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 27680,
+        "text": "And after those days we took up our carriages, and went up to Jerusalem.",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 16,
+        "count": 27681,
+        "text": "There went with us also [certain] of the disciples of Caesarea, and brought with them one Mnason of Cyprus, an old disciple, with whom we should lodge.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 27682,
+        "text": "And when we were come to Jerusalem, the brethren received us gladly.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 27683,
+        "text": "And the [day] following Paul went in with us unto James; and all the elders were present.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 27684,
+        "text": "And when he had saluted them, he declared particularly what things God had wrought among the Gentiles by his ministry.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 27685,
+        "text": "And when they heard [it], they glorified the Lord, and said unto him, Thou seest, brother, how many thousands of Jews there are which believe; and they are all zealous of the law:",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 27686,
+        "text": "And they are informed of thee, that thou teachest all the Jews which are among the Gentiles to forsake Moses, saying that they ought not to circumcise [their] children, neither to walk after the customs.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 27687,
+        "text": "What is it therefore? the multitude must needs come together: for they will hear that thou art come.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 27688,
+        "text": "Do therefore this that we say to thee: We have four men which have a vow on them;",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 27689,
+        "text": "Them take, and purify thyself with them, and be at charges with them, that they may shave [their] heads: and all may know that those things, whereof they were informed concerning thee, are nothing; but [that] thou thyself also walkest orderly, and keepest the law.",
+        "WordCount": 45,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 27690,
+        "text": "As touching the Gentiles which believe, we have written [and] concluded that they observe no such thing, save only that they keep themselves from [things] offered to idols, and from blood, and from strangled, and from fornication.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 27691,
+        "text": "Then Paul took the men, and the next day purifying himself with them entered into the temple, to signify the accomplishment of the days of purification, until that an offering should be offered for every one of them.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 27692,
+        "text": "And when the seven days were almost ended, the Jews which were of Asia, when they saw him in the temple, stirred up all the people, and laid hands on him,",
+        "WordCount": 31,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 28,
+        "count": 27693,
+        "text": "Crying out, Men of Israel, help: This is the man, that teacheth all [men] every where against the people, and the law, and this place: and further brought Greeks also into the temple, and hath polluted this holy place.",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 27694,
+        "text": "(For they had seen before with him in the city Trophimus an Ephesian, whom they supposed that Paul had brought into the temple.)",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 27695,
+        "text": "And all the city was moved, and the people ran together: and they took Paul, and drew him out of the temple: and forthwith the doors were shut.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 27696,
+        "text": "And as they went about to kill him, tidings came unto the chief captain of the band, that all Jerusalem was in an uproar.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 27697,
+        "text": "Who immediately took soldiers and centurions, and ran down unto them: and when they saw the chief captain and the soldiers, they left beating of Paul.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 27698,
+        "text": "Then the chief captain came near, and took him, and commanded [him] to be bound with two chains; and demanded who he was, and what he had done.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 27699,
+        "text": "And some cried one thing, some another, among the multitude: and when he could not know the certainty for the tumult, he commanded him to be carried into the castle.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 27700,
+        "text": "And when he came upon the stairs, so it was, that he was borne of the soldiers for the violence of the people.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 36,
+        "count": 27701,
+        "text": "For the multitude of the people followed after, crying, Away with him.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 37,
+        "count": 27702,
+        "text": "And as Paul was to be led into the castle, he said unto the chief captain, May I speak unto thee? Who said, Canst thou speak Greek?",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 38,
+        "count": 27703,
+        "text": "Art not thou that Egyptian, which before these days madest an uproar, and leddest out into the wilderness four thousand men that were murderers?",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 39,
+        "count": 27704,
+        "text": "But Paul said, I am a man [which am] a Jew of Tarsus, [a city] in Cilicia, a citizen of no mean city: and, I beseech thee, suffer me to speak unto the people.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 40,
+        "count": 27705,
+        "text": "And when he had given him licence, Paul stood on the stairs, and beckoned with the hand unto the people. And when there was made a great silence, he spake unto [them] in the Hebrew tongue, saying,",
+        "WordCount": 37,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

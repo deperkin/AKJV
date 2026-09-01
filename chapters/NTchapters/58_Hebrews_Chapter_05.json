@@ -1,0 +1,110 @@
+{
+  "version": "AKJV",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 58,"name": "Hebrews","MaxChapters": 13},
+  "chapter": {
+    "Cnumber": 5,
+    "count": 1138,
+    "MaxVerses": 14,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 30032,
+        "text": "For every high priest taken from among men is ordained for men in things [pertaining] to God, that he may offer both gifts and sacrifices for sins:",
+        "WordCount": 27,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 30033,
+        "text": "Who can have compassion on the ignorant, and on them that are out of the way; for that he himself also is compassed with infirmity.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 30034,
+        "text": "And by reason hereof he ought, as for the people, so also for himself, to offer for sins.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 30035,
+        "text": "And no man taketh this honour unto himself, but he that is called of God, as [was] Aaron.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 30036,
+        "text": "So also Christ glorified not himself to be made an high priest; but he that said unto him, Thou art my Son, to day have I begotten thee.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 30037,
+        "text": "As he saith also in another [place], Thou [art] a priest for ever after the order of Melchisedec.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 30038,
+        "text": "Who in the days of his flesh, when he had offered up prayers and supplications with strong crying and tears unto him that was able to save him from death, and was heard in that he feared;",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 30039,
+        "text": "Though he were a Son, yet learned he obedience by the things which he suffered;",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 30040,
+        "text": "And being made perfect, he became the author of eternal salvation unto all them that obey him;",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 30041,
+        "text": "Called of God an high priest after the order of Melchisedec.",
+        "WordCount": 11,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 11,
+        "count": 30042,
+        "text": "Of whom we have many things to say, and hard to be uttered, seeing ye are dull of hearing.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 30043,
+        "text": "For when for the time ye ought to be teachers, ye have need that one teach you again which [be] the first principles of the oracles of God; and are become such as have need of milk, and not of strong meat.",
+        "WordCount": 42,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 30044,
+        "text": "For every one that useth milk [is] unskilful in the word of righteousness: for he is a babe.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 30045,
+        "text": "But strong meat belongeth to them that are of full age, [even] those who by reason of use have their senses exercised to discern both good and evil.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

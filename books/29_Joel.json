@@ -1,0 +1,543 @@
+{
+  "version": "AKJV",
+  "metadata": {"publisher": ""},
+  "book": {
+    "Bnumber": 29,
+    "name": "Joel",
+    "AbbreviationCount": 2,
+    "AbbreviationList": ["Joel","Jl."],
+    "MaxChapters": 3,
+    "chapters": [
+        {
+          "Cnumber": 1,
+          "count": 877,
+          "MaxVerses": 20,
+          "verses": [
+      {
+        "Vnumber": 1,
+        "count": 22293,
+        "text": "The word of the LORD that came to Joel the son of Pethuel.",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 22294,
+        "text": "Hear this, ye old men, and give ear, all ye inhabitants of the land. Hath this been in your days, or even in the days of your fathers?",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 22295,
+        "text": "Tell ye your children of it, and [let] your children [tell] their children, and their children another generation.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 22296,
+        "text": "That which the palmerworm hath left hath the locust eaten; and that which the locust hath left hath the cankerworm eaten; and that which the cankerworm hath left hath the caterpiller eaten.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 22297,
+        "text": "Awake, ye drunkards, and weep; and howl, all ye drinkers of wine, because of the new wine; for it is cut off from your mouth.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 22298,
+        "text": "For a nation is come up upon my land, strong, and without number, whose teeth [are] the teeth of a lion, and he hath the cheek teeth of a great lion.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 22299,
+        "text": "He hath laid my vine waste, and barked my fig tree: he hath made it clean bare, and cast [it] away; the branches thereof are made white.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 22300,
+        "text": "Lament like a virgin girded with sackcloth for the husband of her youth.",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 9,
+        "count": 22301,
+        "text": "The meat offering and the drink offering is cut off from the house of the LORD; the priests, the LORD'S ministers, mourn.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 22302,
+        "text": "The field is wasted, the land mourneth; for the corn is wasted: the new wine is dried up, the oil languisheth.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 22303,
+        "text": "Be ye ashamed, O ye husbandmen; howl, O ye vinedressers, for the wheat and for the barley; because the harvest of the field is perished.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 22304,
+        "text": "The vine is dried up, and the fig tree languisheth; the pomegranate tree, the palm tree also, and the apple tree, [even] all the trees of the field, are withered: because joy is withered away from the sons of men.",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 22305,
+        "text": "Gird yourselves, and lament, ye priests: howl, ye ministers of the altar: come, lie all night in sackcloth, ye ministers of my God: for the meat offering and the drink offering is withholden from the house of your God.",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 22306,
+        "text": "Sanctify ye a fast, call a solemn assembly, gather the elders [and] all the inhabitants of the land [into] the house of the LORD your God, and cry unto the LORD,",
+        "WordCount": 31,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 15,
+        "count": 22307,
+        "text": "Alas for the day! for the day of the LORD [is] at hand, and as a destruction from the Almighty shall it come.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 22308,
+        "text": "Is not the meat cut off before our eyes, [yea], joy and gladness from the house of our God?",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 22309,
+        "text": "The seed is rotten under their clods, the garners are laid desolate, the barns are broken down; for the corn is withered.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 22310,
+        "text": "How do the beasts groan! the herds of cattle are perplexed, because they have no pasture; yea, the flocks of sheep are made desolate.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 22311,
+        "text": "O LORD, to thee will I cry: for the fire hath devoured the pastures of the wilderness, and the flame hath burned all the trees of the field.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 22312,
+        "text": "The beasts of the field cry also unto thee: for the rivers of waters are dried up, and the fire hath devoured the pastures of the wilderness.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      }          ]
+        },
+        {
+          "Cnumber": 2,
+          "count": 878,
+          "MaxVerses": 32,
+          "verses": [
+      {
+        "Vnumber": 1,
+        "count": 22313,
+        "text": "Blow ye the trumpet in Zion, and sound an alarm in my holy mountain: let all the inhabitants of the land tremble: for the day of the LORD cometh, for [it is] nigh at hand;",
+        "WordCount": 35,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 22314,
+        "text": "A day of darkness and of gloominess, a day of clouds and of thick darkness, as the morning spread upon the mountains: a great people and a strong; there hath not been ever the like, neither shall be any more after it, [even] to the years of many generations.",
+        "WordCount": 49,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 22315,
+        "text": "A fire devoureth before them; and behind them a flame burneth: the land [is] as the garden of Eden before them, and behind them a desolate wilderness; yea, and nothing shall escape them.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 22316,
+        "text": "The appearance of them [is] as the appearance of horses; and as horsemen, so shall they run.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 22317,
+        "text": "Like the noise of chariots on the tops of mountains shall they leap, like the noise of a flame of fire that devoureth the stubble, as a strong people set in battle array.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 22318,
+        "text": "Before their face the people shall be much pained: all faces shall gather blackness.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 22319,
+        "text": "They shall run like mighty men; they shall climb the wall like men of war; and they shall march every one on his ways, and they shall not break their ranks:",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 22320,
+        "text": "Neither shall one thrust another; they shall walk every one in his path: and [when] they fall upon the sword, they shall not be wounded.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 22321,
+        "text": "They shall run to and fro in the city; they shall run upon the wall, they shall climb up upon the houses; they shall enter in at the windows like a thief.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 22322,
+        "text": "The earth shall quake before them; the heavens shall tremble: the sun and the moon shall be dark, and the stars shall withdraw their shining:",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 22323,
+        "text": "And the LORD shall utter his voice before his army: for his camp [is] very great: for [he is] strong that executeth his word: for the day of the LORD [is] great and very terrible; and who can abide it?",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 22324,
+        "text": "Therefore also now, saith the LORD, turn ye [even] to me with all your heart, and with fasting, and with weeping, and with mourning:",
+        "WordCount": 24,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 13,
+        "count": 22325,
+        "text": "And rend your heart, and not your garments, and turn unto the LORD your God: for he [is] gracious and merciful, slow to anger, and of great kindness, and repenteth him of the evil.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 22326,
+        "text": "Who knoweth [if] he will return and repent, and leave a blessing behind him; [even] a meat offering and a drink offering unto the LORD your God?",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 22327,
+        "text": "Blow the trumpet in Zion, sanctify a fast, call a solemn assembly:",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 22328,
+        "text": "Gather the people, sanctify the congregation, assemble the elders, gather the children, and those that suck the breasts: let the bridegroom go forth of his chamber, and the bride out of her closet.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 22329,
+        "text": "Let the priests, the ministers of the LORD, weep between the porch and the altar, and let them say, Spare thy people, O LORD, and give not thine heritage to reproach, that the heathen should rule over them: wherefore should they say among the people, Where [is] their God?",
+        "WordCount": 49,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 22330,
+        "text": "Then will the LORD be jealous for his land, and pity his people.",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 19,
+        "count": 22331,
+        "text": "Yea, the LORD will answer and say unto his people, Behold, I will send you corn, and wine, and oil, and ye shall be satisfied therewith: and I will no more make you a reproach among the heathen:",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 22332,
+        "text": "But I will remove far off from you the northern [army], and will drive him into a land barren and desolate, with his face toward the east sea, and his hinder part toward the utmost sea, and his stink shall come up, and his ill savour shall come up, because he hath done great things.",
+        "WordCount": 55,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 22333,
+        "text": "Fear not, O land; be glad and rejoice: for the LORD will do great things.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 22334,
+        "text": "Be not afraid, ye beasts of the field: for the pastures of the wilderness do spring, for the tree beareth her fruit, the fig tree and the vine do yield their strength.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 22335,
+        "text": "Be glad then, ye children of Zion, and rejoice in the LORD your God: for he hath given you the former rain moderately, and he will cause to come down for you the rain, the former rain, and the latter rain in the first [month].",
+        "WordCount": 45,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 22336,
+        "text": "And the floors shall be full of wheat, and the fats shall overflow with wine and oil.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 22337,
+        "text": "And I will restore to you the years that the locust hath eaten, the cankerworm, and the caterpiller, and the palmerworm, my great army which I sent among you.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 22338,
+        "text": "And ye shall eat in plenty, and be satisfied, and praise the name of the LORD your God, that hath dealt wondrously with you: and my people shall never be ashamed.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 22339,
+        "text": "And ye shall know that I [am] in the midst of Israel, and [that] I [am] the LORD your God, and none else: and my people shall never be ashamed.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 22340,
+        "text": "And it shall come to pass afterward, [that] I will pour out my spirit upon all flesh; and your sons and your daughters shall prophesy, your old men shall dream dreams, your young men shall see visions:",
+        "WordCount": 37,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 29,
+        "count": 22341,
+        "text": "And also upon the servants and upon the handmaids in those days will I pour out my spirit.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 22342,
+        "text": "And I will shew wonders in the heavens and in the earth, blood, and fire, and pillars of smoke.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 22343,
+        "text": "The sun shall be turned into darkness, and the moon into blood, before the great and the terrible day of the LORD come.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 22344,
+        "text": "And it shall come to pass, [that] whosoever shall call on the name of the LORD shall be delivered: for in mount Zion and in Jerusalem shall be deliverance, as the LORD hath said, and in the remnant whom the LORD shall call.",
+        "WordCount": 43,
+        "StartsParagraph": false
+      }          ]
+        },
+        {
+          "Cnumber": 3,
+          "count": 879,
+          "MaxVerses": 21,
+          "verses": [
+      {
+        "Vnumber": 1,
+        "count": 22345,
+        "text": "For, behold, in those days, and in that time, when I shall bring again the captivity of Judah and Jerusalem,",
+        "WordCount": 20,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 22346,
+        "text": "I will also gather all nations, and will bring them down into the valley of Jehoshaphat, and will plead with them there for my people and [for] my heritage Israel, whom they have scattered among the nations, and parted my land.",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 22347,
+        "text": "And they have cast lots for my people; and have given a boy for an harlot, and sold a girl for wine, that they might drink.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 22348,
+        "text": "Yea, and what have ye to do with me, O Tyre, and Zidon, and all the coasts of Palestine? will ye render me a recompence? and if ye recompense me, swiftly [and] speedily will I return your recompence upon your own head;",
+        "WordCount": 42,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 22349,
+        "text": "Because ye have taken my silver and my gold, and have carried into your temples my goodly pleasant things:",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 22350,
+        "text": "The children also of Judah and the children of Jerusalem have ye sold unto the Grecians, that ye might remove them far from their border.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 22351,
+        "text": "Behold, I will raise them out of the place whither ye have sold them, and will return your recompence upon your own head:",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 22352,
+        "text": "And I will sell your sons and your daughters into the hand of the children of Judah, and they shall sell them to the Sabeans, to a people far off: for the LORD hath spoken [it].",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 22353,
+        "text": "Proclaim ye this among the Gentiles; Prepare war, wake up the mighty men, let all the men of war draw near; let them come up:",
+        "WordCount": 25,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 10,
+        "count": 22354,
+        "text": "Beat your plowshares into swords, and your pruninghooks into spears: let the weak say, I [am] strong.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 22355,
+        "text": "Assemble yourselves, and come, all ye heathen, and gather yourselves together round about: thither cause thy mighty ones to come down, O LORD.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 22356,
+        "text": "Let the heathen be wakened, and come up to the valley of Jehoshaphat: for there will I sit to judge all the heathen round about.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 22357,
+        "text": "Put ye in the sickle, for the harvest is ripe: come, get you down; for the press is full, the fats overflow; for their wickedness [is] great.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 22358,
+        "text": "Multitudes, multitudes in the valley of decision: for the day of the LORD [is] near in the valley of decision.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 22359,
+        "text": "The sun and the moon shall be darkened, and the stars shall withdraw their shining.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 22360,
+        "text": "The LORD also shall roar out of Zion, and utter his voice from Jerusalem; and the heavens and the earth shall shake: but the LORD [will be] the hope of his people, and the strength of the children of Israel.",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 22361,
+        "text": "So shall ye know that I [am] the LORD your God dwelling in Zion, my holy mountain: then shall Jerusalem be holy, and there shall no strangers pass through her any more.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 22362,
+        "text": "And it shall come to pass in that day, [that] the mountains shall drop down new wine, and the hills shall flow with milk, and all the rivers of Judah shall flow with waters, and a fountain shall come forth of the house of the LORD, and shall water the valley of Shittim.",
+        "WordCount": 53,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 19,
+        "count": 22363,
+        "text": "Egypt shall be a desolation, and Edom shall be a desolate wilderness, for the violence [against] the children of Judah, because they have shed innocent blood in their land.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 22364,
+        "text": "But Judah shall dwell for ever, and Jerusalem from generation to generation.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 22365,
+        "text": "For I will cleanse their blood [that] I have not cleansed: for the LORD dwelleth in Zion.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      }
+          ]
+        }
+      ]
+  }
+}

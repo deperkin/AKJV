@@ -1,0 +1,138 @@
+{
+  "version": "AKJV",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 53,"name": "2 Thessalonians","MaxChapters": 3},
+  "chapter": {
+    "Cnumber": 3,
+    "count": 1119,
+    "MaxVerses": 18,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 29680,
+        "text": "Finally, brethren, pray for us, that the word of the Lord may have [free] course, and be glorified, even as [it is] with you:",
+        "WordCount": 24,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 29681,
+        "text": "And that we may be delivered from unreasonable and wicked men: for all [men] have not faith.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 29682,
+        "text": "But the Lord is faithful, who shall stablish you, and keep [you] from evil.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 29683,
+        "text": "And we have confidence in the Lord touching you, that ye both do and will do the things which we command you.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 29684,
+        "text": "And the Lord direct your hearts into the love of God, and into the patient waiting for Christ.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 29685,
+        "text": "Now we command you, brethren, in the name of our Lord Jesus Christ, that ye withdraw yourselves from every brother that walketh disorderly, and not after the tradition which he received of us.",
+        "WordCount": 33,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 7,
+        "count": 29686,
+        "text": "For yourselves know how ye ought to follow us: for we behaved not ourselves disorderly among you;",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 29687,
+        "text": "Neither did we eat any man's bread for nought; but wrought with labour and travail night and day, that we might not be chargeable to any of you:",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 29688,
+        "text": "Not because we have not power, but to make ourselves an ensample unto you to follow us.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 29689,
+        "text": "For even when we were with you, this we commanded you, that if any would not work, neither should he eat.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 29690,
+        "text": "For we hear that there are some which walk among you disorderly, working not at all, but are busybodies.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 29691,
+        "text": "Now them that are such we command and exhort by our Lord Jesus Christ, that with quietness they work, and eat their own bread.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 29692,
+        "text": "But ye, brethren, be not weary in well doing.",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 29693,
+        "text": "And if any man obey not our word by this epistle, note that man, and have no company with him, that he may be ashamed.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 29694,
+        "text": "Yet count [him] not as an enemy, but admonish [him] as a brother.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 29695,
+        "text": "Now the Lord of peace himself give you peace always by all means. The Lord [be] with you all.",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 17,
+        "count": 29696,
+        "text": "The salutation of Paul with mine own hand, which is the token in every epistle: so I write.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 29697,
+        "text": "The grace of our Lord Jesus Christ [be] with you all. Amen.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

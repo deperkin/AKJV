@@ -1,0 +1,159 @@
+{
+  "version": "AKJV",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 49,"name": "Ephesians","MaxChapters": 6},
+  "chapter": {
+    "Cnumber": 3,
+    "count": 1100,
+    "MaxVerses": 21,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 29253,
+        "text": "For this cause I Paul, the prisoner of Jesus Christ for you Gentiles,",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 29254,
+        "text": "If ye have heard of the dispensation of the grace of God which is given me to you-ward:",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 29255,
+        "text": "How that by revelation he made known unto me the mystery; (as I wrote afore in few words,",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 29256,
+        "text": "Whereby, when ye read, ye may understand my knowledge in the mystery of Christ)",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 29257,
+        "text": "Which in other ages was not made known unto the sons of men, as it is now revealed unto his holy apostles and prophets by the Spirit;",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 29258,
+        "text": "That the Gentiles should be fellowheirs, and of the same body, and partakers of his promise in Christ by the gospel:",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 29259,
+        "text": "Whereof I was made a minister, according to the gift of the grace of God given unto me by the effectual working of his power.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 29260,
+        "text": "Unto me, who am less than the least of all saints, is this grace given, that I should preach among the Gentiles the unsearchable riches of Christ;",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 29261,
+        "text": "And to make all [men] see what [is] the fellowship of the mystery, which from the beginning of the world hath been hid in God, who created all things by Jesus Christ:",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 29262,
+        "text": "To the intent that now unto the principalities and powers in heavenly [places] might be known by the church the manifold wisdom of God,",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 29263,
+        "text": "According to the eternal purpose which he purposed in Christ Jesus our Lord:",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 29264,
+        "text": "In whom we have boldness and access with confidence by the faith of him.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 29265,
+        "text": "Wherefore I desire that ye faint not at my tribulations for you, which is your glory.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 29266,
+        "text": "For this cause I bow my knees unto the Father of our Lord Jesus Christ,",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 15,
+        "count": 29267,
+        "text": "Of whom the whole family in heaven and earth is named,",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 29268,
+        "text": "That he would grant you, according to the riches of his glory, to be strengthened with might by his Spirit in the inner man;",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 29269,
+        "text": "That Christ may dwell in your hearts by faith; that ye, being rooted and grounded in love,",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 29270,
+        "text": "May be able to comprehend with all saints what [is] the breadth, and length, and depth, and height;",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 29271,
+        "text": "And to know the love of Christ, which passeth knowledge, that ye might be filled with all the fulness of God.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 29272,
+        "text": "Now unto him that is able to do exceeding abundantly above all that we ask or think, according to the power that worketh in us,",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 29273,
+        "text": "Unto him [be] glory in the church by Christ Jesus throughout all ages, world without end. Amen.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}
