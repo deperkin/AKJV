@@ -1,0 +1,173 @@
+{
+  "version": "AKJV",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 2,"name": "Exodus","MaxChapters": 40},
+  "chapter": {
+    "Cnumber": 33,
+    "count": 83,
+    "MaxVerses": 23,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 2475,
+        "text": "And the LORD said unto Moses, Depart, [and] go up hence, thou and the people which thou hast brought up out of the land of Egypt, unto the land which I sware unto Abraham, to Isaac, and to Jacob, saying, Unto thy seed will I give it:",
+        "WordCount": 47,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 2476,
+        "text": "And I will send an angel before thee; and I will drive out the Canaanite, the Amorite, and the Hittite, and the Perizzite, the Hivite, and the Jebusite:",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 2477,
+        "text": "Unto a land flowing with milk and honey: for I will not go up in the midst of thee; for thou [art] a stiffnecked people: lest I consume thee in the way.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 2478,
+        "text": "And when the people heard these evil tidings, they mourned: and no man did put on him his ornaments.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 2479,
+        "text": "For the LORD had said unto Moses, Say unto the children of Israel, Ye [are] a stiffnecked people: I will come up into the midst of thee in a moment, and consume thee: therefore now put off thy ornaments from thee, that I may know what to do unto thee.",
+        "WordCount": 50,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 2480,
+        "text": "And the children of Israel stripped themselves of their ornaments by the mount Horeb.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 2481,
+        "text": "And Moses took the tabernacle, and pitched it without the camp, afar off from the camp, and called it the Tabernacle of the congregation. And it came to pass, [that] every one which sought the LORD went out unto the tabernacle of the congregation, which [was] without the camp.",
+        "WordCount": 49,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 8,
+        "count": 2482,
+        "text": "And it came to pass, when Moses went out unto the tabernacle, [that] all the people rose up, and stood every man [at] his tent door, and looked after Moses, until he was gone into the tabernacle.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 2483,
+        "text": "And it came to pass, as Moses entered into the tabernacle, the cloudy pillar descended, and stood [at] the door of the tabernacle, and [the LORD] talked with Moses.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 2484,
+        "text": "And all the people saw the cloudy pillar stand [at] the tabernacle door: and all the people rose up and worshipped, every man [in] his tent door.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 2485,
+        "text": "And the LORD spake unto Moses face to face, as a man speaketh unto his friend. And he turned again into the camp: but his servant Joshua, the son of Nun, a young man, departed not out of the tabernacle.",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 2486,
+        "text": "And Moses said unto the LORD, See, thou sayest unto me, Bring up this people: and thou hast not let me know whom thou wilt send with me. Yet thou hast said, I know thee by name, and thou hast also found grace in my sight.",
+        "WordCount": 46,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 13,
+        "count": 2487,
+        "text": "Now therefore, I pray thee, if I have found grace in thy sight, shew me now thy way, that I may know thee, that I may find grace in thy sight: and consider that this nation [is] thy people.",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 2488,
+        "text": "And he said, My presence shall go [with thee], and I will give thee rest.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 2489,
+        "text": "And he said unto him, If thy presence go not [with me], carry us not up hence.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 2490,
+        "text": "For wherein shall it be known here that I and thy people have found grace in thy sight? [is it] not in that thou goest with us? so shall we be separated, I and thy people, from all the people that [are] upon the face of the earth.",
+        "WordCount": 48,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 2491,
+        "text": "And the LORD said unto Moses, I will do this thing also that thou hast spoken: for thou hast found grace in my sight, and I know thee by name.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 2492,
+        "text": "And he said, I beseech thee, shew me thy glory.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 2493,
+        "text": "And he said, I will make all my goodness pass before thee, and I will proclaim the name of the LORD before thee; and will be gracious to whom I will be gracious, and will shew mercy on whom I will shew mercy.",
+        "WordCount": 43,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 2494,
+        "text": "And he said, Thou canst not see my face: for there shall no man see me, and live.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 2495,
+        "text": "And the LORD said, Behold, [there is] a place by me, and thou shalt stand upon a rock:",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 2496,
+        "text": "And it shall come to pass, while my glory passeth by, that I will put thee in a clift of the rock, and will cover thee with my hand while I pass by:",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 2497,
+        "text": "And I will take away mine hand, and thou shalt see my back parts: but my face shall not be seen.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

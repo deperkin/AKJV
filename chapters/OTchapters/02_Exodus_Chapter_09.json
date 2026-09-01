@@ -1,0 +1,257 @@
+{
+  "version": "AKJV",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 2,"name": "Exodus","MaxChapters": 40},
+  "chapter": {
+    "Cnumber": 9,
+    "count": 59,
+    "MaxVerses": 35,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 1744,
+        "text": "Then the LORD said unto Moses, Go in unto Pharaoh, and tell him, Thus saith the LORD God of the Hebrews, Let my people go, that they may serve me.",
+        "WordCount": 30,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 1745,
+        "text": "For if thou refuse to let [them] go, and wilt hold them still,",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 1746,
+        "text": "Behold, the hand of the LORD is upon thy cattle which [is] in the field, upon the horses, upon the asses, upon the camels, upon the oxen, and upon the sheep: [there shall be] a very grievous murrain.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 1747,
+        "text": "And the LORD shall sever between the cattle of Israel and the cattle of Egypt: and there shall nothing die of all [that is] the children's of Israel.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 1748,
+        "text": "And the LORD appointed a set time, saying, To morrow the LORD shall do this thing in the land.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 1749,
+        "text": "And the LORD did that thing on the morrow, and all the cattle of Egypt died: but of the cattle of the children of Israel died not one.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 1750,
+        "text": "And Pharaoh sent, and, behold, there was not one of the cattle of the Israelites dead. And the heart of Pharaoh was hardened, and he did not let the people go.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 1751,
+        "text": "And the LORD said unto Moses and unto Aaron, Take to you handfuls of ashes of the furnace, and let Moses sprinkle it toward the heaven in the sight of Pharaoh.",
+        "WordCount": 31,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 9,
+        "count": 1752,
+        "text": "And it shall become small dust in all the land of Egypt, and shall be a boil breaking forth [with] blains upon man, and upon beast, throughout all the land of Egypt.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 1753,
+        "text": "And they took ashes of the furnace, and stood before Pharaoh; and Moses sprinkled it up toward heaven; and it became a boil breaking forth [with] blains upon man, and upon beast.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 1754,
+        "text": "And the magicians could not stand before Moses because of the boils; for the boil was upon the magicians, and upon all the Egyptians.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 1755,
+        "text": "And the LORD hardened the heart of Pharaoh, and he hearkened not unto them; as the LORD had spoken unto Moses.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 1756,
+        "text": "And the LORD said unto Moses, Rise up early in the morning, and stand before Pharaoh, and say unto him, Thus saith the LORD God of the Hebrews, Let my people go, that they may serve me.",
+        "WordCount": 37,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 14,
+        "count": 1757,
+        "text": "For I will at this time send all my plagues upon thine heart, and upon thy servants, and upon thy people; that thou mayest know that [there is] none like me in all the earth.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 1758,
+        "text": "For now I will stretch out my hand, that I may smite thee and thy people with pestilence; and thou shalt be cut off from the earth.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 1759,
+        "text": "And in very deed for this [cause] have I raised thee up, for to shew [in] thee my power; and that my name may be declared throughout all the earth.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 1760,
+        "text": "As yet exaltest thou thyself against my people, that thou wilt not let them go?",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 1761,
+        "text": "Behold, to morrow about this time I will cause it to rain a very grievous hail, such as hath not been in Egypt since the foundation thereof even until now.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 1762,
+        "text": "Send therefore now, [and] gather thy cattle, and all that thou hast in the field; [for upon] every man and beast which shall be found in the field, and shall not be brought home, the hail shall come down upon them, and they shall die.",
+        "WordCount": 45,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 1763,
+        "text": "He that feared the word of the LORD among the servants of Pharaoh made his servants and his cattle flee into the houses:",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 1764,
+        "text": "And he that regarded not the word of the LORD left his servants and his cattle in the field.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 1765,
+        "text": "And the LORD said unto Moses, Stretch forth thine hand toward heaven, that there may be hail in all the land of Egypt, upon man, and upon beast, and upon every herb of the field, throughout the land of Egypt.",
+        "WordCount": 40,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 23,
+        "count": 1766,
+        "text": "And Moses stretched forth his rod toward heaven: and the LORD sent thunder and hail, and the fire ran along upon the ground; and the LORD rained hail upon the land of Egypt.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 1767,
+        "text": "So there was hail, and fire mingled with the hail, very grievous, such as there was none like it in all the land of Egypt since it became a nation.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 1768,
+        "text": "And the hail smote throughout all the land of Egypt all that [was] in the field, both man and beast; and the hail smote every herb of the field, and brake every tree of the field.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 1769,
+        "text": "Only in the land of Goshen, where the children of Israel [were], was there no hail.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 1770,
+        "text": "And Pharaoh sent, and called for Moses and Aaron, and said unto them, I have sinned this time: the LORD [is] righteous, and I and my people [are] wicked.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 1771,
+        "text": "Intreat the LORD (for [it is] enough) that there be no [more] mighty thunderings and hail; and I will let you go, and ye shall stay no longer.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 1772,
+        "text": "And Moses said unto him, As soon as I am gone out of the city, I will spread abroad my hands unto the LORD; [and] the thunder shall cease, neither shall there be any more hail; that thou mayest know how that the earth [is] the LORD'S.",
+        "WordCount": 47,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 1773,
+        "text": "But as for thee and thy servants, I know that ye will not yet fear the LORD God.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 1774,
+        "text": "And the flax and the barley was smitten: for the barley [was] in the ear, and the flax [was] bolled.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 1775,
+        "text": "But the wheat and the rie were not smitten: for they [were] not grown up.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 1776,
+        "text": "And Moses went out of the city from Pharaoh, and spread abroad his hands unto the LORD: and the thunders and hail ceased, and the rain was not poured upon the earth.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 1777,
+        "text": "And when Pharaoh saw that the rain and the hail and the thunders were ceased, he sinned yet more, and hardened his heart, he and his servants.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 1778,
+        "text": "And the heart of Pharaoh was hardened, neither would he let the children of Israel go; as the LORD had spoken by Moses.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

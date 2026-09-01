@@ -1,0 +1,250 @@
+{
+  "version": "AKJV",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 4,"name": "Numbers","MaxChapters": 36},
+  "chapter": {
+    "Cnumber": 35,
+    "count": 152,
+    "MaxVerses": 34,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 4847,
+        "text": "And the LORD spake unto Moses in the plains of Moab by Jordan [near] Jericho, saying,",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 4848,
+        "text": "Command the children of Israel, that they give unto the Levites of the inheritance of their possession cities to dwell in; and ye shall give [also] unto the Levites suburbs for the cities round about them.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 4849,
+        "text": "And the cities shall they have to dwell in; and the suburbs of them shall be for their cattle, and for their goods, and for all their beasts.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 4850,
+        "text": "And the suburbs of the cities, which ye shall give unto the Levites, [shall reach] from the wall of the city and outward a thousand cubits round about.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 4851,
+        "text": "And ye shall measure from without the city on the east side two thousand cubits, and on the south side two thousand cubits, and on the west side two thousand cubits, and on the north side two thousand cubits; and the city [shall be] in the midst: this shall be to them the suburbs of the cities.",
+        "WordCount": 57,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 4852,
+        "text": "And among the cities which ye shall give unto the Levites [there shall be] six cities for refuge, which ye shall appoint for the manslayer, that he may flee thither: and to them ye shall add forty and two cities.",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 4853,
+        "text": "[So] all the cities which ye shall give to the Levites [shall be] forty and eight cities: them [shall ye give] with their suburbs.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 4854,
+        "text": "And the cities which ye shall give [shall be] of the possession of the children of Israel: from [them that have] many ye shall give many; but from [them that have] few ye shall give few: every one shall give of his cities unto the Levites according to his inheritance which he inheriteth.",
+        "WordCount": 53,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 4855,
+        "text": "And the LORD spake unto Moses, saying,",
+        "WordCount": 7,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 10,
+        "count": 4856,
+        "text": "Speak unto the children of Israel, and say unto them, When ye be come over Jordan into the land of Canaan;",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 4857,
+        "text": "Then ye shall appoint you cities to be cities of refuge for you; that the slayer may flee thither, which killeth any person at unawares.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 4858,
+        "text": "And they shall be unto you cities for refuge from the avenger; that the manslayer die not, until he stand before the congregation in judgment.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 4859,
+        "text": "And of these cities which ye shall give six cities shall ye have for refuge.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 4860,
+        "text": "Ye shall give three cities on this side Jordan, and three cities shall ye give in the land of Canaan, [which] shall be cities of refuge.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 4861,
+        "text": "These six cities shall be a refuge, [both] for the children of Israel, and for the stranger, and for the sojourner among them: that every one that killeth any person unawares may flee thither.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 4862,
+        "text": "And if he smite him with an instrument of iron, so that he die, he [is] a murderer: the murderer shall surely be put to death.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 4863,
+        "text": "And if he smite him with throwing a stone, wherewith he may die, and he die, he [is] a murderer: the murderer shall surely be put to death.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 4864,
+        "text": "Or [if] he smite him with an hand weapon of wood, wherewith he may die, and he die, he [is] a murderer: the murderer shall surely be put to death.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 4865,
+        "text": "The revenger of blood himself shall slay the murderer: when he meeteth him, he shall slay him.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 4866,
+        "text": "But if he thrust him of hatred, or hurl at him by laying of wait, that he die;",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 4867,
+        "text": "Or in enmity smite him with his hand, that he die: he that smote [him] shall surely be put to death; [for] he [is] a murderer: the revenger of blood shall slay the murderer, when he meeteth him.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 4868,
+        "text": "But if he thrust him suddenly without enmity, or have cast upon him any thing without laying of wait,",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 4869,
+        "text": "Or with any stone, wherewith a man may die, seeing [him] not, and cast [it] upon him, that he die, and [was] not his enemy, neither sought his harm:",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 4870,
+        "text": "Then the congregation shall judge between the slayer and the revenger of blood according to these judgments:",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 4871,
+        "text": "And the congregation shall deliver the slayer out of the hand of the revenger of blood, and the congregation shall restore him to the city of his refuge, whither he was fled: and he shall abide in it unto the death of the high priest, which was anointed with the holy oil.",
+        "WordCount": 52,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 4872,
+        "text": "But if the slayer shall at any time come without the border of the city of his refuge, whither he was fled;",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 4873,
+        "text": "And the revenger of blood find him without the borders of the city of his refuge, and the revenger of blood kill the slayer; he shall not be guilty of blood:",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 4874,
+        "text": "Because he should have remained in the city of his refuge until the death of the high priest: but after the death of the high priest the slayer shall return into the land of his possession.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 4875,
+        "text": "So these [things] shall be for a statute of judgment unto you throughout your generations in all your dwellings.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 4876,
+        "text": "Whoso killeth any person, the murderer shall be put to death by the mouth of witnesses: but one witness shall not testify against any person [to cause him] to die.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 4877,
+        "text": "Moreover ye shall take no satisfaction for the life of a murderer, which [is] guilty of death: but he shall be surely put to death.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 4878,
+        "text": "And ye shall take no satisfaction for him that is fled to the city of his refuge, that he should come again to dwell in the land, until the death of the priest.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 4879,
+        "text": "So ye shall not pollute the land wherein ye [are]: for blood it defileth the land: and the land cannot be cleansed of the blood that is shed therein, but by the blood of him that shed it.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 4880,
+        "text": "Defile not therefore the land which ye shall inhabit, wherein I dwell: for I the LORD dwell among the children of Israel.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

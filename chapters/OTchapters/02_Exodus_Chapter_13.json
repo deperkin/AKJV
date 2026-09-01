@@ -1,0 +1,166 @@
+{
+  "version": "AKJV",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 2,"name": "Exodus","MaxChapters": 40},
+  "chapter": {
+    "Cnumber": 13,
+    "count": 63,
+    "MaxVerses": 22,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 1869,
+        "text": "And the LORD spake unto Moses, saying,",
+        "WordCount": 7,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 1870,
+        "text": "Sanctify unto me all the firstborn, whatsoever openeth the womb among the children of Israel, [both] of man and of beast: it [is] mine.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 1871,
+        "text": "And Moses said unto the people, Remember this day, in which ye came out from Egypt, out of the house of bondage; for by strength of hand the LORD brought you out from this [place]: there shall no leavened bread be eaten.",
+        "WordCount": 42,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 1872,
+        "text": "This day came ye out in the month Abib.",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 1873,
+        "text": "And it shall be when the LORD shall bring thee into the land of the Canaanites, and the Hittites, and the Amorites, and the Hivites, and the Jebusites, which he sware unto thy fathers to give thee, a land flowing with milk and honey, that thou shalt keep this service in this month.",
+        "WordCount": 53,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 1874,
+        "text": "Seven days thou shalt eat unleavened bread, and in the seventh day [shall be] a feast to the LORD.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 1875,
+        "text": "Unleavened bread shall be eaten seven days; and there shall no leavened bread be seen with thee, neither shall there be leaven seen with thee in all thy quarters.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 1876,
+        "text": "And thou shalt shew thy son in that day, saying, [This is done] because of that [which] the LORD did unto me when I came forth out of Egypt.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 1877,
+        "text": "And it shall be for a sign unto thee upon thine hand, and for a memorial between thine eyes, that the LORD'S law may be in thy mouth: for with a strong hand hath the LORD brought thee out of Egypt.",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 1878,
+        "text": "Thou shalt therefore keep this ordinance in his season from year to year.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 1879,
+        "text": "And it shall be when the LORD shall bring thee into the land of the Canaanites, as he sware unto thee and to thy fathers, and shall give it thee,",
+        "WordCount": 30,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 12,
+        "count": 1880,
+        "text": "That thou shalt set apart unto the LORD all that openeth the matrix, and every firstling that cometh of a beast which thou hast; the males [shall be] the LORD'S.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 1881,
+        "text": "And every firstling of an ass thou shalt redeem with a lamb; and if thou wilt not redeem it, then thou shalt break his neck: and all the firstborn of man among thy children shalt thou redeem.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 1882,
+        "text": "And it shall be when thy son asketh thee in time to come, saying, What [is] this? that thou shalt say unto him, By strength of hand the LORD brought us out from Egypt, from the house of bondage:",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 1883,
+        "text": "And it came to pass, when Pharaoh would hardly let us go, that the LORD slew all the firstborn in the land of Egypt, both the firstborn of man, and the firstborn of beast: therefore I sacrifice to the LORD all that openeth the matrix, being males; but all the firstborn of my children I redeem.",
+        "WordCount": 56,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 1884,
+        "text": "And it shall be for a token upon thine hand, and for frontlets between thine eyes: for by strength of hand the LORD brought us forth out of Egypt.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 1885,
+        "text": "And it came to pass, when Pharaoh had let the people go, that God led them not [through] the way of the land of the Philistines, although that [was] near; for God said, Lest peradventure the people repent when they see war, and they return to Egypt:",
+        "WordCount": 47,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 18,
+        "count": 1886,
+        "text": "But God led the people about, [through] the way of the wilderness of the Red sea: and the children of Israel went up harnessed out of the land of Egypt.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 1887,
+        "text": "And Moses took the bones of Joseph with him: for he had straitly sworn the children of Israel, saying, God will surely visit you; and ye shall carry up my bones away hence with you.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 1888,
+        "text": "And they took their journey from Succoth, and encamped in Etham, in the edge of the wilderness.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 1889,
+        "text": "And the LORD went before them by day in a pillar of a cloud, to lead them the way; and by night in a pillar of fire, to give them light; to go by day and night:",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 1890,
+        "text": "He took not away the pillar of the cloud by day, nor the pillar of fire by night, [from] before the people.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

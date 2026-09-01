@@ -1,0 +1,257 @@
+{
+  "version": "AKJV",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 1,"name": "Genesis","MaxChapters": 50},
+  "chapter": {
+    "Cnumber": 29,
+    "count": 29,
+    "MaxVerses": 35,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 797,
+        "text": "Then Jacob went on his journey, and came into the land of the people of the east.",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 798,
+        "text": "And he looked, and behold a well in the field, and, lo, there [were] three flocks of sheep lying by it; for out of that well they watered the flocks: and a great stone [was] upon the well's mouth.",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 799,
+        "text": "And thither were all the flocks gathered: and they rolled the stone from the well's mouth, and watered the sheep, and put the stone again upon the well's mouth in his place.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 800,
+        "text": "And Jacob said unto them, My brethren, whence [be] ye? And they said, Of Haran [are] we.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 801,
+        "text": "And he said unto them, Know ye Laban the son of Nahor? And they said, We know [him].",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 802,
+        "text": "And he said unto them, [Is] he well? And they said, [He is] well: and, behold, Rachel his daughter cometh with the sheep.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 803,
+        "text": "And he said, Lo, [it is] yet high day, neither [is it] time that the cattle should be gathered together: water ye the sheep, and go [and] feed [them].",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 804,
+        "text": "And they said, We cannot, until all the flocks be gathered together, and [till] they roll the stone from the well's mouth; then we water the sheep.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 805,
+        "text": "And while he yet spake with them, Rachel came with her father's sheep: for she kept them.",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 10,
+        "count": 806,
+        "text": "And it came to pass, when Jacob saw Rachel the daughter of Laban his mother's brother, and the sheep of Laban his mother's brother, that Jacob went near, and rolled the stone from the well's mouth, and watered the flock of Laban his mother's brother.",
+        "WordCount": 45,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 807,
+        "text": "And Jacob kissed Rachel, and lifted up his voice, and wept.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 808,
+        "text": "And Jacob told Rachel that he [was] her father's brother, and that he [was] Rebekah's son: and she ran and told her father.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 809,
+        "text": "And it came to pass, when Laban heard the tidings of Jacob his sister's son, that he ran to meet him, and embraced him, and kissed him, and brought him to his house. And he told Laban all these things.",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 810,
+        "text": "And Laban said to him, Surely thou [art] my bone and my flesh. And he abode with him the space of a month.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 811,
+        "text": "And Laban said unto Jacob, Because thou [art] my brother, shouldest thou therefore serve me for nought? tell me, what [shall] thy wages [be]?",
+        "WordCount": 24,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 16,
+        "count": 812,
+        "text": "And Laban had two daughters: the name of the elder [was] Leah, and the name of the younger [was] Rachel.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 813,
+        "text": "Leah [was] tender eyed; but Rachel was beautiful and well favoured.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 814,
+        "text": "And Jacob loved Rachel; and said, I will serve thee seven years for Rachel thy younger daughter.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 815,
+        "text": "And Laban said, [It is] better that I give her to thee, than that I should give her to another man: abide with me.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 816,
+        "text": "And Jacob served seven years for Rachel; and they seemed unto him [but] a few days, for the love he had to her.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 817,
+        "text": "And Jacob said unto Laban, Give [me] my wife, for my days are fulfilled, that I may go in unto her.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 818,
+        "text": "And Laban gathered together all the men of the place, and made a feast.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 819,
+        "text": "And it came to pass in the evening, that he took Leah his daughter, and brought her to him; and he went in unto her.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 820,
+        "text": "And Laban gave unto his daughter Leah Zilpah his maid [for] an handmaid.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 821,
+        "text": "And it came to pass, that in the morning, behold, it [was] Leah: and he said to Laban, What [is] this thou hast done unto me? did not I serve with thee for Rachel? wherefore then hast thou beguiled me?",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 822,
+        "text": "And Laban said, It must not be so done in our country, to give the younger before the firstborn.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 823,
+        "text": "Fulfil her week, and we will give thee this also for the service which thou shalt serve with me yet seven other years.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 824,
+        "text": "And Jacob did so, and fulfilled her week: and he gave him Rachel his daughter to wife also.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 825,
+        "text": "And Laban gave to Rachel his daughter Bilhah his handmaid to be her maid.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 826,
+        "text": "And he went in also unto Rachel, and he loved also Rachel more than Leah, and served with him yet seven other years.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 827,
+        "text": "And when the LORD saw that Leah [was] hated, he opened her womb: but Rachel [was] barren.",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 32,
+        "count": 828,
+        "text": "And Leah conceived, and bare a son, and she called his name Reuben: for she said, Surely the LORD hath looked upon my affliction; now therefore my husband will love me.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 829,
+        "text": "And she conceived again, and bare a son; and said, Because the LORD hath heard that I [was] hated, he hath therefore given me this [son] also: and she called his name Simeon.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 830,
+        "text": "And she conceived again, and bare a son; and said, Now this time will my husband be joined unto me, because I have born him three sons: therefore was his name called Levi.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 831,
+        "text": "And she conceived again, and bare a son: and she said, Now will I praise the LORD: therefore she called his name Judah; and left bearing.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

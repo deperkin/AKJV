@@ -1,0 +1,355 @@
+{
+  "version": "AKJV",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 5,"name": "Deuteronomy","MaxChapters": 34},
+  "chapter": {
+    "Cnumber": 4,
+    "count": 157,
+    "MaxVerses": 49,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 5006,
+        "text": "Now therefore hearken, O Israel, unto the statutes and unto the judgments, which I teach you, for to do [them], that ye may live, and go in and possess the land which the LORD God of your fathers giveth you.",
+        "WordCount": 40,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 5007,
+        "text": "Ye shall not add unto the word which I command you, neither shall ye diminish [ought] from it, that ye may keep the commandments of the LORD your God which I command you.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 5008,
+        "text": "Your eyes have seen what the LORD did because of Baalpeor: for all the men that followed Baalpeor, the LORD thy God hath destroyed them from among you.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 5009,
+        "text": "But ye that did cleave unto the LORD your God [are] alive every one of you this day.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 5010,
+        "text": "Behold, I have taught you statutes and judgments, even as the LORD my God commanded me, that ye should do so in the land whither ye go to possess it.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 5011,
+        "text": "Keep therefore and do [them]; for this [is] your wisdom and your understanding in the sight of the nations, which shall hear all these statutes, and say, Surely this great nation [is] a wise and understanding people.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 5012,
+        "text": "For what nation [is there so] great, who [hath] God [so] nigh unto them, as the LORD our God [is] in all [things that] we call upon him [for]?",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 5013,
+        "text": "And what nation [is there so] great, that hath statutes and judgments [so] righteous as all this law, which I set before you this day?",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 5014,
+        "text": "Only take heed to thyself, and keep thy soul diligently, lest thou forget the things which thine eyes have seen, and lest they depart from thy heart all the days of thy life: but teach them thy sons, and thy sons' sons;",
+        "WordCount": 42,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 5015,
+        "text": "[Specially] the day that thou stoodest before the LORD thy God in Horeb, when the LORD said unto me, Gather me the people together, and I will make them hear my words, that they may learn to fear me all the days that they shall live upon the earth, and [that] they may teach their children.",
+        "WordCount": 56,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 5016,
+        "text": "And ye came near and stood under the mountain; and the mountain burned with fire unto the midst of heaven, with darkness, clouds, and thick darkness.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 5017,
+        "text": "And the LORD spake unto you out of the midst of the fire: ye heard the voice of the words, but saw no similitude; only [ye heard] a voice.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 5018,
+        "text": "And he declared unto you his covenant, which he commanded you to perform, [even] ten commandments; and he wrote them upon two tables of stone.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 5019,
+        "text": "And the LORD commanded me at that time to teach you statutes and judgments, that ye might do them in the land whither ye go over to possess it.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 5020,
+        "text": "Take ye therefore good heed unto yourselves; for ye saw no manner of similitude on the day [that] the LORD spake unto you in Horeb out of the midst of the fire:",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 5021,
+        "text": "Lest ye corrupt [yourselves], and make you a graven image, the similitude of any figure, the likeness of male or female,",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 5022,
+        "text": "The likeness of any beast that [is] on the earth, the likeness of any winged fowl that flieth in the air,",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 5023,
+        "text": "The likeness of any thing that creepeth on the ground, the likeness of any fish that [is] in the waters beneath the earth:",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 5024,
+        "text": "And lest thou lift up thine eyes unto heaven, and when thou seest the sun, and the moon, and the stars, [even] all the host of heaven, shouldest be driven to worship them, and serve them, which the LORD thy God hath divided unto all nations under the whole heaven.",
+        "WordCount": 50,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 5025,
+        "text": "But the LORD hath taken you, and brought you forth out of the iron furnace, [even] out of Egypt, to be unto him a people of inheritance, as [ye are] this day.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 5026,
+        "text": "Furthermore the LORD was angry with me for your sakes, and sware that I should not go over Jordan, and that I should not go in unto that good land, which the LORD thy God giveth thee [for] an inheritance:",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 5027,
+        "text": "But I must die in this land, I must not go over Jordan: but ye shall go over, and possess that good land.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 5028,
+        "text": "Take heed unto yourselves, lest ye forget the covenant of the LORD your God, which he made with you, and make you a graven image, [or] the likeness of any [thing], which the LORD thy God hath forbidden thee.",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 5029,
+        "text": "For the LORD thy God [is] a consuming fire, [even] a jealous God.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 5030,
+        "text": "When thou shalt beget children, and children's children, and ye shall have remained long in the land, and shall corrupt [yourselves], and make a graven image, [or] the likeness of any [thing], and shall do evil in the sight of the LORD thy God, to provoke him to anger:",
+        "WordCount": 49,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 5031,
+        "text": "I call heaven and earth to witness against you this day, that ye shall soon utterly perish from off the land whereunto ye go over Jordan to possess it; ye shall not prolong [your] days upon it, but shall utterly be destroyed.",
+        "WordCount": 42,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 5032,
+        "text": "And the LORD shall scatter you among the nations, and ye shall be left few in number among the heathen, whither the LORD shall lead you.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 5033,
+        "text": "And there ye shall serve gods, the work of men's hands, wood and stone, which neither see, nor hear, nor eat, nor smell.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 5034,
+        "text": "But if from thence thou shalt seek the LORD thy God, thou shalt find [him], if thou seek him with all thy heart and with all thy soul.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 5035,
+        "text": "When thou art in tribulation, and all these things are come upon thee, [even] in the latter days, if thou turn to the LORD thy God, and shalt be obedient unto his voice;",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 5036,
+        "text": "(For the LORD thy God [is] a merciful God;) he will not forsake thee, neither destroy thee, nor forget the covenant of thy fathers which he sware unto them.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 5037,
+        "text": "For ask now of the days that are past, which were before thee, since the day that God created man upon the earth, and [ask] from the one side of heaven unto the other, whether there hath been [any such thing] as this great thing [is], or hath been heard like it?",
+        "WordCount": 52,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 5038,
+        "text": "Did [ever] people hear the voice of God speaking out of the midst of the fire, as thou hast heard, and live?",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 5039,
+        "text": "Or hath God assayed to go [and] take him a nation from the midst of [another] nation, by temptations, by signs, and by wonders, and by war, and by a mighty hand, and by a stretched out arm, and by great terrors, according to all that the LORD your God did for you in Egypt before your eyes?",
+        "WordCount": 58,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 5040,
+        "text": "Unto thee it was shewed, that thou mightest know that the LORD he [is] God; [there is] none else beside him.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 36,
+        "count": 5041,
+        "text": "Out of heaven he made thee to hear his voice, that he might instruct thee: and upon earth he shewed thee his great fire; and thou heardest his words out of the midst of the fire.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 37,
+        "count": 5042,
+        "text": "And because he loved thy fathers, therefore he chose their seed after them, and brought thee out in his sight with his mighty power out of Egypt;",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 38,
+        "count": 5043,
+        "text": "To drive out nations from before thee greater and mightier than thou [art], to bring thee in, to give thee their land [for] an inheritance, as [it is] this day.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 39,
+        "count": 5044,
+        "text": "Know therefore this day, and consider [it] in thine heart, that the LORD he [is] God in heaven above, and upon the earth beneath: [there is] none else.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 40,
+        "count": 5045,
+        "text": "Thou shalt keep therefore his statutes, and his commandments, which I command thee this day, that it may go well with thee, and with thy children after thee, and that thou mayest prolong [thy] days upon the earth, which the LORD thy God giveth thee, for ever.",
+        "WordCount": 47,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 41,
+        "count": 5046,
+        "text": "Then Moses severed three cities on this side Jordan toward the sunrising;",
+        "WordCount": 12,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 42,
+        "count": 5047,
+        "text": "That the slayer might flee thither, which should kill his neighbour unawares, and hated him not in times past; and that fleeing unto one of these cities he might live:",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 43,
+        "count": 5048,
+        "text": "[Namely], Bezer in the wilderness, in the plain country, of the Reubenites; and Ramoth in Gilead, of the Gadites; and Golan in Bashan, of the Manassites.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 44,
+        "count": 5049,
+        "text": "And this [is] the law which Moses set before the children of Israel:",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 45,
+        "count": 5050,
+        "text": "These [are] the testimonies, and the statutes, and the judgments, which Moses spake unto the children of Israel, after they came forth out of Egypt,",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 46,
+        "count": 5051,
+        "text": "On this side Jordan, in the valley over against Bethpeor, in the land of Sihon king of the Amorites, who dwelt at Heshbon, whom Moses and the children of Israel smote, after they were come forth out of Egypt:",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 47,
+        "count": 5052,
+        "text": "And they possessed his land, and the land of Og king of Bashan, two kings of the Amorites, which [were] on this side Jordan toward the sunrising;",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 48,
+        "count": 5053,
+        "text": "From Aroer, which [is] by the bank of the river Arnon, even unto mount Sion, which [is] Hermon,",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 49,
+        "count": 5054,
+        "text": "And all the plain on this side Jordan eastward, even unto the sea of the plain, under the springs of Pisgah.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

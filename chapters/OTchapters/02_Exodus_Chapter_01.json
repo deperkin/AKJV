@@ -1,0 +1,166 @@
+{
+  "version": "AKJV",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 2,"name": "Exodus","MaxChapters": 40},
+  "chapter": {
+    "Cnumber": 1,
+    "count": 51,
+    "MaxVerses": 22,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 1534,
+        "text": "Now these [are] the names of the children of Israel, which came into Egypt; every man and his household came with Jacob.",
+        "WordCount": 22,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 1535,
+        "text": "Reuben, Simeon, Levi, and Judah,",
+        "WordCount": 5,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 1536,
+        "text": "Issachar, Zebulun, and Benjamin,",
+        "WordCount": 4,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 1537,
+        "text": "Dan, and Naphtali, Gad, and Asher.",
+        "WordCount": 6,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 1538,
+        "text": "And all the souls that came out of the loins of Jacob were seventy souls: for Joseph was in Egypt [already].",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 1539,
+        "text": "And Joseph died, and all his brethren, and all that generation.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 1540,
+        "text": "And the children of Israel were fruitful, and increased abundantly, and multiplied, and waxed exceeding mighty; and the land was filled with them.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 1541,
+        "text": "Now there arose up a new king over Egypt, which knew not Joseph.",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 9,
+        "count": 1542,
+        "text": "And he said unto his people, Behold, the people of the children of Israel [are] more and mightier than we:",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 1543,
+        "text": "Come on, let us deal wisely with them; lest they multiply, and it come to pass, that, when there falleth out any war, they join also unto our enemies, and fight against us, and [so] get them up out of the land.",
+        "WordCount": 42,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 1544,
+        "text": "Therefore they did set over them taskmasters to afflict them with their burdens. And they built for Pharaoh treasure cities, Pithom and Raamses.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 1545,
+        "text": "But the more they afflicted them, the more they multiplied and grew. And they were grieved because of the children of Israel.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 1546,
+        "text": "And the Egyptians made the children of Israel to serve with rigour:",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 1547,
+        "text": "And they made their lives bitter with hard bondage, in morter, and in brick, and in all manner of service in the field: all their service, wherein they made them serve, [was] with rigour.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 1548,
+        "text": "And the king of Egypt spake to the Hebrew midwives, of which the name of the one [was] Shiphrah, and the name of the other Puah:",
+        "WordCount": 26,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 16,
+        "count": 1549,
+        "text": "And he said, When ye do the office of a midwife to the Hebrew women, and see [them] upon the stools; if it [be] a son, then ye shall kill him: but if it [be] a daughter, then she shall live.",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 1550,
+        "text": "But the midwives feared God, and did not as the king of Egypt commanded them, but saved the men children alive.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 1551,
+        "text": "And the king of Egypt called for the midwives, and said unto them, Why have ye done this thing, and have saved the men children alive?",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 1552,
+        "text": "And the midwives said unto Pharaoh, Because the Hebrew women [are] not as the Egyptian women; for they [are] lively, and are delivered ere the midwives come in unto them.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 1553,
+        "text": "Therefore God dealt well with the midwives: and the people multiplied, and waxed very mighty.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 1554,
+        "text": "And it came to pass, because the midwives feared God, that he made them houses.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 1555,
+        "text": "And Pharaoh charged all his people, saying, Every son that is born ye shall cast into the river, and every daughter ye shall save alive.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

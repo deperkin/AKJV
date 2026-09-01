@@ -1,0 +1,145 @@
+{
+  "version": "AKJV",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 3,"name": "Leviticus","MaxChapters": 27},
+  "chapter": {
+    "Cnumber": 5,
+    "count": 95,
+    "MaxVerses": 19,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 2832,
+        "text": "And if a soul sin, and hear the voice of swearing, and [is] a witness, whether he hath seen or known [of it]; if he do not utter [it], then he shall bear his iniquity.",
+        "WordCount": 35,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 2833,
+        "text": "Or if a soul touch any unclean thing, whether [it be] a carcase of an unclean beast, or a carcase of unclean cattle, or the carcase of unclean creeping things, and [if] it be hidden from him; he also shall be unclean, and guilty.",
+        "WordCount": 44,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 2834,
+        "text": "Or if he touch the uncleanness of man, whatsoever uncleanness [it be] that a man shall be defiled withal, and it be hid from him; when he knoweth [of it], then he shall be guilty.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 2835,
+        "text": "Or if a soul swear, pronouncing with [his] lips to do evil, or to do good, whatsoever [it be] that a man shall pronounce with an oath, and it be hid from him; when he knoweth [of it], then he shall be guilty in one of these.",
+        "WordCount": 47,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 2836,
+        "text": "And it shall be, when he shall be guilty in one of these [things], that he shall confess that he hath sinned in that [thing]:",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 2837,
+        "text": "And he shall bring his trespass offering unto the LORD for his sin which he hath sinned, a female from the flock, a lamb or a kid of the goats, for a sin offering; and the priest shall make an atonement for him concerning his sin.",
+        "WordCount": 46,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 2838,
+        "text": "And if he be not able to bring a lamb, then he shall bring for his trespass, which he hath committed, two turtledoves, or two young pigeons, unto the LORD; one for a sin offering, and the other for a burnt offering.",
+        "WordCount": 42,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 8,
+        "count": 2839,
+        "text": "And he shall bring them unto the priest, who shall offer [that] which [is] for the sin offering first, and wring off his head from his neck, but shall not divide [it] asunder:",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 2840,
+        "text": "And he shall sprinkle of the blood of the sin offering upon the side of the altar; and the rest of the blood shall be wrung out at the bottom of the altar: it [is] a sin offering.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 2841,
+        "text": "And he shall offer the second [for] a burnt offering, according to the manner: and the priest shall make an atonement for him for his sin which he hath sinned, and it shall be forgiven him.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 2842,
+        "text": "But if he be not able to bring two turtledoves, or two young pigeons, then he that sinned shall bring for his offering the tenth part of an ephah of fine flour for a sin offering; he shall put no oil upon it, neither shall he put [any] frankincense thereon: for it [is] a sin offering.",
+        "WordCount": 56,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 2843,
+        "text": "Then shall he bring it to the priest, and the priest shall take his handful of it, [even] a memorial thereof, and burn [it] on the altar, according to the offerings made by fire unto the LORD: it [is] a sin offering.",
+        "WordCount": 42,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 2844,
+        "text": "And the priest shall make an atonement for him as touching his sin that he hath sinned in one of these, and it shall be forgiven him: and [the remnant] shall be the priest's, as a meat offering.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 2845,
+        "text": "And the LORD spake unto Moses, saying,",
+        "WordCount": 7,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 15,
+        "count": 2846,
+        "text": "If a soul commit a trespass, and sin through ignorance, in the holy things of the LORD; then he shall bring for his trespass unto the LORD a ram without blemish out of the flocks, with thy estimation by shekels of silver, after the shekel of the sanctuary, for a trespass offering:",
+        "WordCount": 52,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 2847,
+        "text": "And he shall make amends for the harm that he hath done in the holy thing, and shall add the fifth part thereto, and give it unto the priest: and the priest shall make an atonement for him with the ram of the trespass offering, and it shall be forgiven him.",
+        "WordCount": 51,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 2848,
+        "text": "And if a soul sin, and commit any of these things which are forbidden to be done by the commandments of the LORD; though he wist [it] not, yet is he guilty, and shall bear his iniquity.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 2849,
+        "text": "And he shall bring a ram without blemish out of the flock, with thy estimation, for a trespass offering, unto the priest: and the priest shall make an atonement for him concerning his ignorance wherein he erred and wist [it] not, and it shall be forgiven him.",
+        "WordCount": 47,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 2850,
+        "text": "It [is] a trespass offering: he hath certainly trespassed against the LORD.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

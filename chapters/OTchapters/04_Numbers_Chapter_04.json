@@ -1,0 +1,355 @@
+{
+  "version": "AKJV",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 4,"name": "Numbers","MaxChapters": 36},
+  "chapter": {
+    "Cnumber": 4,
+    "count": 121,
+    "MaxVerses": 49,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 3745,
+        "text": "And the LORD spake unto Moses and unto Aaron, saying,",
+        "WordCount": 10,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 3746,
+        "text": "Take the sum of the sons of Kohath from among the sons of Levi, after their families, by the house of their fathers,",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 3747,
+        "text": "From thirty years old and upward even until fifty years old, all that enter into the host, to do the work in the tabernacle of the congregation.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 3748,
+        "text": "This [shall be] the service of the sons of Kohath in the tabernacle of the congregation, [about] the most holy things:",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 3749,
+        "text": "And when the camp setteth forward, Aaron shall come, and his sons, and they shall take down the covering vail, and cover the ark of testimony with it:",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 3750,
+        "text": "And shall put thereon the covering of badgers' skins, and shall spread over [it] a cloth wholly of blue, and shall put in the staves thereof.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 3751,
+        "text": "And upon the table of shewbread they shall spread a cloth of blue, and put thereon the dishes, and the spoons, and the bowls, and covers to cover withal: and the continual bread shall be thereon:",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 3752,
+        "text": "And they shall spread upon them a cloth of scarlet, and cover the same with a covering of badgers' skins, and shall put in the staves thereof.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 3753,
+        "text": "And they shall take a cloth of blue, and cover the candlestick of the light, and his lamps, and his tongs, and his snuffdishes, and all the oil vessels thereof, wherewith they minister unto it:",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 3754,
+        "text": "And they shall put it and all the vessels thereof within a covering of badgers' skins, and shall put [it] upon a bar.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 3755,
+        "text": "And upon the golden altar they shall spread a cloth of blue, and cover it with a covering of badgers' skins, and shall put to the staves thereof:",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 3756,
+        "text": "And they shall take all the instruments of ministry, wherewith they minister in the sanctuary, and put [them] in a cloth of blue, and cover them with a covering of badgers' skins, and shall put [them] on a bar:",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 3757,
+        "text": "And they shall take away the ashes from the altar, and spread a purple cloth thereon:",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 3758,
+        "text": "And they shall put upon it all the vessels thereof, wherewith they minister about it, [even] the censers, the fleshhooks, and the shovels, and the basons, all the vessels of the altar; and they shall spread upon it a covering of badgers' skins, and put to the staves of it.",
+        "WordCount": 50,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 3759,
+        "text": "And when Aaron and his sons have made an end of covering the sanctuary, and all the vessels of the sanctuary, as the camp is to set forward; after that, the sons of Kohath shall come to bear [it]: but they shall not touch [any] holy thing, lest they die. These [things are] the burden of the sons of Kohath in the tabernacle of the congregation.",
+        "WordCount": 66,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 3760,
+        "text": "And to the office of Eleazar the son of Aaron the priest [pertaineth] the oil for the light, and the sweet incense, and the daily meat offering, and the anointing oil, [and] the oversight of all the tabernacle, and of all that therein [is], in the sanctuary, and in the vessels thereof.",
+        "WordCount": 52,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 3761,
+        "text": "And the LORD spake unto Moses and unto Aaron, saying,",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 3762,
+        "text": "Cut ye not off the tribe of the families of the Kohathites from among the Levites:",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 3763,
+        "text": "But thus do unto them, that they may live, and not die, when they approach unto the most holy things: Aaron and his sons shall go in, and appoint them every one to his service and to his burden:",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 3764,
+        "text": "But they shall not go in to see when the holy things are covered, lest they die.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 3765,
+        "text": "And the LORD spake unto Moses, saying,",
+        "WordCount": 7,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 22,
+        "count": 3766,
+        "text": "Take also the sum of the sons of Gershon, throughout the houses of their fathers, by their families;",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 3767,
+        "text": "From thirty years old and upward until fifty years old shalt thou number them; all that enter in to perform the service, to do the work in the tabernacle of the congregation.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 3768,
+        "text": "This [is] the service of the families of the Gershonites, to serve, and for burdens:",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 3769,
+        "text": "And they shall bear the curtains of the tabernacle, and the tabernacle of the congregation, his covering, and the covering of the badgers' skins that [is] above upon it, and the hanging for the door of the tabernacle of the congregation,",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 3770,
+        "text": "And the hangings of the court, and the hanging for the door of the gate of the court, which [is] by the tabernacle and by the altar round about, and their cords, and all the instruments of their service, and all that is made for them: so shall they serve.",
+        "WordCount": 50,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 3771,
+        "text": "At the appointment of Aaron and his sons shall be all the service of the sons of the Gershonites, in all their burdens, and in all their service: and ye shall appoint unto them in charge all their burdens.",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 3772,
+        "text": "This [is] the service of the families of the sons of Gershon in the tabernacle of the congregation: and their charge [shall be] under the hand of Ithamar the son of Aaron the priest.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 3773,
+        "text": "As for the sons of Merari, thou shalt number them after their families, by the house of their fathers;",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 3774,
+        "text": "From thirty years old and upward even unto fifty years old shalt thou number them, every one that entereth into the service, to do the work of the tabernacle of the congregation.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 3775,
+        "text": "And this [is] the charge of their burden, according to all their service in the tabernacle of the congregation; the boards of the tabernacle, and the bars thereof, and the pillars thereof, and sockets thereof,",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 3776,
+        "text": "And the pillars of the court round about, and their sockets, and their pins, and their cords, with all their instruments, and with all their service: and by name ye shall reckon the instruments of the charge of their burden.",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 3777,
+        "text": "This [is] the service of the families of the sons of Merari, according to all their service, in the tabernacle of the congregation, under the hand of Ithamar the son of Aaron the priest.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 3778,
+        "text": "And Moses and Aaron and the chief of the congregation numbered the sons of the Kohathites after their families, and after the house of their fathers,",
+        "WordCount": 26,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 35,
+        "count": 3779,
+        "text": "From thirty years old and upward even unto fifty years old, every one that entereth into the service, for the work in the tabernacle of the congregation:",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 36,
+        "count": 3780,
+        "text": "And those that were numbered of them by their families were two thousand seven hundred and fifty.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 37,
+        "count": 3781,
+        "text": "These [were] they that were numbered of the families of the Kohathites, all that might do service in the tabernacle of the congregation, which Moses and Aaron did number according to the commandment of the LORD by the hand of Moses.",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 38,
+        "count": 3782,
+        "text": "And those that were numbered of the sons of Gershon, throughout their families, and by the house of their fathers,",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 39,
+        "count": 3783,
+        "text": "From thirty years old and upward even unto fifty years old, every one that entereth into the service, for the work in the tabernacle of the congregation,",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 40,
+        "count": 3784,
+        "text": "Even those that were numbered of them, throughout their families, by the house of their fathers, were two thousand and six hundred and thirty.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 41,
+        "count": 3785,
+        "text": "These [are] they that were numbered of the families of the sons of Gershon, of all that might do service in the tabernacle of the congregation, whom Moses and Aaron did number according to the commandment of the LORD.",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 42,
+        "count": 3786,
+        "text": "And those that were numbered of the families of the sons of Merari, throughout their families, by the house of their fathers,",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 43,
+        "count": 3787,
+        "text": "From thirty years old and upward even unto fifty years old, every one that entereth into the service, for the work in the tabernacle of the congregation,",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 44,
+        "count": 3788,
+        "text": "Even those that were numbered of them after their families, were three thousand and two hundred.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 45,
+        "count": 3789,
+        "text": "These [be] those that were numbered of the families of the sons of Merari, whom Moses and Aaron numbered according to the word of the LORD by the hand of Moses.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 46,
+        "count": 3790,
+        "text": "All those that were numbered of the Levites, whom Moses and Aaron and the chief of Israel numbered, after their families, and after the house of their fathers,",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 47,
+        "count": 3791,
+        "text": "From thirty years old and upward even unto fifty years old, every one that came to do the service of the ministry, and the service of the burden in the tabernacle of the congregation,",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 48,
+        "count": 3792,
+        "text": "Even those that were numbered of them, were eight thousand and five hundred and fourscore.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 49,
+        "count": 3793,
+        "text": "According to the commandment of the LORD they were numbered by the hand of Moses, every one according to his service, and according to his burden: thus were they numbered of him, as the LORD commanded Moses.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

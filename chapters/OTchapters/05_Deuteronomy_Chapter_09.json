@@ -1,0 +1,215 @@
+{
+  "version": "AKJV",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 5,"name": "Deuteronomy","MaxChapters": 34},
+  "chapter": {
+    "Cnumber": 9,
+    "count": 162,
+    "MaxVerses": 29,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 5159,
+        "text": "Hear, O Israel: Thou [art] to pass over Jordan this day, to go in to possess nations greater and mightier than thyself, cities great and fenced up to heaven,",
+        "WordCount": 29,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 5160,
+        "text": "A people great and tall, the children of the Anakims, whom thou knowest, and [of whom] thou hast heard [say], Who can stand before the children of Anak!",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 5161,
+        "text": "Understand therefore this day, that the LORD thy God [is] he which goeth over before thee; [as] a consuming fire he shall destroy them, and he shall bring them down before thy face: so shalt thou drive them out, and destroy them quickly, as the LORD hath said unto thee.",
+        "WordCount": 50,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 5162,
+        "text": "Speak not thou in thine heart, after that the LORD thy God hath cast them out from before thee, saying, For my righteousness the LORD hath brought me in to possess this land: but for the wickedness of these nations the LORD doth drive them out from before thee.",
+        "WordCount": 49,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 5163,
+        "text": "Not for thy righteousness, or for the uprightness of thine heart, dost thou go to possess their land: but for the wickedness of these nations the LORD thy God doth drive them out from before thee, and that he may perform the word which the LORD sware unto thy fathers, Abraham, Isaac, and Jacob.",
+        "WordCount": 54,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 5164,
+        "text": "Understand therefore, that the LORD thy God giveth thee not this good land to possess it for thy righteousness; for thou [art] a stiffnecked people.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 5165,
+        "text": "Remember, [and] forget not, how thou provokedst the LORD thy God to wrath in the wilderness: from the day that thou didst depart out of the land of Egypt, until ye came unto this place, ye have been rebellious against the LORD.",
+        "WordCount": 42,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 8,
+        "count": 5166,
+        "text": "Also in Horeb ye provoked the LORD to wrath, so that the LORD was angry with you to have destroyed you.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 5167,
+        "text": "When I was gone up into the mount to receive the tables of stone, [even] the tables of the covenant which the LORD made with you, then I abode in the mount forty days and forty nights, I neither did eat bread nor drink water:",
+        "WordCount": 45,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 5168,
+        "text": "And the LORD delivered unto me two tables of stone written with the finger of God; and on them [was written] according to all the words, which the LORD spake with you in the mount out of the midst of the fire in the day of the assembly.",
+        "WordCount": 48,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 5169,
+        "text": "And it came to pass at the end of forty days and forty nights, [that] the LORD gave me the two tables of stone, [even] the tables of the covenant.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 5170,
+        "text": "And the LORD said unto me, Arise, get thee down quickly from hence; for thy people which thou hast brought forth out of Egypt have corrupted [themselves]; they are quickly turned aside out of the way which I commanded them; they have made them a molten image.",
+        "WordCount": 47,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 5171,
+        "text": "Furthermore the LORD spake unto me, saying, I have seen this people, and, behold, it [is] a stiffnecked people:",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 5172,
+        "text": "Let me alone, that I may destroy them, and blot out their name from under heaven: and I will make of thee a nation mightier and greater than they.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 5173,
+        "text": "So I turned and came down from the mount, and the mount burned with fire: and the two tables of the covenant [were] in my two hands.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 5174,
+        "text": "And I looked, and, behold, ye had sinned against the LORD your God, [and] had made you a molten calf: ye had turned aside quickly out of the way which the LORD had commanded you.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 5175,
+        "text": "And I took the two tables, and cast them out of my two hands, and brake them before your eyes.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 5176,
+        "text": "And I fell down before the LORD, as at the first, forty days and forty nights: I did neither eat bread, nor drink water, because of all your sins which ye sinned, in doing wickedly in the sight of the LORD, to provoke him to anger.",
+        "WordCount": 46,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 5177,
+        "text": "For I was afraid of the anger and hot displeasure, wherewith the LORD was wroth against you to destroy you. But the LORD hearkened unto me at that time also.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 5178,
+        "text": "And the LORD was very angry with Aaron to have destroyed him: and I prayed for Aaron also the same time.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 5179,
+        "text": "And I took your sin, the calf which ye had made, and burnt it with fire, and stamped it, [and] ground [it] very small, [even] until it was as small as dust: and I cast the dust thereof into the brook that descended out of the mount.",
+        "WordCount": 47,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 5180,
+        "text": "And at Taberah, and at Massah, and at Kibrothhattaavah, ye provoked the LORD to wrath.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 5181,
+        "text": "Likewise when the LORD sent you from Kadeshbarnea, saying, Go up and possess the land which I have given you; then ye rebelled against the commandment of the LORD your God, and ye believed him not, nor hearkened to his voice.",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 5182,
+        "text": "Ye have been rebellious against the LORD from the day that I knew you.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 5183,
+        "text": "Thus I fell down before the LORD forty days and forty nights, as I fell down [at the first]; because the LORD had said he would destroy you.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 5184,
+        "text": "I prayed therefore unto the LORD, and said, O Lord GOD, destroy not thy people and thine inheritance, which thou hast redeemed through thy greatness, which thou hast brought forth out of Egypt with a mighty hand.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 5185,
+        "text": "Remember thy servants, Abraham, Isaac, and Jacob; look not unto the stubbornness of this people, nor to their wickedness, nor to their sin:",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 5186,
+        "text": "Lest the land whence thou broughtest us out say, Because the LORD was not able to bring them into the land which he promised them, and because he hated them, he hath brought them out to slay them in the wilderness.",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 5187,
+        "text": "Yet they [are] thy people and thine inheritance, which thou broughtest out by thy mighty power and by thy stretched out arm.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

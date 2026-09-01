@@ -1,0 +1,264 @@
+{
+  "version": "AKJV",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 1,"name": "Genesis","MaxChapters": 50},
+  "chapter": {
+    "Cnumber": 37,
+    "count": 37,
+    "MaxVerses": 36,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 1085,
+        "text": "And Jacob dwelt in the land wherein his father was a stranger, in the land of Canaan.",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 1086,
+        "text": "These [are] the generations of Jacob. Joseph, [being] seventeen years old, was feeding the flock with his brethren; and the lad [was] with the sons of Bilhah, and with the sons of Zilpah, his father's wives: and Joseph brought unto his father their evil report.",
+        "WordCount": 45,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 1087,
+        "text": "Now Israel loved Joseph more than all his children, because he [was] the son of his old age: and he made him a coat of [many] colours.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 1088,
+        "text": "And when his brethren saw that their father loved him more than all his brethren, they hated him, and could not speak peaceably unto him.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 1089,
+        "text": "And Joseph dreamed a dream, and he told [it] his brethren: and they hated him yet the more.",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 6,
+        "count": 1090,
+        "text": "And he said unto them, Hear, I pray you, this dream which I have dreamed:",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 1091,
+        "text": "For, behold, we [were] binding sheaves in the field, and, lo, my sheaf arose, and also stood upright; and, behold, your sheaves stood round about, and made obeisance to my sheaf.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 1092,
+        "text": "And his brethren said to him, Shalt thou indeed reign over us? or shalt thou indeed have dominion over us? And they hated him yet the more for his dreams, and for his words.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 1093,
+        "text": "And he dreamed yet another dream, and told it his brethren, and said, Behold, I have dreamed a dream more; and, behold, the sun and the moon and the eleven stars made obeisance to me.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 1094,
+        "text": "And he told [it] to his father, and to his brethren: and his father rebuked him, and said unto him, What [is] this dream that thou hast dreamed? Shall I and thy mother and thy brethren indeed come to bow down ourselves to thee to the earth?",
+        "WordCount": 47,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 1095,
+        "text": "And his brethren envied him; but his father observed the saying.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 1096,
+        "text": "And his brethren went to feed their father's flock in Shechem.",
+        "WordCount": 11,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 13,
+        "count": 1097,
+        "text": "And Israel said unto Joseph, Do not thy brethren feed [the flock] in Shechem? come, and I will send thee unto them. And he said to him, Here [am I].",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 1098,
+        "text": "And he said to him, Go, I pray thee, see whether it be well with thy brethren, and well with the flocks; and bring me word again. So he sent him out of the vale of Hebron, and he came to Shechem.",
+        "WordCount": 42,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 1099,
+        "text": "And a certain man found him, and, behold, [he was] wandering in the field: and the man asked him, saying, What seekest thou?",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 1100,
+        "text": "And he said, I seek my brethren: tell me, I pray thee, where they feed [their flocks].",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 1101,
+        "text": "And the man said, They are departed hence; for I heard them say, Let us go to Dothan. And Joseph went after his brethren, and found them in Dothan.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 1102,
+        "text": "And when they saw him afar off, even before he came near unto them, they conspired against him to slay him.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 1103,
+        "text": "And they said one to another, Behold, this dreamer cometh.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 1104,
+        "text": "Come now therefore, and let us slay him, and cast him into some pit, and we will say, Some evil beast hath devoured him: and we shall see what will become of his dreams.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 1105,
+        "text": "And Reuben heard [it], and he delivered him out of their hands; and said, Let us not kill him.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 1106,
+        "text": "And Reuben said unto them, Shed no blood, [but] cast him into this pit that [is] in the wilderness, and lay no hand upon him; that he might rid him out of their hands, to deliver him to his father again.",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 1107,
+        "text": "And it came to pass, when Joseph was come unto his brethren, that they stript Joseph out of his coat, [his] coat of [many] colours that [was] on him;",
+        "WordCount": 29,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 24,
+        "count": 1108,
+        "text": "And they took him, and cast him into a pit: and the pit [was] empty, [there was] no water in it.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 1109,
+        "text": "And they sat down to eat bread: and they lifted up their eyes and looked, and, behold, a company of Ishmeelites came from Gilead with their camels bearing spicery and balm and myrrh, going to carry [it] down to Egypt.",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 1110,
+        "text": "And Judah said unto his brethren, What profit [is it] if we slay our brother, and conceal his blood?",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 1111,
+        "text": "Come, and let us sell him to the Ishmeelites, and let not our hand be upon him; for he [is] our brother [and] our flesh. And his brethren were content.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 1112,
+        "text": "Then there passed by Midianites merchantmen; and they drew and lifted up Joseph out of the pit, and sold Joseph to the Ishmeelites for twenty [pieces] of silver: and they brought Joseph into Egypt.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 1113,
+        "text": "And Reuben returned unto the pit; and, behold, Joseph [was] not in the pit; and he rent his clothes.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 1114,
+        "text": "And he returned unto his brethren, and said, The child [is] not; and I, whither shall I go?",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 1115,
+        "text": "And they took Joseph's coat, and killed a kid of the goats, and dipped the coat in the blood;",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 32,
+        "count": 1116,
+        "text": "And they sent the coat of [many] colours, and they brought [it] to their father; and said, This have we found: know now whether it [be] thy son's coat or no.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 1117,
+        "text": "And he knew it, and said, [It is] my son's coat; an evil beast hath devoured him; Joseph is without doubt rent in pieces.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 1118,
+        "text": "And Jacob rent his clothes, and put sackcloth upon his loins, and mourned for his son many days.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 1119,
+        "text": "And all his sons and all his daughters rose up to comfort him; but he refused to be comforted; and he said, For I will go down into the grave unto my son mourning. Thus his father wept for him.",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 36,
+        "count": 1120,
+        "text": "And the Midianites sold him into Egypt unto Potiphar, an officer of Pharaoh's, [and] captain of the guard.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

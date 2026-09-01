@@ -1,0 +1,103 @@
+{
+  "version": "AKJV",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 4,"name": "Numbers","MaxChapters": 36},
+  "chapter": {
+    "Cnumber": 36,
+    "count": 153,
+    "MaxVerses": 13,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 4881,
+        "text": "And the chief fathers of the families of the children of Gilead, the son of Machir, the son of Manasseh, of the families of the sons of Joseph, came near, and spake before Moses, and before the princes, the chief fathers of the children of Israel:",
+        "WordCount": 46,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 4882,
+        "text": "And they said, The LORD commanded my lord to give the land for an inheritance by lot to the children of Israel: and my lord was commanded by the LORD to give the inheritance of Zelophehad our brother unto his daughters.",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 4883,
+        "text": "And if they be married to any of the sons of the [other] tribes of the children of Israel, then shall their inheritance be taken from the inheritance of our fathers, and shall be put to the inheritance of the tribe whereunto they are received: so shall it be taken from the lot of our inheritance.",
+        "WordCount": 56,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 4884,
+        "text": "And when the jubile of the children of Israel shall be, then shall their inheritance be put unto the inheritance of the tribe whereunto they are received: so shall their inheritance be taken away from the inheritance of the tribe of our fathers.",
+        "WordCount": 43,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 4885,
+        "text": "And Moses commanded the children of Israel according to the word of the LORD, saying, The tribe of the sons of Joseph hath said well.",
+        "WordCount": 25,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 6,
+        "count": 4886,
+        "text": "This [is] the thing which the LORD doth command concerning the daughters of Zelophehad, saying, Let them marry to whom they think best; only to the family of the tribe of their father shall they marry.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 4887,
+        "text": "So shall not the inheritance of the children of Israel remove from tribe to tribe: for every one of the children of Israel shall keep himself to the inheritance of the tribe of his fathers.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 4888,
+        "text": "And every daughter, that possesseth an inheritance in any tribe of the children of Israel, shall be wife unto one of the family of the tribe of her father, that the children of Israel may enjoy every man the inheritance of his fathers.",
+        "WordCount": 43,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 4889,
+        "text": "Neither shall the inheritance remove from [one] tribe to another tribe; but every one of the tribes of the children of Israel shall keep himself to his own inheritance.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 4890,
+        "text": "Even as the LORD commanded Moses, so did the daughters of Zelophehad:",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 4891,
+        "text": "For Mahlah, Tirzah, and Hoglah, and Milcah, and Noah, the daughters of Zelophehad, were married unto their father's brothers' sons:",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 4892,
+        "text": "[And] they were married into the families of the sons of Manasseh the son of Joseph, and their inheritance remained in the tribe of the family of their father.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 4893,
+        "text": "These [are] the commandments and the judgments, which the LORD commanded by the hand of Moses unto the children of Israel in the plains of Moab by Jordan [near] Jericho.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

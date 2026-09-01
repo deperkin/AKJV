@@ -1,0 +1,390 @@
+{
+  "version": "AKJV",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 4,"name": "Numbers","MaxChapters": 36},
+  "chapter": {
+    "Cnumber": 1,
+    "count": 118,
+    "MaxVerses": 54,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 3606,
+        "text": "And the LORD spake unto Moses in the wilderness of Sinai, in the tabernacle of the congregation, on the first [day] of the second month, in the second year after they were come out of the land of Egypt, saying,",
+        "WordCount": 40,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 3607,
+        "text": "Take ye the sum of all the congregation of the children of Israel, after their families, by the house of their fathers, with the number of [their] names, every male by their polls;",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 3608,
+        "text": "From twenty years old and upward, all that are able to go forth to war in Israel: thou and Aaron shall number them by their armies.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 3609,
+        "text": "And with you there shall be a man of every tribe; every one head of the house of his fathers.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 3610,
+        "text": "And these [are] the names of the men that shall stand with you: of [the tribe of] Reuben; Elizur the son of Shedeur.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 3611,
+        "text": "Of Simeon; Shelumiel the son of Zurishaddai.",
+        "WordCount": 7,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 3612,
+        "text": "Of Judah; Nahshon the son of Amminadab.",
+        "WordCount": 7,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 3613,
+        "text": "Of Issachar; Nethaneel the son of Zuar.",
+        "WordCount": 7,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 3614,
+        "text": "Of Zebulun; Eliab the son of Helon.",
+        "WordCount": 7,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 3615,
+        "text": "Of the children of Joseph: of Ephraim; Elishama the son of Ammihud: of Manasseh; Gamaliel the son of Pedahzur.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 3616,
+        "text": "Of Benjamin; Abidan the son of Gideoni.",
+        "WordCount": 7,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 3617,
+        "text": "Of Dan; Ahiezer the son of Ammishaddai.",
+        "WordCount": 7,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 3618,
+        "text": "Of Asher; Pagiel the son of Ocran.",
+        "WordCount": 7,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 3619,
+        "text": "Of Gad; Eliasaph the son of Deuel.",
+        "WordCount": 7,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 3620,
+        "text": "Of Naphtali; Ahira the son of Enan.",
+        "WordCount": 7,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 3621,
+        "text": "These [were] the renowned of the congregation, princes of the tribes of their fathers, heads of thousands in Israel.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 3622,
+        "text": "And Moses and Aaron took these men which are expressed by [their] names:",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 18,
+        "count": 3623,
+        "text": "And they assembled all the congregation together on the first [day] of the second month, and they declared their pedigrees after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, by their polls.",
+        "WordCount": 45,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 3624,
+        "text": "As the LORD commanded Moses, so he numbered them in the wilderness of Sinai.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 3625,
+        "text": "And the children of Reuben, Israel's eldest son, by their generations, after their families, by the house of their fathers, according to the number of the names, by their polls, every male from twenty years old and upward, all that were able to go forth to war;",
+        "WordCount": 47,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 3626,
+        "text": "Those that were numbered of them, [even] of the tribe of Reuben, [were] forty and six thousand and five hundred.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 3627,
+        "text": "Of the children of Simeon, by their generations, after their families, by the house of their fathers, those that were numbered of them, according to the number of the names, by their polls, every male from twenty years old and upward, all that were able to go forth to war;",
+        "WordCount": 50,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 3628,
+        "text": "Those that were numbered of them, [even] of the tribe of Simeon, [were] fifty and nine thousand and three hundred.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 3629,
+        "text": "Of the children of Gad, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 3630,
+        "text": "Those that were numbered of them, [even] of the tribe of Gad, [were] forty and five thousand six hundred and fifty.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 3631,
+        "text": "Of the children of Judah, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 3632,
+        "text": "Those that were numbered of them, [even] of the tribe of Judah, [were] threescore and fourteen thousand and six hundred.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 3633,
+        "text": "Of the children of Issachar, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 3634,
+        "text": "Those that were numbered of them, [even] of the tribe of Issachar, [were] fifty and four thousand and four hundred.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 3635,
+        "text": "Of the children of Zebulun, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 3636,
+        "text": "Those that were numbered of them, [even] of the tribe of Zebulun, [were] fifty and seven thousand and four hundred.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 3637,
+        "text": "Of the children of Joseph, [namely], of the children of Ephraim, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;",
+        "WordCount": 45,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 3638,
+        "text": "Those that were numbered of them, [even] of the tribe of Ephraim, [were] forty thousand and five hundred.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 3639,
+        "text": "Of the children of Manasseh, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 3640,
+        "text": "Those that were numbered of them, [even] of the tribe of Manasseh, [were] thirty and two thousand and two hundred.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 36,
+        "count": 3641,
+        "text": "Of the children of Benjamin, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 37,
+        "count": 3642,
+        "text": "Those that were numbered of them, [even] of the tribe of Benjamin, [were] thirty and five thousand and four hundred.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 38,
+        "count": 3643,
+        "text": "Of the children of Dan, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 39,
+        "count": 3644,
+        "text": "Those that were numbered of them, [even] of the tribe of Dan, [were] threescore and two thousand and seven hundred.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 40,
+        "count": 3645,
+        "text": "Of the children of Asher, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 41,
+        "count": 3646,
+        "text": "Those that were numbered of them, [even] of the tribe of Asher, [were] forty and one thousand and five hundred.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 42,
+        "count": 3647,
+        "text": "Of the children of Naphtali, throughout their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 43,
+        "count": 3648,
+        "text": "Those that were numbered of them, [even] of the tribe of Naphtali, [were] fifty and three thousand and four hundred.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 44,
+        "count": 3649,
+        "text": "These [are] those that were numbered, which Moses and Aaron numbered, and the princes of Israel, [being] twelve men: each one was for the house of his fathers.",
+        "WordCount": 28,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 45,
+        "count": 3650,
+        "text": "So were all those that were numbered of the children of Israel, by the house of their fathers, from twenty years old and upward, all that were able to go forth to war in Israel;",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 46,
+        "count": 3651,
+        "text": "Even all they that were numbered were six hundred thousand and three thousand and five hundred and fifty.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 47,
+        "count": 3652,
+        "text": "But the Levites after the tribe of their fathers were not numbered among them.",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 48,
+        "count": 3653,
+        "text": "For the LORD had spoken unto Moses, saying,",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 49,
+        "count": 3654,
+        "text": "Only thou shalt not number the tribe of Levi, neither take the sum of them among the children of Israel:",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 50,
+        "count": 3655,
+        "text": "But thou shalt appoint the Levites over the tabernacle of testimony, and over all the vessels thereof, and over all things that [belong] to it: they shall bear the tabernacle, and all the vessels thereof; and they shall minister unto it, and shall encamp round about the tabernacle.",
+        "WordCount": 48,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 51,
+        "count": 3656,
+        "text": "And when the tabernacle setteth forward, the Levites shall take it down: and when the tabernacle is to be pitched, the Levites shall set it up: and the stranger that cometh nigh shall be put to death.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 52,
+        "count": 3657,
+        "text": "And the children of Israel shall pitch their tents, every man by his own camp, and every man by his own standard, throughout their hosts.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 53,
+        "count": 3658,
+        "text": "But the Levites shall pitch round about the tabernacle of testimony, that there be no wrath upon the congregation of the children of Israel: and the Levites shall keep the charge of the tabernacle of testimony.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 54,
+        "count": 3659,
+        "text": "And the children of Israel did according to all that the LORD commanded Moses, so did they.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,257 @@
+{
+  "version": "AKJV",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 2,"name": "Exodus","MaxChapters": 40},
+  "chapter": {
+    "Cnumber": 35,
+    "count": 85,
+    "MaxVerses": 35,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 2533,
+        "text": "And Moses gathered all the congregation of the children of Israel together, and said unto them, These [are] the words which the LORD hath commanded, that [ye] should do them.",
+        "WordCount": 30,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 2534,
+        "text": "Six days shall work be done, but on the seventh day there shall be to you an holy day, a sabbath of rest to the LORD: whosoever doeth work therein shall be put to death.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 2535,
+        "text": "Ye shall kindle no fire throughout your habitations upon the sabbath day.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 2536,
+        "text": "And Moses spake unto all the congregation of the children of Israel, saying, This [is] the thing which the LORD commanded, saying,",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 2537,
+        "text": "Take ye from among you an offering unto the LORD: whosoever [is] of a willing heart, let him bring it, an offering of the LORD; gold, and silver, and brass,",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 2538,
+        "text": "And blue, and purple, and scarlet, and fine linen, and goats' [hair],",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 2539,
+        "text": "And rams' skins dyed red, and badgers' skins, and shittim wood,",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 2540,
+        "text": "And oil for the light, and spices for anointing oil, and for the sweet incense,",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 2541,
+        "text": "And onyx stones, and stones to be set for the ephod, and for the breastplate.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 2542,
+        "text": "And every wise hearted among you shall come, and make all that the LORD hath commanded;",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 2543,
+        "text": "The tabernacle, his tent, and his covering, his taches, and his boards, his bars, his pillars, and his sockets,",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 2544,
+        "text": "The ark, and the staves thereof, [with] the mercy seat, and the vail of the covering,",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 2545,
+        "text": "The table, and his staves, and all his vessels, and the shewbread,",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 2546,
+        "text": "The candlestick also for the light, and his furniture, and his lamps, with the oil for the light,",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 2547,
+        "text": "And the incense altar, and his staves, and the anointing oil, and the sweet incense, and the hanging for the door at the entering in of the tabernacle,",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 2548,
+        "text": "The altar of burnt offering, with his brasen grate, his staves, and all his vessels, the laver and his foot,",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 2549,
+        "text": "The hangings of the court, his pillars, and their sockets, and the hanging for the door of the court,",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 2550,
+        "text": "The pins of the tabernacle, and the pins of the court, and their cords,",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 2551,
+        "text": "The cloths of service, to do service in the holy [place], the holy garments for Aaron the priest, and the garments of his sons, to minister in the priest's office.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 2552,
+        "text": "And all the congregation of the children of Israel departed from the presence of Moses.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 21,
+        "count": 2553,
+        "text": "And they came, every one whose heart stirred him up, and every one whom his spirit made willing, [and] they brought the LORD'S offering to the work of the tabernacle of the congregation, and for all his service, and for the holy garments.",
+        "WordCount": 43,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 2554,
+        "text": "And they came, both men and women, as many as were willing hearted, [and] brought bracelets, and earrings, and rings, and tablets, all jewels of gold: and every man that offered [offered] an offering of gold unto the LORD.",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 2555,
+        "text": "And every man, with whom was found blue, and purple, and scarlet, and fine linen, and goats' [hair], and red skins of rams, and badgers' skins, brought [them].",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 2556,
+        "text": "Every one that did offer an offering of silver and brass brought the LORD'S offering: and every man, with whom was found shittim wood for any work of the service, brought [it].",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 2557,
+        "text": "And all the women that were wise hearted did spin with their hands, and brought that which they had spun, [both] of blue, and of purple, [and] of scarlet, and of fine linen.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 2558,
+        "text": "And all the women whose heart stirred them up in wisdom spun goats' [hair].",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 2559,
+        "text": "And the rulers brought onyx stones, and stones to be set, for the ephod, and for the breastplate;",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 2560,
+        "text": "And spice, and oil for the light, and for the anointing oil, and for the sweet incense.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 2561,
+        "text": "The children of Israel brought a willing offering unto the LORD, every man and woman, whose heart made them willing to bring for all manner of work, which the LORD had commanded to be made by the hand of Moses.",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 2562,
+        "text": "And Moses said unto the children of Israel, See, the LORD hath called by name Bezaleel the son of Uri, the son of Hur, of the tribe of Judah;",
+        "WordCount": 29,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 31,
+        "count": 2563,
+        "text": "And he hath filled him with the spirit of God, in wisdom, in understanding, and in knowledge, and in all manner of workmanship;",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 2564,
+        "text": "And to devise curious works, to work in gold, and in silver, and in brass,",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 2565,
+        "text": "And in the cutting of stones, to set [them], and in carving of wood, to make any manner of cunning work.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 2566,
+        "text": "And he hath put in his heart that he may teach, [both] he, and Aholiab, the son of Ahisamach, of the tribe of Dan.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 2567,
+        "text": "Them hath he filled with wisdom of heart, to work all manner of work, of the engraver, and of the cunning workman, and of the embroiderer, in blue, and in purple, in scarlet, and in fine linen, and of the weaver, [even] of them that do any work, and of those that devise cunning work.",
+        "WordCount": 55,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "version": "AKJV",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 5,"name": "Deuteronomy","MaxChapters": 34},
+  "chapter": {
+    "Cnumber": 12,
+    "count": 165,
+    "MaxVerses": 32,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 5242,
+        "text": "These [are] the statutes and judgments, which ye shall observe to do in the land, which the LORD God of thy fathers giveth thee to possess it, all the days that ye live upon the earth.",
+        "WordCount": 36,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 5243,
+        "text": "Ye shall utterly destroy all the places, wherein the nations which ye shall possess served their gods, upon the high mountains, and upon the hills, and under every green tree:",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 5244,
+        "text": "And ye shall overthrow their altars, and break their pillars, and burn their groves with fire; and ye shall hew down the graven images of their gods, and destroy the names of them out of that place.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 5245,
+        "text": "Ye shall not do so unto the LORD your God.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 5246,
+        "text": "But unto the place which the LORD your God shall choose out of all your tribes to put his name there, [even] unto his habitation shall ye seek, and thither thou shalt come:",
+        "WordCount": 33,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 6,
+        "count": 5247,
+        "text": "And thither ye shall bring your burnt offerings, and your sacrifices, and your tithes, and heave offerings of your hand, and your vows, and your freewill offerings, and the firstlings of your herds and of your flocks:",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 5248,
+        "text": "And there ye shall eat before the LORD your God, and ye shall rejoice in all that ye put your hand unto, ye and your households, wherein the LORD thy God hath blessed thee.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 5249,
+        "text": "Ye shall not do after all [the things] that we do here this day, every man whatsoever [is] right in his own eyes.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 5250,
+        "text": "For ye are not as yet come to the rest and to the inheritance, which the LORD your God giveth you.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 5251,
+        "text": "But [when] ye go over Jordan, and dwell in the land which the LORD your God giveth you to inherit, and [when] he giveth you rest from all your enemies round about, so that ye dwell in safety;",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 5252,
+        "text": "Then there shall be a place which the LORD your God shall choose to cause his name to dwell there; thither shall ye bring all that I command you; your burnt offerings, and your sacrifices, your tithes, and the heave offering of your hand, and all your choice vows which ye vow unto the LORD:",
+        "WordCount": 55,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 5253,
+        "text": "And ye shall rejoice before the LORD your God, ye, and your sons, and your daughters, and your menservants, and your maidservants, and the Levite that [is] within your gates; forasmuch as he hath no part nor inheritance with you.",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 5254,
+        "text": "Take heed to thyself that thou offer not thy burnt offerings in every place that thou seest:",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 5255,
+        "text": "But in the place which the LORD shall choose in one of thy tribes, there thou shalt offer thy burnt offerings, and there thou shalt do all that I command thee.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 5256,
+        "text": "Notwithstanding thou mayest kill and eat flesh in all thy gates, whatsoever thy soul lusteth after, according to the blessing of the LORD thy God which he hath given thee: the unclean and the clean may eat thereof, as of the roebuck, and as of the hart.",
+        "WordCount": 47,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 5257,
+        "text": "Only ye shall not eat the blood; ye shall pour it upon the earth as water.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 5258,
+        "text": "Thou mayest not eat within thy gates the tithe of thy corn, or of thy wine, or of thy oil, or the firstlings of thy herds or of thy flock, nor any of thy vows which thou vowest, nor thy freewill offerings, or heave offering of thine hand:",
+        "WordCount": 48,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 5259,
+        "text": "But thou must eat them before the LORD thy God in the place which the LORD thy God shall choose, thou, and thy son, and thy daughter, and thy manservant, and thy maidservant, and the Levite that [is] within thy gates: and thou shalt rejoice before the LORD thy God in all that thou puttest thine hands unto.",
+        "WordCount": 58,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 5260,
+        "text": "Take heed to thyself that thou forsake not the Levite as long as thou livest upon the earth.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 5261,
+        "text": "When the LORD thy God shall enlarge thy border, as he hath promised thee, and thou shalt say, I will eat flesh, because thy soul longeth to eat flesh; thou mayest eat flesh, whatsoever thy soul lusteth after.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 5262,
+        "text": "If the place which the LORD thy God hath chosen to put his name there be too far from thee, then thou shalt kill of thy herd and of thy flock, which the LORD hath given thee, as I have commanded thee, and thou shalt eat in thy gates whatsoever thy soul lusteth after.",
+        "WordCount": 54,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 5263,
+        "text": "Even as the roebuck and the hart is eaten, so thou shalt eat them: the unclean and the clean shall eat [of] them alike.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 5264,
+        "text": "Only be sure that thou eat not the blood: for the blood [is] the life; and thou mayest not eat the life with the flesh.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 5265,
+        "text": "Thou shalt not eat it; thou shalt pour it upon the earth as water.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 5266,
+        "text": "Thou shalt not eat it; that it may go well with thee, and with thy children after thee, when thou shalt do [that which is] right in the sight of the LORD.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 5267,
+        "text": "Only thy holy things which thou hast, and thy vows, thou shalt take, and go unto the place which the LORD shall choose:",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 5268,
+        "text": "And thou shalt offer thy burnt offerings, the flesh and the blood, upon the altar of the LORD thy God: and the blood of thy sacrifices shall be poured out upon the altar of the LORD thy God, and thou shalt eat the flesh.",
+        "WordCount": 44,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 5269,
+        "text": "Observe and hear all these words which I command thee, that it may go well with thee, and with thy children after thee for ever, when thou doest [that which is] good and right in the sight of the LORD thy God.",
+        "WordCount": 42,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 5270,
+        "text": "When the LORD thy God shall cut off the nations from before thee, whither thou goest to possess them, and thou succeedest them, and dwellest in their land;",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 5271,
+        "text": "Take heed to thyself that thou be not snared by following them, after that they be destroyed from before thee; and that thou enquire not after their gods, saying, How did these nations serve their gods? even so will I do likewise.",
+        "WordCount": 42,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 5272,
+        "text": "Thou shalt not do so unto the LORD thy God: for every abomination to the LORD, which he hateth, have they done unto their gods; for even their sons and their daughters they have burnt in the fire to their gods.",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 5273,
+        "text": "What thing soever I command you, observe to do it: thou shalt not add thereto, nor diminish from it.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}
