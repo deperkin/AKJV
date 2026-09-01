@@ -1,0 +1,89 @@
+{
+  "version": "AKJV",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 57,
+    "count": 535,
+    "MaxVerses": 11,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 14770,
+        "text": "To the chief Musician, Altaschith, Michtam of David, when he fled from Saul in the cave. Be merciful unto me, O God, be merciful unto me: for my soul trusteth in thee: yea, in the shadow of thy wings will I make my refuge, until [these] calamities be overpast.",
+        "WordCount": 49,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 14771,
+        "text": "I will cry unto God most high; unto God that performeth [all things] for me.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 14772,
+        "text": "He shall send from heaven, and save me [from] the reproach of him that would swallow me up. Selah. God shall send forth his mercy and his truth.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 14773,
+        "text": "My soul [is] among lions: [and] I lie [even among] them that are set on fire, [even] the sons of men, whose teeth [are] spears and arrows, and their tongue a sharp sword.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 14774,
+        "text": "Be thou exalted, O God, above the heavens; [let] thy glory [be] above all the earth.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 14775,
+        "text": "They have prepared a net for my steps; my soul is bowed down: they have digged a pit before me, into the midst whereof they are fallen [themselves]. Selah.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 14776,
+        "text": "My heart is fixed, O God, my heart is fixed: I will sing and give praise.",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 8,
+        "count": 14777,
+        "text": "Awake up, my glory; awake, psaltery and harp: I [myself] will awake early.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 14778,
+        "text": "I will praise thee, O Lord, among the people: I will sing unto thee among the nations.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 14779,
+        "text": "For thy mercy [is] great unto the heavens, and thy truth unto the clouds.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 14780,
+        "text": "Be thou exalted, O God, above the heavens: [let] thy glory [be] above all the earth.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

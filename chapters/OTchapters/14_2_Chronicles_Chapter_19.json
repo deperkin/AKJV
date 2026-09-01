@@ -1,0 +1,89 @@
+{
+  "version": "AKJV",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 14,"name": "2 Chronicles","MaxChapters": 36},
+  "chapter": {
+    "Cnumber": 19,
+    "count": 386,
+    "MaxVerses": 11,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 11578,
+        "text": "And Jehoshaphat the king of Judah returned to his house in peace to Jerusalem.",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 11579,
+        "text": "And Jehu the son of Hanani the seer went out to meet him, and said to king Jehoshaphat, Shouldest thou help the ungodly, and love them that hate the LORD? therefore [is] wrath upon thee from before the LORD.",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 11580,
+        "text": "Nevertheless there are good things found in thee, in that thou hast taken away the groves out of the land, and hast prepared thine heart to seek God.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 11581,
+        "text": "And Jehoshaphat dwelt at Jerusalem: and he went out again through the people from Beersheba to mount Ephraim, and brought them back unto the LORD God of their fathers.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 11582,
+        "text": "And he set judges in the land throughout all the fenced cities of Judah, city by city,",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 6,
+        "count": 11583,
+        "text": "And said to the judges, Take heed what ye do: for ye judge not for man, but for the LORD, who [is] with you in the judgment.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 11584,
+        "text": "Wherefore now let the fear of the LORD be upon you; take heed and do [it]: for [there is] no iniquity with the LORD our God, nor respect of persons, nor taking of gifts.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 11585,
+        "text": "Moreover in Jerusalem did Jehoshaphat set of the Levites, and [of] the priests, and of the chief of the fathers of Israel, for the judgment of the LORD, and for controversies, when they returned to Jerusalem.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 11586,
+        "text": "And he charged them, saying, Thus shall ye do in the fear of the LORD, faithfully, and with a perfect heart.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 11587,
+        "text": "And what cause soever shall come to you of your brethren that dwell in their cities, between blood and blood, between law and commandment, statutes and judgments, ye shall even warn them that they trespass not against the LORD, and [so] wrath come upon you, and upon your brethren: this do, and ye shall not trespass.",
+        "WordCount": 56,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 11588,
+        "text": "And, behold, Amariah the chief priest [is] over you in all matters of the LORD; and Zebadiah the son of Ishmael, the ruler of the house of Judah, for all the king's matters: also the Levites [shall be] officers before you. Deal courageously, and the LORD shall be with the good.",
+        "WordCount": 51,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

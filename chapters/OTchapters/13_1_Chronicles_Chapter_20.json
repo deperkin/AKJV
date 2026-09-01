@@ -1,0 +1,68 @@
+{
+  "version": "AKJV",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 13,"name": "1 Chronicles","MaxChapters": 29},
+  "chapter": {
+    "Cnumber": 20,
+    "count": 358,
+    "MaxVerses": 8,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 10928,
+        "text": "And it came to pass, that after the year was expired, at the time that kings go out [to battle], Joab led forth the power of the army, and wasted the country of the children of Ammon, and came and besieged Rabbah. But David tarried at Jerusalem. And Joab smote Rabbah, and destroyed it.",
+        "WordCount": 54,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 10929,
+        "text": "And David took the crown of their king from off his head, and found it to weigh a talent of gold, and [there were] precious stones in it; and it was set upon David's head: and he brought also exceeding much spoil out of the city.",
+        "WordCount": 46,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 10930,
+        "text": "And he brought out the people that [were] in it, and cut [them] with saws, and with harrows of iron, and with axes. Even so dealt David with all the cities of the children of Ammon. And David and all the people returned to Jerusalem.",
+        "WordCount": 45,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 10931,
+        "text": "And it came to pass after this, that there arose war at Gezer with the Philistines; at which time Sibbechai the Hushathite slew Sippai, [that was] of the children of the giant: and they were subdued.",
+        "WordCount": 36,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 5,
+        "count": 10932,
+        "text": "And there was war again with the Philistines; and Elhanan the son of Jair slew Lahmi the brother of Goliath the Gittite, whose spear staff [was] like a weaver's beam.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 10933,
+        "text": "And yet again there was war at Gath, where was a man of [great] stature, whose fingers and toes [were] four and twenty, six [on each hand], and six [on each foot]: and he also was the son of the giant.",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 10934,
+        "text": "But when he defied Israel, Jonathan the son of Shimea David's brother slew him.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 10935,
+        "text": "These were born unto the giant in Gath; and they fell by the hand of David, and by the hand of his servants.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

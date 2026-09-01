@@ -1,0 +1,96 @@
+{
+  "version": "AKJV",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 2,
+    "count": 480,
+    "MaxVerses": 12,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 13947,
+        "text": "Why do the heathen rage, and the people imagine a vain thing?",
+        "WordCount": 12,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 13948,
+        "text": "The kings of the earth set themselves, and the rulers take counsel together, against the LORD, and against his anointed, [saying],",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 13949,
+        "text": "Let us break their bands asunder, and cast away their cords from us.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 13950,
+        "text": "He that sitteth in the heavens shall laugh: the Lord shall have them in derision.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 13951,
+        "text": "Then shall he speak unto them in his wrath, and vex them in his sore displeasure.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 13952,
+        "text": "Yet have I set my king upon my holy hill of Zion.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 13953,
+        "text": "I will declare the decree: the LORD hath said unto me, Thou [art] my Son; this day have I begotten thee.",
+        "WordCount": 21,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 8,
+        "count": 13954,
+        "text": "Ask of me, and I shall give [thee] the heathen [for] thine inheritance, and the uttermost parts of the earth [for] thy possession.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 13955,
+        "text": "Thou shalt break them with a rod of iron; thou shalt dash them in pieces like a potter's vessel.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 13956,
+        "text": "Be wise now therefore, O ye kings: be instructed, ye judges of the earth.",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 11,
+        "count": 13957,
+        "text": "Serve the LORD with fear, and rejoice with trembling.",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 13958,
+        "text": "Kiss the Son, lest he be angry, and ye perish [from] the way, when his wrath is kindled but a little. Blessed [are] all they that put their trust in him.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

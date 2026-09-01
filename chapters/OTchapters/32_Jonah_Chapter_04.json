@@ -1,0 +1,89 @@
+{
+  "version": "AKJV",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 32,"name": "Jonah","MaxChapters": 4},
+  "chapter": {
+    "Cnumber": 4,
+    "count": 893,
+    "MaxVerses": 11,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 22570,
+        "text": "But it displeased Jonah exceedingly, and he was very angry.",
+        "WordCount": 10,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 22571,
+        "text": "And he prayed unto the LORD, and said, I pray thee, O LORD, [was] not this my saying, when I was yet in my country? Therefore I fled before unto Tarshish: for I knew that thou [art] a gracious God, and merciful, slow to anger, and of great kindness, and repentest thee of the evil.",
+        "WordCount": 55,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 22572,
+        "text": "Therefore now, O LORD, take, I beseech thee, my life from me; for [it is] better for me to die than to live.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 22573,
+        "text": "Then said the LORD, Doest thou well to be angry?",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 22574,
+        "text": "So Jonah went out of the city, and sat on the east side of the city, and there made him a booth, and sat under it in the shadow, till he might see what would become of the city.",
+        "WordCount": 39,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 6,
+        "count": 22575,
+        "text": "And the LORD God prepared a gourd, and made [it] to come up over Jonah, that it might be a shadow over his head, to deliver him from his grief. So Jonah was exceeding glad of the gourd.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 22576,
+        "text": "But God prepared a worm when the morning rose the next day, and it smote the gourd that it withered.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 22577,
+        "text": "And it came to pass, when the sun did arise, that God prepared a vehement east wind; and the sun beat upon the head of Jonah, that he fainted, and wished in himself to die, and said, [It is] better for me to die than to live.",
+        "WordCount": 47,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 22578,
+        "text": "And God said to Jonah, Doest thou well to be angry for the gourd? And he said, I do well to be angry, [even] unto death.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 22579,
+        "text": "Then said the LORD, Thou hast had pity on the gourd, for the which thou hast not laboured, neither madest it grow; which came up in a night, and perished in a night:",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 22580,
+        "text": "And should not I spare Nineveh, that great city, wherein are more than sixscore thousand persons that cannot discern between their right hand and their left hand; and [also] much cattle?",
+        "WordCount": 31,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

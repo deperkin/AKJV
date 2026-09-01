@@ -1,0 +1,355 @@
+{
+  "version": "AKJV",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 26,"name": "Ezekiel","MaxChapters": 48},
+  "chapter": {
+    "Cnumber": 40,
+    "count": 842,
+    "MaxVerses": 49,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 21479,
+        "text": "In the five and twentieth year of our captivity, in the beginning of the year, in the tenth [day] of the month, in the fourteenth year after that the city was smitten, in the selfsame day the hand of the LORD was upon me, and brought me thither.",
+        "WordCount": 48,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 21480,
+        "text": "In the visions of God brought he me into the land of Israel, and set me upon a very high mountain, by which [was] as the frame of a city on the south.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 21481,
+        "text": "And he brought me thither, and, behold, [there was] a man, whose appearance [was] like the appearance of brass, with a line of flax in his hand, and a measuring reed; and he stood in the gate.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 21482,
+        "text": "And the man said unto me, Son of man, behold with thine eyes, and hear with thine ears, and set thine heart upon all that I shall shew thee; for to the intent that I might shew [them] unto thee [art] thou brought hither: declare all that thou seest to the house of Israel.",
+        "WordCount": 54,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 21483,
+        "text": "And behold a wall on the outside of the house round about, and in the man's hand a measuring reed of six cubits [long] by the cubit and an hand breadth: so he measured the breadth of the building, one reed; and the height, one reed.",
+        "WordCount": 46,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 6,
+        "count": 21484,
+        "text": "Then came he unto the gate which looketh toward the east, and went up the stairs thereof, and measured the threshold of the gate, [which was] one reed broad; and the other threshold [of the gate, which was] one reed broad.",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 21485,
+        "text": "And [every] little chamber [was] one reed long, and one reed broad; and between the little chambers [were] five cubits; and the threshold of the gate by the porch of the gate within [was] one reed.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 21486,
+        "text": "He measured also the porch of the gate within, one reed.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 21487,
+        "text": "Then measured he the porch of the gate, eight cubits; and the posts thereof, two cubits; and the porch of the gate [was] inward.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 21488,
+        "text": "And the little chambers of the gate eastward [were] three on this side, and three on that side; they three [were] of one measure: and the posts had one measure on this side and on that side.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 21489,
+        "text": "And he measured the breadth of the entry of the gate, ten cubits; [and] the length of the gate, thirteen cubits.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 21490,
+        "text": "The space also before the little chambers [was] one cubit [on this side], and the space [was] one cubit on that side: and the little chambers [were] six cubits on this side, and six cubits on that side.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 21491,
+        "text": "He measured then the gate from the roof of [one] little chamber to the roof of another: the breadth [was] five and twenty cubits, door against door.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 21492,
+        "text": "He made also posts of threescore cubits, even unto the post of the court round about the gate.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 21493,
+        "text": "And from the face of the gate of the entrance unto the face of the porch of the inner gate [were] fifty cubits.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 21494,
+        "text": "And [there were] narrow windows to the little chambers, and to their posts within the gate round about, and likewise to the arches: and windows [were] round about inward: and upon [each] post [were] palm trees.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 21495,
+        "text": "Then brought he me into the outward court, and, lo, [there were] chambers, and a pavement made for the court round about: thirty chambers [were] upon the pavement.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 21496,
+        "text": "And the pavement by the side of the gates over against the length of the gates [was] the lower pavement.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 21497,
+        "text": "Then he measured the breadth from the forefront of the lower gate unto the forefront of the inner court without, an hundred cubits eastward and northward.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 21498,
+        "text": "And the gate of the outward court that looked toward the north, he measured the length thereof, and the breadth thereof.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 21499,
+        "text": "And the little chambers thereof [were] three on this side and three on that side; and the posts thereof and the arches thereof were after the measure of the first gate: the length thereof [was] fifty cubits, and the breadth five and twenty cubits.",
+        "WordCount": 44,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 21500,
+        "text": "And their windows, and their arches, and their palm trees, [were] after the measure of the gate that looketh toward the east; and they went up unto it by seven steps; and the arches thereof [were] before them.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 21501,
+        "text": "And the gate of the inner court [was] over against the gate toward the north, and toward the east; and he measured from gate to gate an hundred cubits.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 21502,
+        "text": "After that he brought me toward the south, and behold a gate toward the south: and he measured the posts thereof and the arches thereof according to these measures.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 21503,
+        "text": "And [there were] windows in it and in the arches thereof round about, like those windows: the length [was] fifty cubits, and the breadth five and twenty cubits.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 21504,
+        "text": "And [there were] seven steps to go up to it, and the arches thereof [were] before them: and it had palm trees, one on this side, and another on that side, upon the posts thereof.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 21505,
+        "text": "And [there was] a gate in the inner court toward the south: and he measured from gate to gate toward the south an hundred cubits.",
+        "WordCount": 25,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 28,
+        "count": 21506,
+        "text": "And he brought me to the inner court by the south gate: and he measured the south gate according to these measures;",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 21507,
+        "text": "And the little chambers thereof, and the posts thereof, and the arches thereof, according to these measures: and [there were] windows in it and in the arches thereof round about: [it was] fifty cubits long, and five and twenty cubits broad.",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 21508,
+        "text": "And the arches round about [were] five and twenty cubits long, and five cubits broad.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 21509,
+        "text": "And the arches thereof [were] toward the utter court; and palm trees [were] upon the posts thereof: and the going up to it [had] eight steps.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 21510,
+        "text": "And he brought me into the inner court toward the east: and he measured the gate according to these measures.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 21511,
+        "text": "And the little chambers thereof, and the posts thereof, and the arches thereof, [were] according to these measures: and [there were] windows therein and in the arches thereof round about: [it was] fifty cubits long, and five and twenty cubits broad.",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 21512,
+        "text": "And the arches thereof [were] toward the outward court; and palm trees [were] upon the posts thereof, on this side, and on that side: and the going up to it [had] eight steps.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 21513,
+        "text": "And he brought me to the north gate, and measured [it] according to these measures;",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 36,
+        "count": 21514,
+        "text": "The little chambers thereof, the posts thereof, and the arches thereof, and the windows to it round about: the length [was] fifty cubits, and the breadth five and twenty cubits.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 37,
+        "count": 21515,
+        "text": "And the posts thereof [were] toward the utter court; and palm trees [were] upon the posts thereof, on this side, and on that side: and the going up to it [had] eight steps.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 38,
+        "count": 21516,
+        "text": "And the chambers and the entries thereof [were] by the posts of the gates, where they washed the burnt offering.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 39,
+        "count": 21517,
+        "text": "And in the porch of the gate [were] two tables on this side, and two tables on that side, to slay thereon the burnt offering and the sin offering and the trespass offering.",
+        "WordCount": 33,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 40,
+        "count": 21518,
+        "text": "And at the side without, as one goeth up to the entry of the north gate, [were] two tables; and on the other side, which [was] at the porch of the gate, [were] two tables.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 41,
+        "count": 21519,
+        "text": "Four tables [were] on this side, and four tables on that side, by the side of the gate; eight tables, whereupon they slew [their sacrifices].",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 42,
+        "count": 21520,
+        "text": "And the four tables [were] of hewn stone for the burnt offering, of a cubit and an half long, and a cubit and an half broad, and one cubit high: whereupon also they laid the instruments wherewith they slew the burnt offering and the sacrifice.",
+        "WordCount": 45,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 43,
+        "count": 21521,
+        "text": "And within [were] hooks, an hand broad, fastened round about: and upon the tables [was] the flesh of the offering.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 44,
+        "count": 21522,
+        "text": "And without the inner gate [were] the chambers of the singers in the inner court, which [was] at the side of the north gate; and their prospect [was] toward the south: one at the side of the east gate [having] the prospect toward the north.",
+        "WordCount": 45,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 45,
+        "count": 21523,
+        "text": "And he said unto me, This chamber, whose prospect [is] toward the south, [is] for the priests, the keepers of the charge of the house.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 46,
+        "count": 21524,
+        "text": "And the chamber whose prospect [is] toward the north [is] for the priests, the keepers of the charge of the altar: these [are] the sons of Zadok among the sons of Levi, which come near to the LORD to minister unto him.",
+        "WordCount": 42,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 47,
+        "count": 21525,
+        "text": "So he measured the court, an hundred cubits long, and an hundred cubits broad, foursquare; and the altar [that was] before the house.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 48,
+        "count": 21526,
+        "text": "And he brought me to the porch of the house, and measured [each] post of the porch, five cubits on this side, and five cubits on that side: and the breadth of the gate [was] three cubits on this side, and three cubits on that side.",
+        "WordCount": 46,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 49,
+        "count": 21527,
+        "text": "The length of the porch [was] twenty cubits, and the breadth eleven cubits; and [he brought me] by the steps whereby they went up to it: and [there were] pillars by the posts, one on this side, and another on that side.",
+        "WordCount": 42,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

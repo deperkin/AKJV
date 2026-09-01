@@ -1,0 +1,82 @@
+{
+  "version": "AKJV",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 6,
+    "count": 484,
+    "MaxVerses": 10,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 13987,
+        "text": "To the chief Musician on Neginoth upon Sheminith, A Psalm of David. O LORD, rebuke me not in thine anger, neither chasten me in thy hot displeasure.",
+        "WordCount": 27,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 13988,
+        "text": "Have mercy upon me, O LORD; for I [am] weak: O LORD, heal me; for my bones are vexed.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 13989,
+        "text": "My soul is also sore vexed: but thou, O LORD, how long?",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 13990,
+        "text": "Return, O LORD, deliver my soul: oh save me for thy mercies' sake.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 13991,
+        "text": "For in death [there is] no remembrance of thee: in the grave who shall give thee thanks?",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 13992,
+        "text": "I am weary with my groaning; all the night make I my bed to swim; I water my couch with my tears.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 13993,
+        "text": "Mine eye is consumed because of grief; it waxeth old because of all mine enemies.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 13994,
+        "text": "Depart from me, all ye workers of iniquity; for the LORD hath heard the voice of my weeping.",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 9,
+        "count": 13995,
+        "text": "The LORD hath heard my supplication; the LORD will receive my prayer.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 13996,
+        "text": "Let all mine enemies be ashamed and sore vexed: let them return [and] be ashamed suddenly.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

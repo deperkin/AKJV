@@ -1,0 +1,257 @@
+{
+  "version": "AKJV",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 18,"name": "Job","MaxChapters": 42},
+  "chapter": {
+    "Cnumber": 15,
+    "count": 451,
+    "MaxVerses": 35,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 13205,
+        "text": "Then answered Eliphaz the Temanite, and said,",
+        "WordCount": 7,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 13206,
+        "text": "Should a wise man utter vain knowledge, and fill his belly with the east wind?",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 13207,
+        "text": "Should he reason with unprofitable talk? or with speeches wherewith he can do no good?",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 13208,
+        "text": "Yea, thou castest off fear, and restrainest prayer before God.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 13209,
+        "text": "For thy mouth uttereth thine iniquity, and thou choosest the tongue of the crafty.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 13210,
+        "text": "Thine own mouth condemneth thee, and not I: yea, thine own lips testify against thee.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 13211,
+        "text": "[Art] thou the first man [that] was born? or wast thou made before the hills?",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 13212,
+        "text": "Hast thou heard the secret of God? and dost thou restrain wisdom to thyself?",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 13213,
+        "text": "What knowest thou, that we know not? [what] understandest thou, which [is] not in us?",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 13214,
+        "text": "With us [are] both the grayheaded and very aged men, much elder than thy father.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 13215,
+        "text": "[Are] the consolations of God small with thee? is there any secret thing with thee?",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 13216,
+        "text": "Why doth thine heart carry thee away? and what do thy eyes wink at,",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 13217,
+        "text": "That thou turnest thy spirit against God, and lettest [such] words go out of thy mouth?",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 13218,
+        "text": "What [is] man, that he should be clean? and [he which is] born of a woman, that he should be righteous?",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 13219,
+        "text": "Behold, he putteth no trust in his saints; yea, the heavens are not clean in his sight.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 13220,
+        "text": "How much more abominable and filthy [is] man, which drinketh iniquity like water?",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 13221,
+        "text": "I will shew thee, hear me; and that [which] I have seen I will declare;",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 18,
+        "count": 13222,
+        "text": "Which wise men have told from their fathers, and have not hid [it]:",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 13223,
+        "text": "Unto whom alone the earth was given, and no stranger passed among them.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 13224,
+        "text": "The wicked man travaileth with pain all [his] days, and the number of years is hidden to the oppressor.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 13225,
+        "text": "A dreadful sound [is] in his ears: in prosperity the destroyer shall come upon him.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 13226,
+        "text": "He believeth not that he shall return out of darkness, and he is waited for of the sword.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 13227,
+        "text": "He wandereth abroad for bread, [saying], Where [is it]? he knoweth that the day of darkness is ready at his hand.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 13228,
+        "text": "Trouble and anguish shall make him afraid; they shall prevail against him, as a king ready to the battle.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 13229,
+        "text": "For he stretcheth out his hand against God, and strengtheneth himself against the Almighty.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 13230,
+        "text": "He runneth upon him, [even] on [his] neck, upon the thick bosses of his bucklers:",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 13231,
+        "text": "Because he covereth his face with his fatness, and maketh collops of fat on [his] flanks.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 13232,
+        "text": "And he dwelleth in desolate cities, [and] in houses which no man inhabiteth, which are ready to become heaps.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 13233,
+        "text": "He shall not be rich, neither shall his substance continue, neither shall he prolong the perfection thereof upon the earth.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 13234,
+        "text": "He shall not depart out of darkness; the flame shall dry up his branches, and by the breath of his mouth shall he go away.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 13235,
+        "text": "Let not him that is deceived trust in vanity: for vanity shall be his recompence.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 13236,
+        "text": "It shall be accomplished before his time, and his branch shall not be green.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 13237,
+        "text": "He shall shake off his unripe grape as the vine, and shall cast off his flower as the olive.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 13238,
+        "text": "For the congregation of hypocrites [shall be] desolate, and fire shall consume the tabernacles of bribery.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 13239,
+        "text": "They conceive mischief, and bring forth vanity, and their belly prepareth deceit.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

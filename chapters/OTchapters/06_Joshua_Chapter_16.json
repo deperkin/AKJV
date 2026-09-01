@@ -1,0 +1,82 @@
+{
+  "version": "AKJV",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 6,"name": "Joshua","MaxChapters": 24},
+  "chapter": {
+    "Cnumber": 16,
+    "count": 203,
+    "MaxVerses": 10,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 6267,
+        "text": "And the lot of the children of Joseph fell from Jordan by Jericho, unto the water of Jericho on the east, to the wilderness that goeth up from Jericho throughout mount Bethel,",
+        "WordCount": 32,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 6268,
+        "text": "And goeth out from Bethel to Luz, and passeth along unto the borders of Archi to Ataroth,",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 6269,
+        "text": "And goeth down westward to the coast of Japhleti, unto the coast of Bethhoron the nether, and to Gezer: and the goings out thereof are at the sea.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 6270,
+        "text": "So the children of Joseph, Manasseh and Ephraim, took their inheritance.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 6271,
+        "text": "And the border of the children of Ephraim according to their families was [thus]: even the border of their inheritance on the east side was Atarothaddar, unto Bethhoron the upper;",
+        "WordCount": 30,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 6,
+        "count": 6272,
+        "text": "And the border went out toward the sea to Michmethah on the north side; and the border went about eastward unto Taanathshiloh, and passed by it on the east to Janohah;",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 6273,
+        "text": "And it went down from Janohah to Ataroth, and to Naarath, and came to Jericho, and went out at Jordan.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 6274,
+        "text": "The border went out from Tappuah westward unto the river Kanah; and the goings out thereof were at the sea. This [is] the inheritance of the tribe of the children of Ephraim by their families.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 6275,
+        "text": "And the separate cities for the children of Ephraim [were] among the inheritance of the children of Manasseh, all the cities with their villages.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 6276,
+        "text": "And they drave not out the Canaanites that dwelt in Gezer: but the Canaanites dwell among the Ephraimites unto this day, and serve under tribute.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

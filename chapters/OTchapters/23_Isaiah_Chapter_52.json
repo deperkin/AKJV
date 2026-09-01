@@ -1,0 +1,117 @@
+{
+  "version": "AKJV",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 23,"name": "Isaiah","MaxChapters": 66},
+  "chapter": {
+    "Cnumber": 52,
+    "count": 731,
+    "MaxVerses": 15,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 18698,
+        "text": "Awake, awake; put on thy strength, O Zion; put on thy beautiful garments, O Jerusalem, the holy city: for henceforth there shall no more come into thee the uncircumcised and the unclean.",
+        "WordCount": 32,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 18699,
+        "text": "Shake thyself from the dust; arise, [and] sit down, O Jerusalem: loose thyself from the bands of thy neck, O captive daughter of Zion.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 18700,
+        "text": "For thus saith the LORD, Ye have sold yourselves for nought; and ye shall be redeemed without money.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 18701,
+        "text": "For thus saith the Lord GOD, My people went down aforetime into Egypt to sojourn there; and the Assyrian oppressed them without cause.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 18702,
+        "text": "Now therefore, what have I here, saith the LORD, that my people is taken away for nought? they that rule over them make them to howl, saith the LORD; and my name continually every day [is] blasphemed.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 18703,
+        "text": "Therefore my people shall know my name: therefore [they shall know] in that day that I [am] he that doth speak: behold, [it is] I.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 18704,
+        "text": "How beautiful upon the mountains are the feet of him that bringeth good tidings, that publisheth peace; that bringeth good tidings of good, that publisheth salvation; that saith unto Zion, Thy God reigneth!",
+        "WordCount": 33,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 8,
+        "count": 18705,
+        "text": "Thy watchmen shall lift up the voice; with the voice together shall they sing: for they shall see eye to eye, when the LORD shall bring again Zion.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 18706,
+        "text": "Break forth into joy, sing together, ye waste places of Jerusalem: for the LORD hath comforted his people, he hath redeemed Jerusalem.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 18707,
+        "text": "The LORD hath made bare his holy arm in the eyes of all the nations; and all the ends of the earth shall see the salvation of our God.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 18708,
+        "text": "Depart ye, depart ye, go ye out from thence, touch no unclean [thing]; go ye out of the midst of her; be ye clean, that bear the vessels of the LORD.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 18709,
+        "text": "For ye shall not go out with haste, nor go by flight: for the LORD will go before you; and the God of Israel [will be] your rereward.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 18710,
+        "text": "Behold, my servant shall deal prudently, he shall be exalted and extolled, and be very high.",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 14,
+        "count": 18711,
+        "text": "As many were astonied at thee; his visage was so marred more than any man, and his form more than the sons of men:",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 18712,
+        "text": "So shall he sprinkle many nations; the kings shall shut their mouths at him: for [that] which had not been told them shall they see; and [that] which they had not heard shall they consider.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

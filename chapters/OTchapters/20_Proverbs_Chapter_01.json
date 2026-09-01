@@ -1,0 +1,243 @@
+{
+  "version": "AKJV",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 20,"name": "Proverbs","MaxChapters": 31},
+  "chapter": {
+    "Cnumber": 1,
+    "count": 629,
+    "MaxVerses": 33,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 16402,
+        "text": "The proverbs of Solomon the son of David, king of Israel;",
+        "WordCount": 11,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 16403,
+        "text": "To know wisdom and instruction; to perceive the words of understanding;",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 16404,
+        "text": "To receive the instruction of wisdom, justice, and judgment, and equity;",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 16405,
+        "text": "To give subtilty to the simple, to the young man knowledge and discretion.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 16406,
+        "text": "A wise [man] will hear, and will increase learning; and a man of understanding shall attain unto wise counsels:",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 16407,
+        "text": "To understand a proverb, and the interpretation; the words of the wise, and their dark sayings.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 16408,
+        "text": "The fear of the LORD [is] the beginning of knowledge: [but] fools despise wisdom and instruction.",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 8,
+        "count": 16409,
+        "text": "My son, hear the instruction of thy father, and forsake not the law of thy mother:",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 16410,
+        "text": "For they [shall be] an ornament of grace unto thy head, and chains about thy neck.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 16411,
+        "text": "My son, if sinners entice thee, consent thou not.",
+        "WordCount": 9,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 11,
+        "count": 16412,
+        "text": "If they say, Come with us, let us lay wait for blood, let us lurk privily for the innocent without cause:",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 16413,
+        "text": "Let us swallow them up alive as the grave; and whole, as those that go down into the pit:",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 16414,
+        "text": "We shall find all precious substance, we shall fill our houses with spoil:",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 16415,
+        "text": "Cast in thy lot among us; let us all have one purse:",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 16416,
+        "text": "My son, walk not thou in the way with them; refrain thy foot from their path:",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 16417,
+        "text": "For their feet run to evil, and make haste to shed blood.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 16418,
+        "text": "Surely in vain the net is spread in the sight of any bird.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 16419,
+        "text": "And they lay wait for their [own] blood; they lurk privily for their [own] lives.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 16420,
+        "text": "So [are] the ways of every one that is greedy of gain; [which] taketh away the life of the owners thereof.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 16421,
+        "text": "Wisdom crieth without; she uttereth her voice in the streets:",
+        "WordCount": 10,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 21,
+        "count": 16422,
+        "text": "She crieth in the chief place of concourse, in the openings of the gates: in the city she uttereth her words, [saying],",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 16423,
+        "text": "How long, ye simple ones, will ye love simplicity? and the scorners delight in their scorning, and fools hate knowledge?",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 16424,
+        "text": "Turn you at my reproof: behold, I will pour out my spirit unto you, I will make known my words unto you.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 16425,
+        "text": "Because I have called, and ye refused; I have stretched out my hand, and no man regarded;",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 16426,
+        "text": "But ye have set at nought all my counsel, and would none of my reproof:",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 16427,
+        "text": "I also will laugh at your calamity; I will mock when your fear cometh;",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 16428,
+        "text": "When your fear cometh as desolation, and your destruction cometh as a whirlwind; when distress and anguish cometh upon you.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 16429,
+        "text": "Then shall they call upon me, but I will not answer; they shall seek me early, but they shall not find me:",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 16430,
+        "text": "For that they hated knowledge, and did not choose the fear of the LORD:",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 16431,
+        "text": "They would none of my counsel: they despised all my reproof.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 16432,
+        "text": "Therefore shall they eat of the fruit of their own way, and be filled with their own devices.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 16433,
+        "text": "For the turning away of the simple shall slay them, and the prosperity of fools shall destroy them.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 16434,
+        "text": "But whoso hearkeneth unto me shall dwell safely, and shall be quiet from fear of evil.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

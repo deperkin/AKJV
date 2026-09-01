@@ -1,0 +1,201 @@
+{
+  "version": "AKJV",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 12,"name": "2 Kings","MaxChapters": 25},
+  "chapter": {
+    "Cnumber": 5,
+    "count": 318,
+    "MaxVerses": 27,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 9649,
+        "text": "Now Naaman, captain of the host of the king of Syria, was a great man with his master, and honourable, because by him the LORD had given deliverance unto Syria: he was also a mighty man in valour, [but he was] a leper.",
+        "WordCount": 43,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 9650,
+        "text": "And the Syrians had gone out by companies, and had brought away captive out of the land of Israel a little maid; and she waited on Naaman's wife.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 9651,
+        "text": "And she said unto her mistress, Would God my lord [were] with the prophet that [is] in Samaria! for he would recover him of his leprosy.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 9652,
+        "text": "And [one] went in, and told his lord, saying, Thus and thus said the maid that [is] of the land of Israel.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 9653,
+        "text": "And the king of Syria said, Go to, go, and I will send a letter unto the king of Israel. And he departed, and took with him ten talents of silver, and six thousand [pieces] of gold, and ten changes of raiment.",
+        "WordCount": 42,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 9654,
+        "text": "And he brought the letter to the king of Israel, saying, Now when this letter is come unto thee, behold, I have [therewith] sent Naaman my servant to thee, that thou mayest recover him of his leprosy.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 9655,
+        "text": "And it came to pass, when the king of Israel had read the letter, that he rent his clothes, and said, [Am] I God, to kill and to make alive, that this man doth send unto me to recover a man of his leprosy? wherefore consider, I pray you, and see how he seeketh a quarrel against me.",
+        "WordCount": 58,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 9656,
+        "text": "And it was [so], when Elisha the man of God had heard that the king of Israel had rent his clothes, that he sent to the king, saying, Wherefore hast thou rent thy clothes? let him come now to me, and he shall know that there is a prophet in Israel.",
+        "WordCount": 51,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 9657,
+        "text": "So Naaman came with his horses and with his chariot, and stood at the door of the house of Elisha.",
+        "WordCount": 20,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 10,
+        "count": 9658,
+        "text": "And Elisha sent a messenger unto him, saying, Go and wash in Jordan seven times, and thy flesh shall come again to thee, and thou shalt be clean.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 9659,
+        "text": "But Naaman was wroth, and went away, and said, Behold, I thought, He will surely come out to me, and stand, and call on the name of the LORD his God, and strike his hand over the place, and recover the leper.",
+        "WordCount": 42,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 9660,
+        "text": "[Are] not Abana and Pharpar, rivers of Damascus, better than all the waters of Israel? may I not wash in them, and be clean? So he turned and went away in a rage.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 9661,
+        "text": "And his servants came near, and spake unto him, and said, My father, [if] the prophet had bid thee [do some] great thing, wouldest thou not have done [it]? how much rather then, when he saith to thee, Wash, and be clean?",
+        "WordCount": 42,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 9662,
+        "text": "Then went he down, and dipped himself seven times in Jordan, according to the saying of the man of God: and his flesh came again like unto the flesh of a little child, and he was clean.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 9663,
+        "text": "And he returned to the man of God, he and all his company, and came, and stood before him: and he said, Behold, now I know that [there is] no God in all the earth, but in Israel: now therefore, I pray thee, take a blessing of thy servant.",
+        "WordCount": 49,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 16,
+        "count": 9664,
+        "text": "But he said, [As] the LORD liveth, before whom I stand, I will receive none. And he urged him to take [it]; but he refused.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 9665,
+        "text": "And Naaman said, Shall there not then, I pray thee, be given to thy servant two mules' burden of earth? for thy servant will henceforth offer neither burnt offering nor sacrifice unto other gods, but unto the LORD.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 9666,
+        "text": "In this thing the LORD pardon thy servant, [that] when my master goeth into the house of Rimmon to worship there, and he leaneth on my hand, and I bow myself in the house of Rimmon: when I bow down myself in the house of Rimmon, the LORD pardon thy servant in this thing.",
+        "WordCount": 54,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 9667,
+        "text": "And he said unto him, Go in peace. So he departed from him a little way.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 9668,
+        "text": "But Gehazi, the servant of Elisha the man of God, said, Behold, my master hath spared Naaman this Syrian, in not receiving at his hands that which he brought: but, [as] the LORD liveth, I will run after him, and take somewhat of him.",
+        "WordCount": 44,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 21,
+        "count": 9669,
+        "text": "So Gehazi followed after Naaman. And when Naaman saw [him] running after him, he lighted down from the chariot to meet him, and said, [Is] all well?",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 9670,
+        "text": "And he said, All [is] well. My master hath sent me, saying, Behold, even now there be come to me from mount Ephraim two young men of the sons of the prophets: give them, I pray thee, a talent of silver, and two changes of garments.",
+        "WordCount": 46,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 9671,
+        "text": "And Naaman said, Be content, take two talents. And he urged him, and bound two talents of silver in two bags, with two changes of garments, and laid [them] upon two of his servants; and they bare [them] before him.",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 9672,
+        "text": "And when he came to the tower, he took [them] from their hand, and bestowed [them] in the house: and he let the men go, and they departed.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 9673,
+        "text": "But he went in, and stood before his master. And Elisha said unto him, Whence [comest thou], Gehazi? And he said, Thy servant went no whither.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 9674,
+        "text": "And he said unto him, Went not mine heart [with thee], when the man turned again from his chariot to meet thee? [Is it] a time to receive money, and to receive garments, and oliveyards, and vineyards, and sheep, and oxen, and menservants, and maidservants?",
+        "WordCount": 45,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 9675,
+        "text": "The leprosy therefore of Naaman shall cleave unto thee, and unto thy seed for ever. And he went out from his presence a leper [as white] as snow.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

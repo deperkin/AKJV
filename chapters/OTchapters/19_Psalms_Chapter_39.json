@@ -1,0 +1,103 @@
+{
+  "version": "AKJV",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 39,
+    "count": 517,
+    "MaxVerses": 13,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 14514,
+        "text": "To the chief Musician, [even] to Jeduthun, A Psalm of David. I said, I will take heed to my ways, that I sin not with my tongue: I will keep my mouth with a bridle, while the wicked is before me.",
+        "WordCount": 41,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 14515,
+        "text": "I was dumb with silence, I held my peace, [even] from good; and my sorrow was stirred.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 14516,
+        "text": "My heart was hot within me, while I was musing the fire burned: [then] spake I with my tongue,",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 14517,
+        "text": "LORD, make me to know mine end, and the measure of my days, what it [is; that] I may know how frail I [am].",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 14518,
+        "text": "Behold, thou hast made my days [as] an handbreadth; and mine age [is] as nothing before thee: verily every man at his best state [is] altogether vanity. Selah.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 14519,
+        "text": "Surely every man walketh in a vain shew: surely they are disquieted in vain: he heapeth up [riches], and knoweth not who shall gather them.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 14520,
+        "text": "And now, Lord, what wait I for? my hope [is] in thee.",
+        "WordCount": 12,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 8,
+        "count": 14521,
+        "text": "Deliver me from all my transgressions: make me not the reproach of the foolish.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 14522,
+        "text": "I was dumb, I opened not my mouth; because thou didst [it].",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 14523,
+        "text": "Remove thy stroke away from me: I am consumed by the blow of thine hand.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 14524,
+        "text": "When thou with rebukes dost correct man for iniquity, thou makest his beauty to consume away like a moth: surely every man [is] vanity. Selah.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 14525,
+        "text": "Hear my prayer, O LORD, and give ear unto my cry; hold not thy peace at my tears: for I [am] a stranger with thee, [and] a sojourner, as all my fathers [were].",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 14526,
+        "text": "O spare me, that I may recover strength, before I go hence, and be no more.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

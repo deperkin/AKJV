@@ -1,0 +1,96 @@
+{
+  "version": "AKJV",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 30,
+    "count": 508,
+    "MaxVerses": 12,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 14321,
+        "text": "A Psalm [and] Song [at] the dedication of the house of David. I will extol thee, O LORD; for thou hast lifted me up, and hast not made my foes to rejoice over me.",
+        "WordCount": 34,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 14322,
+        "text": "O LORD my God, I cried unto thee, and thou hast healed me.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 14323,
+        "text": "O LORD, thou hast brought up my soul from the grave: thou hast kept me alive, that I should not go down to the pit.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 14324,
+        "text": "Sing unto the LORD, O ye saints of his, and give thanks at the remembrance of his holiness.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 14325,
+        "text": "For his anger [endureth but] a moment; in his favour [is] life: weeping may endure for a night, but joy [cometh] in the morning.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 14326,
+        "text": "And in my prosperity I said, I shall never be moved.",
+        "WordCount": 11,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 7,
+        "count": 14327,
+        "text": "LORD, by thy favour thou hast made my mountain to stand strong: thou didst hide thy face, [and] I was troubled.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 14328,
+        "text": "I cried to thee, O LORD; and unto the LORD I made supplication.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 14329,
+        "text": "What profit [is there] in my blood, when I go down to the pit? Shall the dust praise thee? shall it declare thy truth?",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 14330,
+        "text": "Hear, O LORD, and have mercy upon me: LORD, be thou my helper.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 14331,
+        "text": "Thou hast turned for me my mourning into dancing: thou hast put off my sackcloth, and girded me with gladness;",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 14332,
+        "text": "To the end that [my] glory may sing praise to thee, and not be silent. O LORD my God, I will give thanks unto thee for ever.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

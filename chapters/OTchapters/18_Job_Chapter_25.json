@@ -1,0 +1,54 @@
+{
+  "version": "AKJV",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 18,"name": "Job","MaxChapters": 42},
+  "chapter": {
+    "Cnumber": 25,
+    "count": 461,
+    "MaxVerses": 6,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 13463,
+        "text": "Then answered Bildad the Shuhite, and said,",
+        "WordCount": 7,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 13464,
+        "text": "Dominion and fear [are] with him, he maketh peace in his high places.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 13465,
+        "text": "Is there any number of his armies? and upon whom doth not his light arise?",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 13466,
+        "text": "How then can man be justified with God? or how can he be clean [that is] born of a woman?",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 13467,
+        "text": "Behold even to the moon, and it shineth not; yea, the stars are not pure in his sight.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 13468,
+        "text": "How much less man, [that is] a worm? and the son of man, [which is] a worm?",
+        "WordCount": 17,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

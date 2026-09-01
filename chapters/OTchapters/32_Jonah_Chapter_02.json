@@ -1,0 +1,82 @@
+{
+  "version": "AKJV",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 32,"name": "Jonah","MaxChapters": 4},
+  "chapter": {
+    "Cnumber": 2,
+    "count": 891,
+    "MaxVerses": 10,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 22550,
+        "text": "Then Jonah prayed unto the LORD his God out of the fish's belly,",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 22551,
+        "text": "And said, I cried by reason of mine affliction unto the LORD, and he heard me; out of the belly of hell cried I, [and] thou heardest my voice.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 22552,
+        "text": "For thou hadst cast me into the deep, in the midst of the seas; and the floods compassed me about: all thy billows and thy waves passed over me.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 22553,
+        "text": "Then I said, I am cast out of thy sight; yet I will look again toward thy holy temple.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 22554,
+        "text": "The waters compassed me about, [even] to the soul: the depth closed me round about, the weeds were wrapped about my head.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 22555,
+        "text": "I went down to the bottoms of the mountains; the earth with her bars [was] about me for ever: yet hast thou brought up my life from corruption, O LORD my God.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 22556,
+        "text": "When my soul fainted within me I remembered the LORD: and my prayer came in unto thee, into thine holy temple.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 22557,
+        "text": "They that observe lying vanities forsake their own mercy.",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 22558,
+        "text": "But I will sacrifice unto thee with the voice of thanksgiving; I will pay [that] that I have vowed. Salvation [is] of the LORD.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 22559,
+        "text": "And the LORD spake unto the fish, and it vomited out Jonah upon the dry [land].",
+        "WordCount": 16,
+        "StartsParagraph": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "version": "AKJV",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 98,
+    "count": 576,
+    "MaxVerses": 9,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 15492,
+        "text": "A Psalm. O sing unto the LORD a new song; for he hath done marvellous things: his right hand, and his holy arm, hath gotten him the victory.",
+        "WordCount": 28,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 15493,
+        "text": "The LORD hath made known his salvation: his righteousness hath he openly shewed in the sight of the heathen.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 15494,
+        "text": "He hath remembered his mercy and his truth toward the house of Israel: all the ends of the earth have seen the salvation of our God.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 15495,
+        "text": "Make a joyful noise unto the LORD, all the earth: make a loud noise, and rejoice, and sing praise.",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 5,
+        "count": 15496,
+        "text": "Sing unto the LORD with the harp; with the harp, and the voice of a psalm.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 15497,
+        "text": "With trumpets and sound of cornet make a joyful noise before the LORD, the King.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 15498,
+        "text": "Let the sea roar, and the fulness thereof; the world, and they that dwell therein.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 15499,
+        "text": "Let the floods clap [their] hands: let the hills be joyful together",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 15500,
+        "text": "Before the LORD; for he cometh to judge the earth: with righteousness shall he judge the world, and the people with equity.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "version": "AKJV",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 20,"name": "Proverbs","MaxChapters": 31},
+  "chapter": {
+    "Cnumber": 28,
+    "count": 656,
+    "MaxVerses": 28,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 17198,
+        "text": "The wicked flee when no man pursueth: but the righteous are bold as a lion.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 17199,
+        "text": "For the transgression of a land many [are] the princes thereof: but by a man of understanding [and] knowledge the state [thereof] shall be prolonged.",
+        "WordCount": 25,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 3,
+        "count": 17200,
+        "text": "A poor man that oppresseth the poor [is like] a sweeping rain which leaveth no food.",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 4,
+        "count": 17201,
+        "text": "They that forsake the law praise the wicked: but such as keep the law contend with them.",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 5,
+        "count": 17202,
+        "text": "Evil men understand not judgment: but they that seek the LORD understand all [things].",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 6,
+        "count": 17203,
+        "text": "Better [is] the poor that walketh in his uprightness, than [he that is] perverse [in his] ways, though he [be] rich.",
+        "WordCount": 21,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 7,
+        "count": 17204,
+        "text": "Whoso keepeth the law [is] a wise son: but he that is a companion of riotous [men] shameth his father.",
+        "WordCount": 20,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 8,
+        "count": 17205,
+        "text": "He that by usury and unjust gain increaseth his substance, he shall gather it for him that will pity the poor.",
+        "WordCount": 21,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 9,
+        "count": 17206,
+        "text": "He that turneth away his ear from hearing the law, even his prayer [shall be] abomination.",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 10,
+        "count": 17207,
+        "text": "Whoso causeth the righteous to go astray in an evil way, he shall fall himself into his own pit: but the upright shall have good [things] in possession.",
+        "WordCount": 28,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 11,
+        "count": 17208,
+        "text": "The rich man [is] wise in his own conceit; but the poor that hath understanding searcheth him out.",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 12,
+        "count": 17209,
+        "text": "When righteous [men] do rejoice, [there is] great glory: but when the wicked rise, a man is hidden.",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 13,
+        "count": 17210,
+        "text": "He that covereth his sins shall not prosper: but whoso confesseth and forsaketh [them] shall have mercy.",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 14,
+        "count": 17211,
+        "text": "Happy [is] the man that feareth alway: but he that hardeneth his heart shall fall into mischief.",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 15,
+        "count": 17212,
+        "text": "[As] a roaring lion, and a ranging bear; [so is] a wicked ruler over the poor people.",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 16,
+        "count": 17213,
+        "text": "The prince that wanteth understanding [is] also a great oppressor: [but] he that hateth covetousness shall prolong [his] days.",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 17,
+        "count": 17214,
+        "text": "A man that doeth violence to the blood of [any] person shall flee to the pit; let no man stay him.",
+        "WordCount": 21,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 18,
+        "count": 17215,
+        "text": "Whoso walketh uprightly shall be saved: but [he that is] perverse [in his] ways shall fall at once.",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 19,
+        "count": 17216,
+        "text": "He that tilleth his land shall have plenty of bread: but he that followeth after vain [persons] shall have poverty enough.",
+        "WordCount": 21,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 20,
+        "count": 17217,
+        "text": "A faithful man shall abound with blessings: but he that maketh haste to be rich shall not be innocent.",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 21,
+        "count": 17218,
+        "text": "To have respect of persons [is] not good: for for a piece of bread [that] man will transgress.",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 22,
+        "count": 17219,
+        "text": "He that hasteth to be rich [hath] an evil eye, and considereth not that poverty shall come upon him.",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 23,
+        "count": 17220,
+        "text": "He that rebuketh a man afterwards shall find more favour than he that flattereth with the tongue.",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 24,
+        "count": 17221,
+        "text": "Whoso robbeth his father or his mother, and saith, [It is] no transgression; the same [is] the companion of a destroyer.",
+        "WordCount": 21,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 25,
+        "count": 17222,
+        "text": "He that is of a proud heart stirreth up strife: but he that putteth his trust in the LORD shall be made fat.",
+        "WordCount": 23,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 26,
+        "count": 17223,
+        "text": "He that trusteth in his own heart is a fool: but whoso walketh wisely, he shall be delivered.",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 27,
+        "count": 17224,
+        "text": "He that giveth unto the poor shall not lack: but he that hideth his eyes shall have many a curse.",
+        "WordCount": 20,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 28,
+        "count": 17225,
+        "text": "When the wicked rise, men hide themselves: but when they perish, the righteous increase.",
+        "WordCount": 14,
+        "StartsParagraph": true
+      }
+    ]
+  }
+}

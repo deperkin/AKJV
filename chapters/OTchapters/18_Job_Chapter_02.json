@@ -1,0 +1,103 @@
+{
+  "version": "AKJV",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 18,"name": "Job","MaxChapters": 42},
+  "chapter": {
+    "Cnumber": 2,
+    "count": 438,
+    "MaxVerses": 13,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 12893,
+        "text": "Again there was a day when the sons of God came to present themselves before the LORD, and Satan came also among them to present himself before the LORD.",
+        "WordCount": 29,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 12894,
+        "text": "And the LORD said unto Satan, From whence comest thou? And Satan answered the LORD, and said, From going to and fro in the earth, and from walking up and down in it.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 12895,
+        "text": "And the LORD said unto Satan, Hast thou considered my servant Job, that [there is] none like him in the earth, a perfect and an upright man, one that feareth God, and escheweth evil? and still he holdeth fast his integrity, although thou movedst me against him, to destroy him without cause.",
+        "WordCount": 52,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 12896,
+        "text": "And Satan answered the LORD, and said, Skin for skin, yea, all that a man hath will he give for his life.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 12897,
+        "text": "But put forth thine hand now, and touch his bone and his flesh, and he will curse thee to thy face.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 12898,
+        "text": "And the LORD said unto Satan, Behold, he [is] in thine hand; but save his life.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 12899,
+        "text": "So went Satan forth from the presence of the LORD, and smote Job with sore boils from the sole of his foot unto his crown.",
+        "WordCount": 25,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 8,
+        "count": 12900,
+        "text": "And he took him a potsherd to scrape himself withal; and he sat down among the ashes.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 12901,
+        "text": "Then said his wife unto him, Dost thou still retain thine integrity? curse God, and die.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 12902,
+        "text": "But he said unto her, Thou speakest as one of the foolish women speaketh. What? shall we receive good at the hand of God, and shall we not receive evil? In all this did not Job sin with his lips.",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 12903,
+        "text": "Now when Job's three friends heard of all this evil that was come upon him, they came every one from his own place; Eliphaz the Temanite, and Bildad the Shuhite, and Zophar the Naamathite: for they had made an appointment together to come to mourn with him and to comfort him.",
+        "WordCount": 51,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 12,
+        "count": 12904,
+        "text": "And when they lifted up their eyes afar off, and knew him not, they lifted up their voice, and wept; and they rent every one his mantle, and sprinkled dust upon their heads toward heaven.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 12905,
+        "text": "So they sat down with him upon the ground seven days and seven nights, and none spake a word unto him: for they saw that [his] grief was very great.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

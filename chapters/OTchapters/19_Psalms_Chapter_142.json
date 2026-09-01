@@ -1,0 +1,61 @@
+{
+  "version": "AKJV",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 142,
+    "count": 620,
+    "MaxVerses": 7,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 16288,
+        "text": "Maschil of David; A Prayer when he was in the cave. I cried unto the LORD with my voice; with my voice unto the LORD did I make my supplication.",
+        "WordCount": 30,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 16289,
+        "text": "I poured out my complaint before him; I shewed before him my trouble.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 16290,
+        "text": "When my spirit was overwhelmed within me, then thou knewest my path. In the way wherein I walked have they privily laid a snare for me.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 16291,
+        "text": "I looked on [my] right hand, and beheld, but [there was] no man that would know me: refuge failed me; no man cared for my soul.",
+        "WordCount": 26,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 5,
+        "count": 16292,
+        "text": "I cried unto thee, O LORD: I said, Thou [art] my refuge [and] my portion in the land of the living.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 16293,
+        "text": "Attend unto my cry; for I am brought very low: deliver me from my persecutors; for they are stronger than I.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 16294,
+        "text": "Bring my soul out of prison, that I may praise thy name: the righteous shall compass me about; for thou shalt deal bountifully with me.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "version": "AKJV",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 56,
+    "count": 534,
+    "MaxVerses": 13,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 14757,
+        "text": "To the chief Musician upon Jonathelemrechokim, Michtam of David, when the Philistines took him in Gath. Be merciful unto me, O God: for man would swallow me up; he fighting daily oppresseth me.",
+        "WordCount": 33,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 14758,
+        "text": "Mine enemies would daily swallow [me] up: for [they be] many that fight against me, O thou most High.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 14759,
+        "text": "What time I am afraid, I will trust in thee.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 14760,
+        "text": "In God I will praise his word, in God I have put my trust; I will not fear what flesh can do unto me.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 14761,
+        "text": "Every day they wrest my words: all their thoughts [are] against me for evil.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 14762,
+        "text": "They gather themselves together, they hide themselves, they mark my steps, when they wait for my soul.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 14763,
+        "text": "Shall they escape by iniquity? in [thine] anger cast down the people, O God.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 14764,
+        "text": "Thou tellest my wanderings: put thou my tears into thy bottle: [are they] not in thy book?",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 9,
+        "count": 14765,
+        "text": "When I cry [unto thee], then shall mine enemies turn back: this I know; for God [is] for me.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 14766,
+        "text": "In God will I praise [his] word: in the LORD will I praise [his] word.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 14767,
+        "text": "In God have I put my trust: I will not be afraid what man can do unto me.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 14768,
+        "text": "Thy vows [are] upon me, O God: I will render praises unto thee.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 14769,
+        "text": "For thou hast delivered my soul from death: [wilt] not [thou deliver] my feet from falling, that I may walk before God in the light of the living?",
+        "WordCount": 28,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "version": "AKJV",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 17,"name": "Esther","MaxChapters": 10},
+  "chapter": {
+    "Cnumber": 6,
+    "count": 432,
+    "MaxVerses": 14,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 12795,
+        "text": "On that night could not the king sleep, and he commanded to bring the book of records of the chronicles; and they were read before the king.",
+        "WordCount": 27,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 12796,
+        "text": "And it was found written, that Mordecai had told of Bigthana and Teresh, two of the king's chamberlains, the keepers of the door, who sought to lay hand on the king Ahasuerus.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 12797,
+        "text": "And the king said, What honour and dignity hath been done to Mordecai for this? Then said the king's servants that ministered unto him, There is nothing done for him.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 12798,
+        "text": "And the king said, Who [is] in the court? Now Haman was come into the outward court of the king's house, to speak unto the king to hang Mordecai on the gallows that he had prepared for him.",
+        "WordCount": 38,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 5,
+        "count": 12799,
+        "text": "And the king's servants said unto him, Behold, Haman standeth in the court. And the king said, Let him come in.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 12800,
+        "text": "So Haman came in. And the king said unto him, What shall be done unto the man whom the king delighteth to honour? Now Haman thought in his heart, To whom would the king delight to do honour more than to myself?",
+        "WordCount": 42,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 12801,
+        "text": "And Haman answered the king, For the man whom the king delighteth to honour,",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 12802,
+        "text": "Let the royal apparel be brought which the king [useth] to wear, and the horse that the king rideth upon, and the crown royal which is set upon his head:",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 12803,
+        "text": "And let this apparel and horse be delivered to the hand of one of the king's most noble princes, that they may array the man [withal] whom the king delighteth to honour, and bring him on horseback through the street of the city, and proclaim before him, Thus shall it be done to the man whom the king delighteth to honour.",
+        "WordCount": 61,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 12804,
+        "text": "Then the king said to Haman, Make haste, [and] take the apparel and the horse, as thou hast said, and do even so to Mordecai the Jew, that sitteth at the king's gate: let nothing fail of all that thou hast spoken.",
+        "WordCount": 42,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 12805,
+        "text": "Then took Haman the apparel and the horse, and arrayed Mordecai, and brought him on horseback through the street of the city, and proclaimed before him, Thus shall it be done unto the man whom the king delighteth to honour.",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 12806,
+        "text": "And Mordecai came again to the king's gate. But Haman hasted to his house mourning, and having his head covered.",
+        "WordCount": 20,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 13,
+        "count": 12807,
+        "text": "And Haman told Zeresh his wife and all his friends every [thing] that had befallen him. Then said his wise men and Zeresh his wife unto him, If Mordecai [be] of the seed of the Jews, before whom thou hast begun to fall, thou shalt not prevail against him, but shalt surely fall before him.",
+        "WordCount": 55,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 12808,
+        "text": "And while they [were] yet talking with him, came the king's chamberlains, and hasted to bring Haman unto the banquet that Esther had prepared.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

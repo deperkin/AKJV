@@ -1,0 +1,61 @@
+{
+  "version": "AKJV",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 54,
+    "count": 532,
+    "MaxVerses": 7,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 14727,
+        "text": "To the chief Musician on Neginoth, Maschil, [A Psalm] of David, when the Ziphims came and said to Saul, Doth not David hide himself with us? Save me, O God, by thy name, and judge me by thy strength.",
+        "WordCount": 39,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 14728,
+        "text": "Hear my prayer, O God; give ear to the words of my mouth.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 14729,
+        "text": "For strangers are risen up against me, and oppressors seek after my soul: they have not set God before them. Selah.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 14730,
+        "text": "Behold, God [is] mine helper: the Lord [is] with them that uphold my soul.",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 5,
+        "count": 14731,
+        "text": "He shall reward evil unto mine enemies: cut them off in thy truth.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 14732,
+        "text": "I will freely sacrifice unto thee: I will praise thy name, O LORD; for [it is] good.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 14733,
+        "text": "For he hath delivered me out of all trouble: and mine eye hath seen [his desire] upon mine enemies.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

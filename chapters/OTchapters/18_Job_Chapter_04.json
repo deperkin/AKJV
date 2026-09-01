@@ -1,0 +1,159 @@
+{
+  "version": "AKJV",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 18,"name": "Job","MaxChapters": 42},
+  "chapter": {
+    "Cnumber": 4,
+    "count": 440,
+    "MaxVerses": 21,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 12932,
+        "text": "Then Eliphaz the Temanite answered and said,",
+        "WordCount": 7,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 12933,
+        "text": "[If] we assay to commune with thee, wilt thou be grieved? but who can withhold himself from speaking?",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 12934,
+        "text": "Behold, thou hast instructed many, and thou hast strengthened the weak hands.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 12935,
+        "text": "Thy words have upholden him that was falling, and thou hast strengthened the feeble knees.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 12936,
+        "text": "But now it is come upon thee, and thou faintest; it toucheth thee, and thou art troubled.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 12937,
+        "text": "[Is] not [this] thy fear, thy confidence, thy hope, and the uprightness of thy ways?",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 12938,
+        "text": "Remember, I pray thee, who [ever] perished, being innocent? or where were the righteous cut off?",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 8,
+        "count": 12939,
+        "text": "Even as I have seen, they that plow iniquity, and sow wickedness, reap the same.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 12940,
+        "text": "By the blast of God they perish, and by the breath of his nostrils are they consumed.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 12941,
+        "text": "The roaring of the lion, and the voice of the fierce lion, and the teeth of the young lions, are broken.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 12942,
+        "text": "The old lion perisheth for lack of prey, and the stout lion's whelps are scattered abroad.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 12943,
+        "text": "Now a thing was secretly brought to me, and mine ear received a little thereof.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 13,
+        "count": 12944,
+        "text": "In thoughts from the visions of the night, when deep sleep falleth on men,",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 12945,
+        "text": "Fear came upon me, and trembling, which made all my bones to shake.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 12946,
+        "text": "Then a spirit passed before my face; the hair of my flesh stood up:",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 12947,
+        "text": "It stood still, but I could not discern the form thereof: an image [was] before mine eyes, [there was] silence, and I heard a voice, [saying],",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 12948,
+        "text": "Shall mortal man be more just than God? shall a man be more pure than his maker?",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 12949,
+        "text": "Behold, he put no trust in his servants; and his angels he charged with folly:",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 12950,
+        "text": "How much less [in] them that dwell in houses of clay, whose foundation [is] in the dust, [which] are crushed before the moth?",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 12951,
+        "text": "They are destroyed from morning to evening: they perish for ever without any regarding [it].",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 12952,
+        "text": "Doth not their excellency [which is] in them go away? they die, even without wisdom.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

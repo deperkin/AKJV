@@ -1,0 +1,61 @@
+{
+  "version": "AKJV",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 14,
+    "count": 492,
+    "MaxVerses": 7,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 14082,
+        "text": "To the chief Musician, [A Psalm] of David. The fool hath said in his heart, [There is] no God. They are corrupt, they have done abominable works, [there is] none that doeth good.",
+        "WordCount": 33,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 14083,
+        "text": "The LORD looked down from heaven upon the children of men, to see if there were any that did understand, [and] seek God.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 14084,
+        "text": "They are all gone aside, they are [all] together become filthy: [there is] none that doeth good, no, not one.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 14085,
+        "text": "Have all the workers of iniquity no knowledge? who eat up my people [as] they eat bread, and call not upon the LORD.",
+        "WordCount": 23,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 5,
+        "count": 14086,
+        "text": "There were they in great fear: for God [is] in the generation of the righteous.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 14087,
+        "text": "Ye have shamed the counsel of the poor, because the LORD [is] his refuge.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 14088,
+        "text": "Oh that the salvation of Israel [were come] out of Zion! when the LORD bringeth back the captivity of his people, Jacob shall rejoice, [and] Israel shall be glad.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

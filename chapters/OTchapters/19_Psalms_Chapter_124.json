@@ -1,0 +1,68 @@
+{
+  "version": "AKJV",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 124,
+    "count": 602,
+    "MaxVerses": 8,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 16104,
+        "text": "A Song of degrees of David. If [it had not been] the LORD who was on our side, now may Israel say;",
+        "WordCount": 22,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 16105,
+        "text": "If [it had not been] the LORD who was on our side, when men rose up against us:",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 16106,
+        "text": "Then they had swallowed us up quick, when their wrath was kindled against us:",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 16107,
+        "text": "Then the waters had overwhelmed us, the stream had gone over our soul:",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 16108,
+        "text": "Then the proud waters had gone over our soul.",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 16109,
+        "text": "Blessed [be] the LORD, who hath not given us [as] a prey to their teeth.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 7,
+        "count": 16110,
+        "text": "Our soul is escaped as a bird out of the snare of the fowlers: the snare is broken, and we are escaped.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 16111,
+        "text": "Our help [is] in the name of the LORD, who made heaven and earth.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

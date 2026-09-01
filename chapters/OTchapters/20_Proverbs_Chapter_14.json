@@ -1,0 +1,257 @@
+{
+  "version": "AKJV",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 20,"name": "Proverbs","MaxChapters": 31},
+  "chapter": {
+    "Cnumber": 14,
+    "count": 642,
+    "MaxVerses": 35,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 16774,
+        "text": "Every wise woman buildeth her house: but the foolish plucketh it down with her hands.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 16775,
+        "text": "He that walketh in his uprightness feareth the LORD: but [he that is] perverse in his ways despiseth him.",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 3,
+        "count": 16776,
+        "text": "In the mouth of the foolish [is] a rod of pride: but the lips of the wise shall preserve them.",
+        "WordCount": 20,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 4,
+        "count": 16777,
+        "text": "Where no oxen [are], the crib [is] clean: but much increase [is] by the strength of the ox.",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 5,
+        "count": 16778,
+        "text": "A faithful witness will not lie: but a false witness will utter lies.",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 6,
+        "count": 16779,
+        "text": "A scorner seeketh wisdom, and [findeth it] not: but knowledge [is] easy unto him that understandeth.",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 7,
+        "count": 16780,
+        "text": "Go from the presence of a foolish man, when thou perceivest not [in him] the lips of knowledge.",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 8,
+        "count": 16781,
+        "text": "The wisdom of the prudent [is] to understand his way: but the folly of fools [is] deceit.",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 9,
+        "count": 16782,
+        "text": "Fools make a mock at sin: but among the righteous [there is] favour.",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 10,
+        "count": 16783,
+        "text": "The heart knoweth his own bitterness; and a stranger doth not intermeddle with his joy.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 11,
+        "count": 16784,
+        "text": "The house of the wicked shall be overthrown: but the tabernacle of the upright shall flourish.",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 12,
+        "count": 16785,
+        "text": "There is a way which seemeth right unto a man, but the end thereof [are] the ways of death.",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 13,
+        "count": 16786,
+        "text": "Even in laughter the heart is sorrowful; and the end of that mirth [is] heaviness.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 14,
+        "count": 16787,
+        "text": "The backslider in heart shall be filled with his own ways: and a good man [shall be satisfied] from himself.",
+        "WordCount": 20,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 15,
+        "count": 16788,
+        "text": "The simple believeth every word: but the prudent [man] looketh well to his going.",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 16,
+        "count": 16789,
+        "text": "A wise [man] feareth, and departeth from evil: but the fool rageth, and is confident.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 17,
+        "count": 16790,
+        "text": "[He that is] soon angry dealeth foolishly: and a man of wicked devices is hated.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 18,
+        "count": 16791,
+        "text": "The simple inherit folly: but the prudent are crowned with knowledge.",
+        "WordCount": 11,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 19,
+        "count": 16792,
+        "text": "The evil bow before the good; and the wicked at the gates of the righteous.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 20,
+        "count": 16793,
+        "text": "The poor is hated even of his own neighbour: but the rich [hath] many friends.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 21,
+        "count": 16794,
+        "text": "He that despiseth his neighbour sinneth: but he that hath mercy on the poor, happy [is] he.",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 22,
+        "count": 16795,
+        "text": "Do they not err that devise evil? but mercy and truth [shall be] to them that devise good.",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 23,
+        "count": 16796,
+        "text": "In all labour there is profit: but the talk of the lips [tendeth] only to penury.",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 24,
+        "count": 16797,
+        "text": "The crown of the wise [is] their riches: [but] the foolishness of fools [is] folly.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 25,
+        "count": 16798,
+        "text": "A true witness delivereth souls: but a deceitful [witness] speaketh lies.",
+        "WordCount": 11,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 26,
+        "count": 16799,
+        "text": "In the fear of the LORD [is] strong confidence: and his children shall have a place of refuge.",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 27,
+        "count": 16800,
+        "text": "The fear of the LORD [is] a fountain of life, to depart from the snares of death.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 16801,
+        "text": "In the multitude of people [is] the king's honour: but in the want of people [is] the destruction of the prince.",
+        "WordCount": 21,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 29,
+        "count": 16802,
+        "text": "[He that is] slow to wrath [is] of great understanding: but [he that is] hasty of spirit exalteth folly.",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 30,
+        "count": 16803,
+        "text": "A sound heart [is] the life of the flesh: but envy the rottenness of the bones.",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 31,
+        "count": 16804,
+        "text": "He that oppresseth the poor reproacheth his Maker: but he that honoureth him hath mercy on the poor.",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 32,
+        "count": 16805,
+        "text": "The wicked is driven away in his wickedness: but the righteous hath hope in his death.",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 33,
+        "count": 16806,
+        "text": "Wisdom resteth in the heart of him that hath understanding: but [that which is] in the midst of fools is made known.",
+        "WordCount": 22,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 34,
+        "count": 16807,
+        "text": "Righteousness exalteth a nation: but sin [is] a reproach to any people.",
+        "WordCount": 12,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 35,
+        "count": 16808,
+        "text": "The king's favour [is] toward a wise servant: but his wrath is [against] him that causeth shame.",
+        "WordCount": 17,
+        "StartsParagraph": true
+      }
+    ]
+  }
+}

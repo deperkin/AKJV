@@ -1,0 +1,194 @@
+{
+  "version": "AKJV",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 18,"name": "Job","MaxChapters": 42},
+  "chapter": {
+    "Cnumber": 3,
+    "count": 439,
+    "MaxVerses": 26,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 12906,
+        "text": "After this opened Job his mouth, and cursed his day.",
+        "WordCount": 10,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 12907,
+        "text": "And Job spake, and said,",
+        "WordCount": 5,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 12908,
+        "text": "Let the day perish wherein I was born, and the night [in which] it was said, There is a man child conceived.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 12909,
+        "text": "Let that day be darkness; let not God regard it from above, neither let the light shine upon it.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 12910,
+        "text": "Let darkness and the shadow of death stain it; let a cloud dwell upon it; let the blackness of the day terrify it.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 12911,
+        "text": "As [for] that night, let darkness seize upon it; let it not be joined unto the days of the year, let it not come into the number of the months.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 12912,
+        "text": "Lo, let that night be solitary, let no joyful voice come therein.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 12913,
+        "text": "Let them curse it that curse the day, who are ready to raise up their mourning.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 12914,
+        "text": "Let the stars of the twilight thereof be dark; let it look for light, but [have] none; neither let it see the dawning of the day:",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 12915,
+        "text": "Because it shut not up the doors of my [mother's] womb, nor hid sorrow from mine eyes.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 12916,
+        "text": "Why died I not from the womb? [why] did I [not] give up the ghost when I came out of the belly?",
+        "WordCount": 22,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 12,
+        "count": 12917,
+        "text": "Why did the knees prevent me? or why the breasts that I should suck?",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 12918,
+        "text": "For now should I have lain still and been quiet, I should have slept: then had I been at rest,",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 12919,
+        "text": "With kings and counsellors of the earth, which built desolate places for themselves;",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 12920,
+        "text": "Or with princes that had gold, who filled their houses with silver:",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 12921,
+        "text": "Or as an hidden untimely birth I had not been; as infants [which] never saw light.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 12922,
+        "text": "There the wicked cease [from] troubling; and there the weary be at rest.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 12923,
+        "text": "[There] the prisoners rest together; they hear not the voice of the oppressor.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 12924,
+        "text": "The small and great are there; and the servant [is] free from his master.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 12925,
+        "text": "Wherefore is light given to him that is in misery, and life unto the bitter [in] soul;",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 21,
+        "count": 12926,
+        "text": "Which long for death, but it [cometh] not; and dig for it more than for hid treasures;",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 12927,
+        "text": "Which rejoice exceedingly, [and] are glad, when they can find the grave?",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 12928,
+        "text": "[Why is light given] to a man whose way is hid, and whom God hath hedged in?",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 12929,
+        "text": "For my sighing cometh before I eat, and my roarings are poured out like the waters.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 12930,
+        "text": "For the thing which I greatly feared is come upon me, and that which I was afraid of is come unto me.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 12931,
+        "text": "I was not in safety, neither had I rest, neither was I quiet; yet trouble came.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

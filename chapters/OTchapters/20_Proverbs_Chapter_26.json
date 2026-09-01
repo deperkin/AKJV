@@ -1,0 +1,208 @@
+{
+  "version": "AKJV",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 20,"name": "Proverbs","MaxChapters": 31},
+  "chapter": {
+    "Cnumber": 26,
+    "count": 654,
+    "MaxVerses": 28,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 17143,
+        "text": "As snow in summer, and as rain in harvest, so honour is not seemly for a fool.",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 17144,
+        "text": "As the bird by wandering, as the swallow by flying, so the curse causeless shall not come.",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 3,
+        "count": 17145,
+        "text": "A whip for the horse, a bridle for the ass, and a rod for the fool's back.",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 4,
+        "count": 17146,
+        "text": "Answer not a fool according to his folly, lest thou also be like unto him.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 5,
+        "count": 17147,
+        "text": "Answer a fool according to his folly, lest he be wise in his own conceit.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 17148,
+        "text": "He that sendeth a message by the hand of a fool cutteth off the feet, [and] drinketh damage.",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 7,
+        "count": 17149,
+        "text": "The legs of the lame are not equal: so [is] a parable in the mouth of fools.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 17150,
+        "text": "As he that bindeth a stone in a sling, so [is] he that giveth honour to a fool.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 17151,
+        "text": "[As] a thorn goeth up into the hand of a drunkard, so [is] a parable in the mouth of fools.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 17152,
+        "text": "The great [God] that formed all [things] both rewardeth the fool, and rewardeth transgressors.",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 11,
+        "count": 17153,
+        "text": "As a dog returneth to his vomit, [so] a fool returneth to his folly.",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 12,
+        "count": 17154,
+        "text": "Seest thou a man wise in his own conceit? [there is] more hope of a fool than of him.",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 13,
+        "count": 17155,
+        "text": "The slothful [man] saith, [There is] a lion in the way; a lion [is] in the streets.",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 14,
+        "count": 17156,
+        "text": "[As] the door turneth upon his hinges, so [doth] the slothful upon his bed.",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 15,
+        "count": 17157,
+        "text": "The slothful hideth his hand in [his] bosom; it grieveth him to bring it again to his mouth.",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 16,
+        "count": 17158,
+        "text": "The sluggard [is] wiser in his own conceit than seven men that can render a reason.",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 17,
+        "count": 17159,
+        "text": "He that passeth by, [and] meddleth with strife [belonging] not to him, [is like] one that taketh a dog by the ears.",
+        "WordCount": 22,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 18,
+        "count": 17160,
+        "text": "As a mad [man] who casteth firebrands, arrows, and death,",
+        "WordCount": 10,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 19,
+        "count": 17161,
+        "text": "So [is] the man [that] deceiveth his neighbour, and saith, Am not I in sport?",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 17162,
+        "text": "Where no wood is, [there] the fire goeth out: so where [there is] no talebearer, the strife ceaseth.",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 21,
+        "count": 17163,
+        "text": "[As] coals [are] to burning coals, and wood to fire; so [is] a contentious man to kindle strife.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 17164,
+        "text": "The words of a talebearer [are] as wounds, and they go down into the innermost parts of the belly.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 17165,
+        "text": "Burning lips and a wicked heart [are like] a potsherd covered with silver dross.",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 24,
+        "count": 17166,
+        "text": "He that hateth dissembleth with his lips, and layeth up deceit within him;",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 25,
+        "count": 17167,
+        "text": "When he speaketh fair, believe him not: for [there are] seven abominations in his heart.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 17168,
+        "text": "[Whose] hatred is covered by deceit, his wickedness shall be shewed before the [whole] congregation.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 17169,
+        "text": "Whoso diggeth a pit shall fall therein: and he that rolleth a stone, it will return upon him.",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 28,
+        "count": 17170,
+        "text": "A lying tongue hateth [those that are] afflicted by it; and a flattering mouth worketh ruin.",
+        "WordCount": 16,
+        "StartsParagraph": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "version": "AKJV",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 19,
+    "count": 497,
+    "MaxVerses": 14,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 14170,
+        "text": "To the chief Musician, A Psalm of David. The heavens declare the glory of God; and the firmament sheweth his handywork.",
+        "WordCount": 21,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 14171,
+        "text": "Day unto day uttereth speech, and night unto night sheweth knowledge.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 14172,
+        "text": "[There is] no speech nor language, [where] their voice is not heard.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 14173,
+        "text": "Their line is gone out through all the earth, and their words to the end of the world. In them hath he set a tabernacle for the sun,",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 14174,
+        "text": "Which [is] as a bridegroom coming out of his chamber, [and] rejoiceth as a strong man to run a race.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 14175,
+        "text": "His going forth [is] from the end of the heaven, and his circuit unto the ends of it: and there is nothing hid from the heat thereof.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 14176,
+        "text": "The law of the LORD [is] perfect, converting the soul: the testimony of the LORD [is] sure, making wise the simple.",
+        "WordCount": 21,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 8,
+        "count": 14177,
+        "text": "The statutes of the LORD [are] right, rejoicing the heart: the commandment of the LORD [is] pure, enlightening the eyes.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 14178,
+        "text": "The fear of the LORD [is] clean, enduring for ever: the judgments of the LORD [are] true [and] righteous altogether.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 14179,
+        "text": "More to be desired [are they] than gold, yea, than much fine gold: sweeter also than honey and the honeycomb.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 14180,
+        "text": "Moreover by them is thy servant warned: [and] in keeping of them [there is] great reward.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 14181,
+        "text": "Who can understand [his] errors? cleanse thou me from secret [faults].",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 14182,
+        "text": "Keep back thy servant also from presumptuous [sins]; let them not have dominion over me: then shall I be upright, and I shall be innocent from the great transgression.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 14183,
+        "text": "Let the words of my mouth, and the meditation of my heart, be acceptable in thy sight, O LORD, my strength, and my redeemer.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "version": "AKJV",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 23,"name": "Isaiah","MaxChapters": 66},
+  "chapter": {
+    "Cnumber": 50,
+    "count": 729,
+    "MaxVerses": 11,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 18664,
+        "text": "Thus saith the LORD, Where [is] the bill of your mother's divorcement, whom I have put away? or which of my creditors [is it] to whom I have sold you? Behold, for your iniquities have ye sold yourselves, and for your transgressions is your mother put away.",
+        "WordCount": 47,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 18665,
+        "text": "Wherefore, when I came, [was there] no man? when I called, [was there] none to answer? Is my hand shortened at all, that it cannot redeem? or have I no power to deliver? behold, at my rebuke I dry up the sea, I make the rivers a wilderness: their fish stinketh, because [there is] no water, and dieth for thirst.",
+        "WordCount": 60,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 18666,
+        "text": "I clothe the heavens with blackness, and I make sackcloth their covering.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 18667,
+        "text": "The Lord GOD hath given me the tongue of the learned, that I should know how to speak a word in season to [him that is] weary: he wakeneth morning by morning, he wakeneth mine ear to hear as the learned.",
+        "WordCount": 41,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 5,
+        "count": 18668,
+        "text": "The Lord GOD hath opened mine ear, and I was not rebellious, neither turned away back.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 18669,
+        "text": "I gave my back to the smiters, and my cheeks to them that plucked off the hair: I hid not my face from shame and spitting.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 18670,
+        "text": "For the Lord GOD will help me; therefore shall I not be confounded: therefore have I set my face like a flint, and I know that I shall not be ashamed.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 18671,
+        "text": "[He is] near that justifieth me; who will contend with me? let us stand together: who [is] mine adversary? let him come near to me.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 18672,
+        "text": "Behold, the Lord GOD will help me; who [is] he [that] shall condemn me? lo, they all shall wax old as a garment; the moth shall eat them up.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 18673,
+        "text": "Who [is] among you that feareth the LORD, that obeyeth the voice of his servant, that walketh [in] darkness, and hath no light? let him trust in the name of the LORD, and stay upon his God.",
+        "WordCount": 37,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 11,
+        "count": 18674,
+        "text": "Behold, all ye that kindle a fire, that compass [yourselves] about with sparks: walk in the light of your fire, and in the sparks [that] ye have kindled. This shall ye have of mine hand; ye shall lie down in sorrow.",
+        "WordCount": 41,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

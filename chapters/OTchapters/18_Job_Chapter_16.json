@@ -1,0 +1,166 @@
+{
+  "version": "AKJV",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 18,"name": "Job","MaxChapters": 42},
+  "chapter": {
+    "Cnumber": 16,
+    "count": 452,
+    "MaxVerses": 22,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 13240,
+        "text": "Then Job answered and said,",
+        "WordCount": 5,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 13241,
+        "text": "I have heard many such things: miserable comforters [are] ye all.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 13242,
+        "text": "Shall vain words have an end? or what emboldeneth thee that thou answerest?",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 13243,
+        "text": "I also could speak as ye [do]: if your soul were in my soul's stead, I could heap up words against you, and shake mine head at you.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 13244,
+        "text": "[But] I would strengthen you with my mouth, and the moving of my lips should asswage [your grief].",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 13245,
+        "text": "Though I speak, my grief is not asswaged: and [though] I forbear, what am I eased?",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 7,
+        "count": 13246,
+        "text": "But now he hath made me weary: thou hast made desolate all my company.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 13247,
+        "text": "And thou hast filled me with wrinkles, [which] is a witness [against me]: and my leanness rising up in me beareth witness to my face.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 13248,
+        "text": "He teareth [me] in his wrath, who hateth me: he gnasheth upon me with his teeth; mine enemy sharpeneth his eyes upon me.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 13249,
+        "text": "They have gaped upon me with their mouth; they have smitten me upon the cheek reproachfully; they have gathered themselves together against me.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 13250,
+        "text": "God hath delivered me to the ungodly, and turned me over into the hands of the wicked.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 13251,
+        "text": "I was at ease, but he hath broken me asunder: he hath also taken [me] by my neck, and shaken me to pieces, and set me up for his mark.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 13252,
+        "text": "His archers compass me round about, he cleaveth my reins asunder, and doth not spare; he poureth out my gall upon the ground.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 13253,
+        "text": "He breaketh me with breach upon breach, he runneth upon me like a giant.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 13254,
+        "text": "I have sewed sackcloth upon my skin, and defiled my horn in the dust.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 13255,
+        "text": "My face is foul with weeping, and on my eyelids [is] the shadow of death;",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 13256,
+        "text": "Not for [any] injustice in mine hands: also my prayer [is] pure.",
+        "WordCount": 12,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 18,
+        "count": 13257,
+        "text": "O earth, cover not thou my blood, and let my cry have no place.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 13258,
+        "text": "Also now, behold, my witness [is] in heaven, and my record [is] on high.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 13259,
+        "text": "My friends scorn me: [but] mine eye poureth out [tears] unto God.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 13260,
+        "text": "O that one might plead for a man with God, as a man [pleadeth] for his neighbour!",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 13261,
+        "text": "When a few years are come, then I shall go the way [whence] I shall not return.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

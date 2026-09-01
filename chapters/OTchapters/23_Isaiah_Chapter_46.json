@@ -1,0 +1,103 @@
+{
+  "version": "AKJV",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 23,"name": "Isaiah","MaxChapters": 66},
+  "chapter": {
+    "Cnumber": 46,
+    "count": 725,
+    "MaxVerses": 13,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 18588,
+        "text": "Bel boweth down, Nebo stoopeth, their idols were upon the beasts, and upon the cattle: your carriages [were] heavy loaden; [they are] a burden to the weary [beast].",
+        "WordCount": 28,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 18589,
+        "text": "They stoop, they bow down together; they could not deliver the burden, but themselves are gone into captivity.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 18590,
+        "text": "Hearken unto me, O house of Jacob, and all the remnant of the house of Israel, which are borne [by me] from the belly, which are carried from the womb:",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 18591,
+        "text": "And [even] to [your] old age I [am] he; and [even] to hoar hairs will I carry [you]: I have made, and I will bear; even I will carry, and will deliver [you].",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 18592,
+        "text": "To whom will ye liken me, and make [me] equal, and compare me, that we may be like?",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 6,
+        "count": 18593,
+        "text": "They lavish gold out of the bag, and weigh silver in the balance, [and] hire a goldsmith; and he maketh it a god: they fall down, yea, they worship.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 18594,
+        "text": "They bear him upon the shoulder, they carry him, and set him in his place, and he standeth; from his place shall he not remove: yea, [one] shall cry unto him, yet can he not answer, nor save him out of his trouble.",
+        "WordCount": 43,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 18595,
+        "text": "Remember this, and shew yourselves men: bring [it] again to mind, O ye transgressors.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 18596,
+        "text": "Remember the former things of old: for I [am] God, and [there is] none else; [I am] God, and [there is] none like me,",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 18597,
+        "text": "Declaring the end from the beginning, and from ancient times [the things] that are not [yet] done, saying, My counsel shall stand, and I will do all my pleasure:",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 18598,
+        "text": "Calling a ravenous bird from the east, the man that executeth my counsel from a far country: yea, I have spoken [it], I will also bring it to pass; I have purposed [it], I will also do it.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 18599,
+        "text": "Hearken unto me, ye stouthearted, that [are] far from righteousness:",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 18600,
+        "text": "I bring near my righteousness; it shall not be far off, and my salvation shall not tarry: and I will place salvation in Zion for Israel my glory.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "version": "AKJV",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 14,"name": "2 Chronicles","MaxChapters": 36},
+  "chapter": {
+    "Cnumber": 1,
+    "count": 368,
+    "MaxVerses": 17,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 11196,
+        "text": "And Solomon the son of David was strengthened in his kingdom, and the LORD his God [was] with him, and magnified him exceedingly.",
+        "WordCount": 23,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 11197,
+        "text": "Then Solomon spake unto all Israel, to the captains of thousands and of hundreds, and to the judges, and to every governor in all Israel, the chief of the fathers.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 11198,
+        "text": "So Solomon, and all the congregation with him, went to the high place that [was] at Gibeon; for there was the tabernacle of the congregation of God, which Moses the servant of the LORD had made in the wilderness.",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 11199,
+        "text": "But the ark of God had David brought up from Kirjathjearim to [the place which] David had prepared for it: for he had pitched a tent for it at Jerusalem.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 11200,
+        "text": "Moreover the brasen altar, that Bezaleel the son of Uri, the son of Hur, had made, he put before the tabernacle of the LORD: and Solomon and the congregation sought unto it.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 11201,
+        "text": "And Solomon went up thither to the brasen altar before the LORD, which [was] at the tabernacle of the congregation, and offered a thousand burnt offerings upon it.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 11202,
+        "text": "In that night did God appear unto Solomon, and said unto him, Ask what I shall give thee.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 11203,
+        "text": "And Solomon said unto God, Thou hast shewed great mercy unto David my father, and hast made me to reign in his stead.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 11204,
+        "text": "Now, O LORD God, let thy promise unto David my father be established: for thou hast made me king over a people like the dust of the earth in multitude.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 11205,
+        "text": "Give me now wisdom and knowledge, that I may go out and come in before this people: for who can judge this thy people, [that is so] great?",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 11206,
+        "text": "And God said to Solomon, Because this was in thine heart, and thou hast not asked riches, wealth, or honour, nor the life of thine enemies, neither yet hast asked long life; but hast asked wisdom and knowledge for thyself, that thou mayest judge my people, over whom I have made thee king:",
+        "WordCount": 53,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 11207,
+        "text": "Wisdom and knowledge [is] granted unto thee; and I will give thee riches, and wealth, and honour, such as none of the kings have had that [have been] before thee, neither shall there any after thee have the like.",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 11208,
+        "text": "Then Solomon came [from his journey] to the high place that [was] at Gibeon to Jerusalem, from before the tabernacle of the congregation, and reigned over Israel.",
+        "WordCount": 27,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 14,
+        "count": 11209,
+        "text": "And Solomon gathered chariots and horsemen: and he had a thousand and four hundred chariots, and twelve thousand horsemen, which he placed in the chariot cities, and with the king at Jerusalem.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 11210,
+        "text": "And the king made silver and gold at Jerusalem [as plenteous] as stones, and cedar trees made he as the sycomore trees that [are] in the vale for abundance.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 11211,
+        "text": "And Solomon had horses brought out of Egypt, and linen yarn: the king's merchants received the linen yarn at a price.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 11212,
+        "text": "And they fetched up, and brought forth out of Egypt a chariot for six hundred [shekels] of silver, and an horse for an hundred and fifty: and so brought they out [horses] for all the kings of the Hittites, and for the kings of Syria, by their means.",
+        "WordCount": 48,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

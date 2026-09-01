@@ -1,0 +1,89 @@
+{
+  "version": "AKJV",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 32,
+    "count": 510,
+    "MaxVerses": 11,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 14357,
+        "text": "[A] Psalm of David, Maschil. Blessed [is he whose] transgression [is] forgiven, [whose] sin [is] covered.",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 14358,
+        "text": "Blessed [is] the man unto whom the LORD imputeth not iniquity, and in whose spirit [there is] no guile.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 14359,
+        "text": "When I kept silence, my bones waxed old through my roaring all the day long.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 14360,
+        "text": "For day and night thy hand was heavy upon me: my moisture is turned into the drought of summer. Selah.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 14361,
+        "text": "I acknowledged my sin unto thee, and mine iniquity have I not hid. I said, I will confess my transgressions unto the LORD; and thou forgavest the iniquity of my sin. Selah.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 14362,
+        "text": "For this shall every one that is godly pray unto thee in a time when thou mayest be found: surely in the floods of great waters they shall not come nigh unto him.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 14363,
+        "text": "Thou [art] my hiding place; thou shalt preserve me from trouble; thou shalt compass me about with songs of deliverance. Selah.",
+        "WordCount": 21,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 8,
+        "count": 14364,
+        "text": "I will instruct thee and teach thee in the way which thou shalt go: I will guide thee with mine eye.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 14365,
+        "text": "Be ye not as the horse, [or] as the mule, [which] have no understanding: whose mouth must be held in with bit and bridle, lest they come near unto thee.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 14366,
+        "text": "Many sorrows [shall be] to the wicked: but he that trusteth in the LORD, mercy shall compass him about.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 14367,
+        "text": "Be glad in the LORD, and rejoice, ye righteous: and shout for joy, all [ye that are] upright in heart.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

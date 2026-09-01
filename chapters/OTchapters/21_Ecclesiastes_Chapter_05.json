@@ -1,0 +1,152 @@
+{
+  "version": "AKJV",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 21,"name": "Ecclesiastes","MaxChapters": 12},
+  "chapter": {
+    "Cnumber": 5,
+    "count": 664,
+    "MaxVerses": 20,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 17399,
+        "text": "Keep thy foot when thou goest to the house of God, and be more ready to hear, than to give the sacrifice of fools: for they consider not that they do evil.",
+        "WordCount": 32,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 17400,
+        "text": "Be not rash with thy mouth, and let not thine heart be hasty to utter [any] thing before God: for God [is] in heaven, and thou upon earth: therefore let thy words be few.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 17401,
+        "text": "For a dream cometh through the multitude of business; and a fool's voice [is known] by multitude of words.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 17402,
+        "text": "When thou vowest a vow unto God, defer not to pay it; for [he hath] no pleasure in fools: pay that which thou hast vowed.",
+        "WordCount": 25,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 5,
+        "count": 17403,
+        "text": "Better [is it] that thou shouldest not vow, than that thou shouldest vow and not pay.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 17404,
+        "text": "Suffer not thy mouth to cause thy flesh to sin; neither say thou before the angel, that it [was] an error: wherefore should God be angry at thy voice, and destroy the work of thine hands?",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 17405,
+        "text": "For in the multitude of dreams and many words [there are] also [divers] vanities: but fear thou God.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 17406,
+        "text": "If thou seest the oppression of the poor, and violent perverting of judgment and justice in a province, marvel not at the matter: for [he that is] higher than the highest regardeth; and [there be] higher than they.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 17407,
+        "text": "Moreover the profit of the earth is for all: the king [himself] is served by the field.",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 10,
+        "count": 17408,
+        "text": "He that loveth silver shall not be satisfied with silver; nor he that loveth abundance with increase: this [is] also vanity.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 17409,
+        "text": "When goods increase, they are increased that eat them: and what good [is there] to the owners thereof, saving the beholding [of them] with their eyes?",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 17410,
+        "text": "The sleep of a labouring man [is] sweet, whether he eat little or much: but the abundance of the rich will not suffer him to sleep.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 17411,
+        "text": "There is a sore evil [which] I have seen under the sun, [namely], riches kept for the owners thereof to their hurt.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 17412,
+        "text": "But those riches perish by evil travail: and he begetteth a son, and [there is] nothing in his hand.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 17413,
+        "text": "As he came forth of his mother's womb, naked shall he return to go as he came, and shall take nothing of his labour, which he may carry away in his hand.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 17414,
+        "text": "And this also [is] a sore evil, [that] in all points as he came, so shall he go: and what profit hath he that hath laboured for the wind?",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 17415,
+        "text": "All his days also he eateth in darkness, and [he hath] much sorrow and wrath with his sickness.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 17416,
+        "text": "Behold [that] which I have seen: [it is] good and comely [for one] to eat and to drink, and to enjoy the good of all his labour that he taketh under the sun all the days of his life, which God giveth him: for it [is] his portion.",
+        "WordCount": 48,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 19,
+        "count": 17417,
+        "text": "Every man also to whom God hath given riches and wealth, and hath given him power to eat thereof, and to take his portion, and to rejoice in his labour; this [is] the gift of God.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 17418,
+        "text": "For he shall not much remember the days of his life; because God answereth [him] in the joy of his heart.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "version": "AKJV",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 18,"name": "Job","MaxChapters": 42},
+  "chapter": {
+    "Cnumber": 37,
+    "count": 473,
+    "MaxVerses": 24,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 13771,
+        "text": "At this also my heart trembleth, and is moved out of his place.",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 13772,
+        "text": "Hear attentively the noise of his voice, and the sound [that] goeth out of his mouth.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 13773,
+        "text": "He directeth it under the whole heaven, and his lightning unto the ends of the earth.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 13774,
+        "text": "After it a voice roareth: he thundereth with the voice of his excellency; and he will not stay them when his voice is heard.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 13775,
+        "text": "God thundereth marvellously with his voice; great things doeth he, which we cannot comprehend.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 13776,
+        "text": "For he saith to the snow, Be thou [on] the earth; likewise to the small rain, and to the great rain of his strength.",
+        "WordCount": 24,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 7,
+        "count": 13777,
+        "text": "He sealeth up the hand of every man; that all men may know his work.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 13778,
+        "text": "Then the beasts go into dens, and remain in their places.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 13779,
+        "text": "Out of the south cometh the whirlwind: and cold out of the north.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 13780,
+        "text": "By the breath of God frost is given: and the breadth of the waters is straitened.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 13781,
+        "text": "Also by watering he wearieth the thick cloud: he scattereth his bright cloud:",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 13782,
+        "text": "And it is turned round about by his counsels: that they may do whatsoever he commandeth them upon the face of the world in the earth.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 13783,
+        "text": "He causeth it to come, whether for correction, or for his land, or for mercy.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 13784,
+        "text": "Hearken unto this, O Job: stand still, and consider the wondrous works of God.",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 15,
+        "count": 13785,
+        "text": "Dost thou know when God disposed them, and caused the light of his cloud to shine?",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 13786,
+        "text": "Dost thou know the balancings of the clouds, the wondrous works of him which is perfect in knowledge?",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 13787,
+        "text": "How thy garments [are] warm, when he quieteth the earth by the south [wind]?",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 13788,
+        "text": "Hast thou with him spread out the sky, [which is] strong, [and] as a molten looking glass?",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 13789,
+        "text": "Teach us what we shall say unto him; [for] we cannot order [our speech] by reason of darkness.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 13790,
+        "text": "Shall it be told him that I speak? if a man speak, surely he shall be swallowed up.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 13791,
+        "text": "And now [men] see not the bright light which [is] in the clouds: but the wind passeth, and cleanseth them.",
+        "WordCount": 20,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 22,
+        "count": 13792,
+        "text": "Fair weather cometh out of the north: with God [is] terrible majesty.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 13793,
+        "text": "[Touching] the Almighty, we cannot find him out: [he is] excellent in power, and in judgment, and in plenty of justice: he will not afflict.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 13794,
+        "text": "Men do therefore fear him: he respecteth not any [that are] wise of heart.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

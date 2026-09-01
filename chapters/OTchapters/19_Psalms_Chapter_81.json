@@ -1,0 +1,124 @@
+{
+  "version": "AKJV",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 81,
+    "count": 559,
+    "MaxVerses": 16,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 15219,
+        "text": "To the chief Musician upon Gittith, A Psalm of Asaph. Sing aloud unto God our strength: make a joyful noise unto the God of Jacob.",
+        "WordCount": 25,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 15220,
+        "text": "Take a psalm, and bring hither the timbrel, the pleasant harp with the psaltery.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 15221,
+        "text": "Blow up the trumpet in the new moon, in the time appointed, on our solemn feast day.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 15222,
+        "text": "For this [was] a statute for Israel, [and] a law of the God of Jacob.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 15223,
+        "text": "This he ordained in Joseph [for] a testimony, when he went out through the land of Egypt: [where] I heard a language [that] I understood not.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 15224,
+        "text": "I removed his shoulder from the burden: his hands were delivered from the pots.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 15225,
+        "text": "Thou calledst in trouble, and I delivered thee; I answered thee in the secret place of thunder: I proved thee at the waters of Meribah. Selah.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 15226,
+        "text": "Hear, O my people, and I will testify unto thee: O Israel, if thou wilt hearken unto me;",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 9,
+        "count": 15227,
+        "text": "There shall no strange god be in thee; neither shalt thou worship any strange god.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 15228,
+        "text": "I [am] the LORD thy God, which brought thee out of the land of Egypt: open thy mouth wide, and I will fill it.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 15229,
+        "text": "But my people would not hearken to my voice; and Israel would none of me.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 15230,
+        "text": "So I gave them up unto their own hearts' lust: [and] they walked in their own counsels.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 15231,
+        "text": "Oh that my people had hearkened unto me, [and] Israel had walked in my ways!",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 15232,
+        "text": "I should soon have subdued their enemies, and turned my hand against their adversaries.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 15233,
+        "text": "The haters of the LORD should have submitted themselves unto him: but their time should have endured for ever.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 15234,
+        "text": "He should have fed them also with the finest of the wheat: and with honey out of the rock should I have satisfied thee.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

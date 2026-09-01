@@ -1,0 +1,257 @@
+{
+  "version": "AKJV",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 68,
+    "count": 546,
+    "MaxVerses": 35,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 14902,
+        "text": "To the chief Musician, A Psalm [or] Song of David. Let God arise, let his enemies be scattered: let them also that hate him flee before him.",
+        "WordCount": 27,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 14903,
+        "text": "As smoke is driven away, [so] drive [them] away: as wax melteth before the fire, [so] let the wicked perish at the presence of God.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 14904,
+        "text": "But let the righteous be glad; let them rejoice before God: yea, let them exceedingly rejoice.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 14905,
+        "text": "Sing unto God, sing praises to his name: extol him that rideth upon the heavens by his name JAH, and rejoice before him.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 14906,
+        "text": "A father of the fatherless, and a judge of the widows, [is] God in his holy habitation.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 14907,
+        "text": "God setteth the solitary in families: he bringeth out those which are bound with chains: but the rebellious dwell in a dry [land].",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 14908,
+        "text": "O God, when thou wentest forth before thy people, when thou didst march through the wilderness; Selah:",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 8,
+        "count": 14909,
+        "text": "The earth shook, the heavens also dropped at the presence of God: [even] Sinai itself [was moved] at the presence of God, the God of Israel.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 14910,
+        "text": "Thou, O God, didst send a plentiful rain, whereby thou didst confirm thine inheritance, when it was weary.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 14911,
+        "text": "Thy congregation hath dwelt therein: thou, O God, hast prepared of thy goodness for the poor.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 14912,
+        "text": "The Lord gave the word: great [was] the company of those that published [it].",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 14913,
+        "text": "Kings of armies did flee apace: and she that tarried at home divided the spoil.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 14914,
+        "text": "Though ye have lien among the pots, [yet shall ye be as] the wings of a dove covered with silver, and her feathers with yellow gold.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 14915,
+        "text": "When the Almighty scattered kings in it, it was [white] as snow in Salmon.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 14916,
+        "text": "The hill of God [is as] the hill of Bashan; an high hill [as] the hill of Bashan.",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 16,
+        "count": 14917,
+        "text": "Why leap ye, ye high hills? [this is] the hill [which] God desireth to dwell in; yea, the LORD will dwell [in it] for ever.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 14918,
+        "text": "The chariots of God [are] twenty thousand, [even] thousands of angels: the Lord [is] among them, [as in] Sinai, in the holy [place].",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 14919,
+        "text": "Thou hast ascended on high, thou hast led captivity captive: thou hast received gifts for men; yea, [for] the rebellious also, that the LORD God might dwell [among them].",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 14920,
+        "text": "Blessed [be] the Lord, [who] daily loadeth us [with benefits, even] the God of our salvation. Selah.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 14921,
+        "text": "[He that is] our God [is] the God of salvation; and unto GOD the Lord [belong] the issues from death.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 14922,
+        "text": "But God shall wound the head of his enemies, [and] the hairy scalp of such an one as goeth on still in his trespasses.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 14923,
+        "text": "The Lord said, I will bring again from Bashan, I will bring [my people] again from the depths of the sea:",
+        "WordCount": 21,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 23,
+        "count": 14924,
+        "text": "That thy foot may be dipped in the blood of [thine] enemies, [and] the tongue of thy dogs in the same.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 14925,
+        "text": "They have seen thy goings, O God; [even] the goings of my God, my King, in the sanctuary.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 14926,
+        "text": "The singers went before, the players on instruments [followed] after; among [them were] the damsels playing with timbrels.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 14927,
+        "text": "Bless ye God in the congregations, [even] the Lord, from the fountain of Israel.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 14928,
+        "text": "There [is] little Benjamin [with] their ruler, the princes of Judah [and] their council, the princes of Zebulun, [and] the princes of Naphtali.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 14929,
+        "text": "Thy God hath commanded thy strength: strengthen, O God, that which thou hast wrought for us.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 14930,
+        "text": "Because of thy temple at Jerusalem shall kings bring presents unto thee.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 14931,
+        "text": "Rebuke the company of spearmen, the multitude of the bulls, with the calves of the people, [till every one] submit himself with pieces of silver: scatter thou the people [that] delight in war.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 14932,
+        "text": "Princes shall come out of Egypt; Ethiopia shall soon stretch out her hands unto God.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 14933,
+        "text": "Sing unto God, ye kingdoms of the earth; O sing praises unto the Lord; Selah:",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 33,
+        "count": 14934,
+        "text": "To him that rideth upon the heavens of heavens, [which were] of old; lo, he doth send out his voice, [and that] a mighty voice.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 14935,
+        "text": "Ascribe ye strength unto God: his excellency [is] over Israel, and his strength [is] in the clouds.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 14936,
+        "text": "O God, [thou art] terrible out of thy holy places: the God of Israel [is] he that giveth strength and power unto [his] people. Blessed [be] God.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

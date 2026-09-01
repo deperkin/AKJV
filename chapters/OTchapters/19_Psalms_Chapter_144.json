@@ -1,0 +1,117 @@
+{
+  "version": "AKJV",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 144,
+    "count": 622,
+    "MaxVerses": 15,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 16307,
+        "text": "[A Psalm] of David. Blessed [be] the LORD my strength, which teacheth my hands to war, [and] my fingers to fight:",
+        "WordCount": 21,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 16308,
+        "text": "My goodness, and my fortress; my high tower, and my deliverer; my shield, and [he] in whom I trust; who subdueth my people under me.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 16309,
+        "text": "LORD, what [is] man, that thou takest knowledge of him! [or] the son of man, that thou makest account of him!",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 16310,
+        "text": "Man is like to vanity: his days [are] as a shadow that passeth away.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 16311,
+        "text": "Bow thy heavens, O LORD, and come down: touch the mountains, and they shall smoke.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 16312,
+        "text": "Cast forth lightning, and scatter them: shoot out thine arrows, and destroy them.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 16313,
+        "text": "Send thine hand from above; rid me, and deliver me out of great waters, from the hand of strange children;",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 16314,
+        "text": "Whose mouth speaketh vanity, and their right hand [is] a right hand of falsehood.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 16315,
+        "text": "I will sing a new song unto thee, O God: upon a psaltery [and] an instrument of ten strings will I sing praises unto thee.",
+        "WordCount": 25,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 10,
+        "count": 16316,
+        "text": "[It is he] that giveth salvation unto kings: who delivereth David his servant from the hurtful sword.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 16317,
+        "text": "Rid me, and deliver me from the hand of strange children, whose mouth speaketh vanity, and their right hand [is] a right hand of falsehood:",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 16318,
+        "text": "That our sons [may be] as plants grown up in their youth; [that] our daughters [may be] as corner stones, polished [after] the similitude of a palace:",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 16319,
+        "text": "[That] our garners [may be] full, affording all manner of store: [that] our sheep may bring forth thousands and ten thousands in our streets:",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 16320,
+        "text": "[That] our oxen [may be] strong to labour; [that there be] no breaking in, nor going out; that [there be] no complaining in our streets.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 16321,
+        "text": "Happy [is that] people, that is in such a case: [yea], happy [is that] people, whose God [is] the LORD.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

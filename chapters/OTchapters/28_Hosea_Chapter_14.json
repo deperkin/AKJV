@@ -1,0 +1,75 @@
+{
+  "version": "AKJV",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 28,"name": "Hosea","MaxChapters": 14},
+  "chapter": {
+    "Cnumber": 14,
+    "count": 876,
+    "MaxVerses": 9,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 22284,
+        "text": "O Israel, return unto the LORD thy God; for thou hast fallen by thine iniquity.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 22285,
+        "text": "Take with you words, and turn to the LORD: say unto him, Take away all iniquity, and receive [us] graciously: so will we render the calves of our lips.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 22286,
+        "text": "Asshur shall not save us; we will not ride upon horses: neither will we say any more to the work of our hands, [Ye are] our gods: for in thee the fatherless findeth mercy.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 22287,
+        "text": "I will heal their backsliding, I will love them freely: for mine anger is turned away from him.",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 5,
+        "count": 22288,
+        "text": "I will be as the dew unto Israel: he shall grow as the lily, and cast forth his roots as Lebanon.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 22289,
+        "text": "His branches shall spread, and his beauty shall be as the olive tree, and his smell as Lebanon.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 22290,
+        "text": "They that dwell under his shadow shall return; they shall revive [as] the corn, and grow as the vine: the scent thereof [shall be] as the wine of Lebanon.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 22291,
+        "text": "Ephraim [shall say], What have I to do any more with idols? I have heard [him], and observed him: I [am] like a green fir tree. From me is thy fruit found.",
+        "WordCount": 32,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 9,
+        "count": 22292,
+        "text": "Who [is] wise, and he shall understand these [things]? prudent, and he shall know them? for the ways of the LORD [are] right, and the just shall walk in them: but the transgressors shall fall therein.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

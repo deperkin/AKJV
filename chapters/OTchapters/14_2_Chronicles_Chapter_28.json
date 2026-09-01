@@ -1,0 +1,201 @@
+{
+  "version": "AKJV",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 14,"name": "2 Chronicles","MaxChapters": 36},
+  "chapter": {
+    "Cnumber": 28,
+    "count": 395,
+    "MaxVerses": 27,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 11766,
+        "text": "Ahaz [was] twenty years old when he began to reign, and he reigned sixteen years in Jerusalem: but he did not [that which was] right in the sight of the LORD, like David his father:",
+        "WordCount": 35,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 11767,
+        "text": "For he walked in the ways of the kings of Israel, and made also molten images for Baalim.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 11768,
+        "text": "Moreover he burnt incense in the valley of the son of Hinnom, and burnt his children in the fire, after the abominations of the heathen whom the LORD had cast out before the children of Israel.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 11769,
+        "text": "He sacrificed also and burnt incense in the high places, and on the hills, and under every green tree.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 11770,
+        "text": "Wherefore the LORD his God delivered him into the hand of the king of Syria; and they smote him, and carried away a great multitude of them captives, and brought [them] to Damascus. And he was also delivered into the hand of the king of Israel, who smote him with a great slaughter.",
+        "WordCount": 53,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 11771,
+        "text": "For Pekah the son of Remaliah slew in Judah an hundred and twenty thousand in one day, [which were] all valiant men; because they had forsaken the LORD God of their fathers.",
+        "WordCount": 32,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 7,
+        "count": 11772,
+        "text": "And Zichri, a mighty man of Ephraim, slew Maaseiah the king's son, and Azrikam the governor of the house, and Elkanah [that was] next to the king.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 11773,
+        "text": "And the children of Israel carried away captive of their brethren two hundred thousand, women, sons, and daughters, and took also away much spoil from them, and brought the spoil to Samaria.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 11774,
+        "text": "But a prophet of the LORD was there, whose name [was] Oded: and he went out before the host that came to Samaria, and said unto them, Behold, because the LORD God of your fathers was wroth with Judah, he hath delivered them into your hand, and ye have slain them in a rage [that] reacheth up unto heaven.",
+        "WordCount": 59,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 11775,
+        "text": "And now ye purpose to keep under the children of Judah and Jerusalem for bondmen and bondwomen unto you: [but are there] not with you, even with you, sins against the LORD your God?",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 11776,
+        "text": "Now hear me therefore, and deliver the captives again, which ye have taken captive of your brethren: for the fierce wrath of the LORD [is] upon you.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 11777,
+        "text": "Then certain of the heads of the children of Ephraim, Azariah the son of Johanan, Berechiah the son of Meshillemoth, and Jehizkiah the son of Shallum, and Amasa the son of Hadlai, stood up against them that came from the war,",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 11778,
+        "text": "And said unto them, Ye shall not bring in the captives hither: for whereas we have offended against the LORD [already], ye intend to add [more] to our sins and to our trespass: for our trespass is great, and [there is] fierce wrath against Israel.",
+        "WordCount": 45,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 11779,
+        "text": "So the armed men left the captives and the spoil before the princes and all the congregation.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 11780,
+        "text": "And the men which were expressed by name rose up, and took the captives, and with the spoil clothed all that were naked among them, and arrayed them, and shod them, and gave them to eat and to drink, and anointed them, and carried all the feeble of them upon asses, and brought them to Jericho, the city of palm trees, to their brethren: then they returned to Samaria.",
+        "WordCount": 69,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 11781,
+        "text": "At that time did king Ahaz send unto the kings of Assyria to help him.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 17,
+        "count": 11782,
+        "text": "For again the Edomites had come and smitten Judah, and carried away captives.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 11783,
+        "text": "The Philistines also had invaded the cities of the low country, and of the south of Judah, and had taken Bethshemesh, and Ajalon, and Gederoth, and Shocho with the villages thereof, and Timnah with the villages thereof, Gimzo also and the villages thereof: and they dwelt there.",
+        "WordCount": 47,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 11784,
+        "text": "For the LORD brought Judah low because of Ahaz king of Israel; for he made Judah naked, and transgressed sore against the LORD.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 11785,
+        "text": "And Tilgathpilneser king of Assyria came unto him, and distressed him, but strengthened him not.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 11786,
+        "text": "For Ahaz took away a portion [out] of the house of the LORD, and [out] of the house of the king, and of the princes, and gave [it] unto the king of Assyria: but he helped him not.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 11787,
+        "text": "And in the time of his distress did he trespass yet more against the LORD: this [is that] king Ahaz.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 11788,
+        "text": "For he sacrificed unto the gods of Damascus, which smote him: and he said, Because the gods of the kings of Syria help them, [therefore] will I sacrifice to them, that they may help me. But they were the ruin of him, and of all Israel.",
+        "WordCount": 46,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 11789,
+        "text": "And Ahaz gathered together the vessels of the house of God, and cut in pieces the vessels of the house of God, and shut up the doors of the house of the LORD, and he made him altars in every corner of Jerusalem.",
+        "WordCount": 43,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 11790,
+        "text": "And in every several city of Judah he made high places to burn incense unto other gods, and provoked to anger the LORD God of his fathers.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 11791,
+        "text": "Now the rest of his acts and of all his ways, first and last, behold, they [are] written in the book of the kings of Judah and Israel.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 11792,
+        "text": "And Ahaz slept with his fathers, and they buried him in the city, [even] in Jerusalem: but they brought him not into the sepulchres of the kings of Israel: and Hezekiah his son reigned in his stead.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

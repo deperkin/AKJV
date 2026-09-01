@@ -1,0 +1,75 @@
+{
+  "version": "AKJV",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 20,
+    "count": 498,
+    "MaxVerses": 9,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 14184,
+        "text": "To the chief Musician, A Psalm of David. The LORD hear thee in the day of trouble; the name of the God of Jacob defend thee;",
+        "WordCount": 26,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 14185,
+        "text": "Send thee help from the sanctuary, and strengthen thee out of Zion;",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 14186,
+        "text": "Remember all thy offerings, and accept thy burnt sacrifice; Selah.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 14187,
+        "text": "Grant thee according to thine own heart, and fulfil all thy counsel.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 14188,
+        "text": "We will rejoice in thy salvation, and in the name of our God we will set up [our] banners: the LORD fulfil all thy petitions.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 14189,
+        "text": "Now know I that the LORD saveth his anointed; he will hear him from his holy heaven with the saving strength of his right hand.",
+        "WordCount": 25,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 7,
+        "count": 14190,
+        "text": "Some [trust] in chariots, and some in horses: but we will remember the name of the LORD our God.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 14191,
+        "text": "They are brought down and fallen: but we are risen, and stand upright.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 14192,
+        "text": "Save, LORD: let the king hear us when we call.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

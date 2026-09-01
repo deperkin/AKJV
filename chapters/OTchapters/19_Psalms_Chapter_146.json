@@ -1,0 +1,82 @@
+{
+  "version": "AKJV",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 146,
+    "count": 624,
+    "MaxVerses": 10,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 16343,
+        "text": "Praise ye the LORD. Praise the LORD, O my soul.",
+        "WordCount": 10,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 16344,
+        "text": "While I live will I praise the LORD: I will sing praises unto my God while I have any being.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 16345,
+        "text": "Put not your trust in princes, [nor] in the son of man, in whom [there is] no help.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 16346,
+        "text": "His breath goeth forth, he returneth to his earth; in that very day his thoughts perish.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 16347,
+        "text": "Happy [is he] that [hath] the God of Jacob for his help, whose hope [is] in the LORD his God:",
+        "WordCount": 20,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 6,
+        "count": 16348,
+        "text": "Which made heaven, and earth, the sea, and all that therein [is]: which keepeth truth for ever:",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 16349,
+        "text": "Which executeth judgment for the oppressed: which giveth food to the hungry. The LORD looseth the prisoners:",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 16350,
+        "text": "The LORD openeth [the eyes of] the blind: the LORD raiseth them that are bowed down: the LORD loveth the righteous:",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 16351,
+        "text": "The LORD preserveth the strangers; he relieveth the fatherless and widow: but the way of the wicked he turneth upside down.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 16352,
+        "text": "The LORD shall reign for ever, [even] thy God, O Zion, unto all generations. Praise ye the LORD.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

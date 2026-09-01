@@ -1,0 +1,152 @@
+{
+  "version": "AKJV",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 9,
+    "count": 487,
+    "MaxVerses": 20,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 14023,
+        "text": "To the chief Musician upon Muthlabben, A Psalm of David. I will praise [thee], O LORD, with my whole heart; I will shew forth all thy marvellous works.",
+        "WordCount": 28,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 14024,
+        "text": "I will be glad and rejoice in thee: I will sing praise to thy name, O thou most High.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 14025,
+        "text": "When mine enemies are turned back, they shall fall and perish at thy presence.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 14026,
+        "text": "For thou hast maintained my right and my cause; thou satest in the throne judging right.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 14027,
+        "text": "Thou hast rebuked the heathen, thou hast destroyed the wicked, thou hast put out their name for ever and ever.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 14028,
+        "text": "O thou enemy, destructions are come to a perpetual end: and thou hast destroyed cities; their memorial is perished with them.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 14029,
+        "text": "But the LORD shall endure for ever: he hath prepared his throne for judgment.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 14030,
+        "text": "And he shall judge the world in righteousness, he shall minister judgment to the people in uprightness.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 14031,
+        "text": "The LORD also will be a refuge for the oppressed, a refuge in times of trouble.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 14032,
+        "text": "And they that know thy name will put their trust in thee: for thou, LORD, hast not forsaken them that seek thee.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 14033,
+        "text": "Sing praises to the LORD, which dwelleth in Zion: declare among the people his doings.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 12,
+        "count": 14034,
+        "text": "When he maketh inquisition for blood, he remembereth them: he forgetteth not the cry of the humble.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 14035,
+        "text": "Have mercy upon me, O LORD; consider my trouble [which I suffer] of them that hate me, thou that liftest me up from the gates of death:",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 14036,
+        "text": "That I may shew forth all thy praise in the gates of the daughter of Zion: I will rejoice in thy salvation.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 14037,
+        "text": "The heathen are sunk down in the pit [that] they made: in the net which they hid is their own foot taken.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 14038,
+        "text": "The LORD is known [by] the judgment [which] he executeth: the wicked is snared in the work of his own hands. Higgaion. Selah.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 14039,
+        "text": "The wicked shall be turned into hell, [and] all the nations that forget God.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 14040,
+        "text": "For the needy shall not alway be forgotten: the expectation of the poor shall [not] perish for ever.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 14041,
+        "text": "Arise, O LORD; let not man prevail: let the heathen be judged in thy sight.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 14042,
+        "text": "Put them in fear, O LORD: [that] the nations may know themselves [to be but] men. Selah.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

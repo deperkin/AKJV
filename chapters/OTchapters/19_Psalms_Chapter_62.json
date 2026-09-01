@@ -1,0 +1,96 @@
+{
+  "version": "AKJV",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 62,
+    "count": 540,
+    "MaxVerses": 12,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 14829,
+        "text": "To the chief Musician, to Jeduthun, A Psalm of David. Truly my soul waiteth upon God: from him [cometh] my salvation.",
+        "WordCount": 21,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 14830,
+        "text": "He only [is] my rock and my salvation; [he is] my defence; I shall not be greatly moved.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 14831,
+        "text": "How long will ye imagine mischief against a man? ye shall be slain all of you: as a bowing wall [shall ye be, and as] a tottering fence.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 14832,
+        "text": "They only consult to cast [him] down from his excellency: they delight in lies: they bless with their mouth, but they curse inwardly. Selah.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 14833,
+        "text": "My soul, wait thou only upon God; for my expectation [is] from him.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 14834,
+        "text": "He only [is] my rock and my salvation: [he is] my defence; I shall not be moved.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 14835,
+        "text": "In God [is] my salvation and my glory: the rock of my strength, [and] my refuge, [is] in God.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 14836,
+        "text": "Trust in him at all times; [ye] people, pour out your heart before him: God [is] a refuge for us. Selah.",
+        "WordCount": 21,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 9,
+        "count": 14837,
+        "text": "Surely men of low degree [are] vanity, [and] men of high degree [are] a lie: to be laid in the balance, they [are] altogether [lighter] than vanity.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 14838,
+        "text": "Trust not in oppression, and become not vain in robbery: if riches increase, set not your heart [upon them].",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 14839,
+        "text": "God hath spoken once; twice have I heard this; that power [belongeth] unto God.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 14840,
+        "text": "Also unto thee, O Lord, [belongeth] mercy: for thou renderest to every man according to his work.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "version": "AKJV",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 22,"name": "Song of Solomon","MaxChapters": 8},
+  "chapter": {
+    "Cnumber": 4,
+    "count": 675,
+    "MaxVerses": 16,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 17584,
+        "text": "Behold, thou [art] fair, my love; behold, thou [art] fair; thou [hast] doves' eyes within thy locks: thy hair [is] as a flock of goats, that appear from mount Gilead.",
+        "WordCount": 30,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 17585,
+        "text": "Thy teeth [are] like a flock [of sheep that are even] shorn, which came up from the washing; whereof every one bear twins, and none [is] barren among them.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 17586,
+        "text": "Thy lips [are] like a thread of scarlet, and thy speech [is] comely: thy temples [are] like a piece of a pomegranate within thy locks.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 17587,
+        "text": "Thy neck [is] like the tower of David builded for an armoury, whereon there hang a thousand bucklers, all shields of mighty men.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 17588,
+        "text": "Thy two breasts [are] like two young roes that are twins, which feed among the lilies.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 17589,
+        "text": "Until the day break, and the shadows flee away, I will get me to the mountain of myrrh, and to the hill of frankincense.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 17590,
+        "text": "Thou [art] all fair, my love; [there is] no spot in thee.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 17591,
+        "text": "Come with me from Lebanon, [my] spouse, with me from Lebanon: look from the top of Amana, from the top of Shenir and Hermon, from the lions' dens, from the mountains of the leopards.",
+        "WordCount": 34,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 9,
+        "count": 17592,
+        "text": "Thou hast ravished my heart, my sister, [my] spouse; thou hast ravished my heart with one of thine eyes, with one chain of thy neck.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 17593,
+        "text": "How fair is thy love, my sister, [my] spouse! how much better is thy love than wine! and the smell of thine ointments than all spices!",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 17594,
+        "text": "Thy lips, O [my] spouse, drop [as] the honeycomb: honey and milk [are] under thy tongue; and the smell of thy garments [is] like the smell of Lebanon.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 17595,
+        "text": "A garden inclosed [is] my sister, [my] spouse; a spring shut up, a fountain sealed.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 17596,
+        "text": "Thy plants [are] an orchard of pomegranates, with pleasant fruits; camphire, with spikenard,",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 17597,
+        "text": "Spikenard and saffron; calamus and cinnamon, with all trees of frankincense; myrrh and aloes, with all the chief spices:",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 17598,
+        "text": "A fountain of gardens, a well of living waters, and streams from Lebanon.",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 16,
+        "count": 17599,
+        "text": "Awake, O north wind; and come, thou south; blow upon my garden, [that] the spices thereof may flow out. Let my beloved come into his garden, and eat his pleasant fruits.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

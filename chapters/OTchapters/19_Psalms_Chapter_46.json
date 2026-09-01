@@ -1,0 +1,89 @@
+{
+  "version": "AKJV",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 46,
+    "count": 524,
+    "MaxVerses": 11,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 14616,
+        "text": "To the chief Musician for the sons of Korah, A Song upon Alamoth. God [is] our refuge and strength, a very present help in trouble.",
+        "WordCount": 25,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 14617,
+        "text": "Therefore will not we fear, though the earth be removed, and though the mountains be carried into the midst of the sea;",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 14618,
+        "text": "[Though] the waters thereof roar [and] be troubled, [though] the mountains shake with the swelling thereof. Selah.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 14619,
+        "text": "[There is] a river, the streams whereof shall make glad the city of God, the holy [place] of the tabernacles of the most High.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 14620,
+        "text": "God [is] in the midst of her; she shall not be moved: God shall help her, [and that] right early.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 14621,
+        "text": "The heathen raged, the kingdoms were moved: he uttered his voice, the earth melted.",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 7,
+        "count": 14622,
+        "text": "The LORD of hosts [is] with us; the God of Jacob [is] our refuge. Selah.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 14623,
+        "text": "Come, behold the works of the LORD, what desolations he hath made in the earth.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 14624,
+        "text": "He maketh wars to cease unto the end of the earth; he breaketh the bow, and cutteth the spear in sunder; he burneth the chariot in the fire.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 14625,
+        "text": "Be still, and know that I [am] God: I will be exalted among the heathen, I will be exalted in the earth.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 14626,
+        "text": "The LORD of hosts [is] with us; the God of Jacob [is] our refuge. Selah.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "version": "AKJV",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 93,
+    "count": 571,
+    "MaxVerses": 5,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 15428,
+        "text": "The LORD reigneth, he is clothed with majesty; the LORD is clothed with strength, [wherewith] he hath girded himself: the world also is stablished, that it cannot be moved.",
+        "WordCount": 29,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 15429,
+        "text": "Thy throne [is] established of old: thou [art] from everlasting.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 15430,
+        "text": "The floods have lifted up, O LORD, the floods have lifted up their voice; the floods lift up their waves.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 15431,
+        "text": "The LORD on high [is] mightier than the noise of many waters, [yea, than] the mighty waves of the sea.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 15432,
+        "text": "Thy testimonies are very sure: holiness becometh thine house, O LORD, for ever.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

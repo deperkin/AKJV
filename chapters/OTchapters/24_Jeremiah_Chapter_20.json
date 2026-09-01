@@ -1,0 +1,138 @@
+{
+  "version": "AKJV",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 24,"name": "Jeremiah","MaxChapters": 52},
+  "chapter": {
+    "Cnumber": 20,
+    "count": 765,
+    "MaxVerses": 18,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 19424,
+        "text": "Now Pashur the son of Immer the priest, who [was] also chief governor in the house of the LORD, heard that Jeremiah prophesied these things.",
+        "WordCount": 25,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 19425,
+        "text": "Then Pashur smote Jeremiah the prophet, and put him in the stocks that [were] in the high gate of Benjamin, which [was] by the house of the LORD.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 19426,
+        "text": "And it came to pass on the morrow, that Pashur brought forth Jeremiah out of the stocks. Then said Jeremiah unto him, The LORD hath not called thy name Pashur, but Magormissabib.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 19427,
+        "text": "For thus saith the LORD, Behold, I will make thee a terror to thyself, and to all thy friends: and they shall fall by the sword of their enemies, and thine eyes shall behold [it]: and I will give all Judah into the hand of the king of Babylon, and he shall carry them captive into Babylon, and shall slay them with the sword.",
+        "WordCount": 64,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 19428,
+        "text": "Moreover I will deliver all the strength of this city, and all the labours thereof, and all the precious things thereof, and all the treasures of the kings of Judah will I give into the hand of their enemies, which shall spoil them, and take them, and carry them to Babylon.",
+        "WordCount": 51,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 19429,
+        "text": "And thou, Pashur, and all that dwell in thine house shall go into captivity: and thou shalt come to Babylon, and there thou shalt die, and shalt be buried there, thou, and all thy friends, to whom thou hast prophesied lies.",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 19430,
+        "text": "O LORD, thou hast deceived me, and I was deceived: thou art stronger than I, and hast prevailed: I am in derision daily, every one mocketh me.",
+        "WordCount": 27,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 8,
+        "count": 19431,
+        "text": "For since I spake, I cried out, I cried violence and spoil; because the word of the LORD was made a reproach unto me, and a derision, daily.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 19432,
+        "text": "Then I said, I will not make mention of him, nor speak any more in his name. But [his word] was in mine heart as a burning fire shut up in my bones, and I was weary with forbearing, and I could not [stay].",
+        "WordCount": 44,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 19433,
+        "text": "For I heard the defaming of many, fear on every side. Report, [say they], and we will report it. All my familiars watched for my halting, [saying], Peradventure he will be enticed, and we shall prevail against him, and we shall take our revenge on him.",
+        "WordCount": 46,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 19434,
+        "text": "But the LORD [is] with me as a mighty terrible one: therefore my persecutors shall stumble, and they shall not prevail: they shall be greatly ashamed; for they shall not prosper: [their] everlasting confusion shall never be forgotten.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 19435,
+        "text": "But, O LORD of hosts, that triest the righteous, [and] seest the reins and the heart, let me see thy vengeance on them: for unto thee have I opened my cause.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 19436,
+        "text": "Sing unto the LORD, praise ye the LORD: for he hath delivered the soul of the poor from the hand of evildoers.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 19437,
+        "text": "Cursed [be] the day wherein I was born: let not the day wherein my mother bare me be blessed.",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 15,
+        "count": 19438,
+        "text": "Cursed [be] the man who brought tidings to my father, saying, A man child is born unto thee; making him very glad.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 19439,
+        "text": "And let that man be as the cities which the LORD overthrew, and repented not: and let him hear the cry in the morning, and the shouting at noontide;",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 19440,
+        "text": "Because he slew me not from the womb; or that my mother might have been my grave, and her womb [to be] always great [with me].",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 19441,
+        "text": "Wherefore came I forth out of the womb to see labour and sorrow, that my days should be consumed with shame?",
+        "WordCount": 21,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

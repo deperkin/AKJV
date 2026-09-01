@@ -1,0 +1,166 @@
+{
+  "version": "AKJV",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 25,"name": "Lamentations","MaxChapters": 5},
+  "chapter": {
+    "Cnumber": 5,
+    "count": 802,
+    "MaxVerses": 22,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 20444,
+        "text": "Remember, O LORD, what is come upon us: consider, and behold our reproach.",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 20445,
+        "text": "Our inheritance is turned to strangers, our houses to aliens.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 20446,
+        "text": "We are orphans and fatherless, our mothers [are] as widows.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 20447,
+        "text": "We have drunken our water for money; our wood is sold unto us.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 20448,
+        "text": "Our necks [are] under persecution: we labour, [and] have no rest.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 20449,
+        "text": "We have given the hand [to] the Egyptians, [and to] the Assyrians, to be satisfied with bread.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 20450,
+        "text": "Our fathers have sinned, [and are] not; and we have borne their iniquities.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 20451,
+        "text": "Servants have ruled over us: [there is] none that doth deliver [us] out of their hand.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 20452,
+        "text": "We gat our bread with [the peril of] our lives because of the sword of the wilderness.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 20453,
+        "text": "Our skin was black like an oven because of the terrible famine.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 20454,
+        "text": "They ravished the women in Zion, [and] the maids in the cities of Judah.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 20455,
+        "text": "Princes are hanged up by their hand: the faces of elders were not honoured.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 20456,
+        "text": "They took the young men to grind, and the children fell under the wood.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 20457,
+        "text": "The elders have ceased from the gate, the young men from their musick.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 20458,
+        "text": "The joy of our heart is ceased; our dance is turned into mourning.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 20459,
+        "text": "The crown is fallen [from] our head: woe unto us, that we have sinned!",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 20460,
+        "text": "For this our heart is faint; for these [things] our eyes are dim.",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 18,
+        "count": 20461,
+        "text": "Because of the mountain of Zion, which is desolate, the foxes walk upon it.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 20462,
+        "text": "Thou, O LORD, remainest for ever; thy throne from generation to generation.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 20463,
+        "text": "Wherefore dost thou forget us for ever, [and] forsake us so long time?",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 20464,
+        "text": "Turn thou us unto thee, O LORD, and we shall be turned; renew our days as of old.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 20465,
+        "text": "But thou hast utterly rejected us; thou art very wroth against us.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}
