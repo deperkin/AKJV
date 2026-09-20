@@ -1,0 +1,47 @@
+{
+  "chapter": {
+    "Cnumber": 82,
+    "verses": [
+      {
+        "n": 1,
+        "t": "A Psalm of Asaph. God standeth in the congregation of the mighty; he judgeth among the gods.",
+        "p": true
+      },
+      {
+        "n": 2,
+        "t": "How long will ye judge unjustly, and accept the persons of the wicked? Selah.",
+        "p": false
+      },
+      {
+        "n": 3,
+        "t": "Defend the poor and fatherless: do justice to the afflicted and needy.",
+        "p": false
+      },
+      {
+        "n": 4,
+        "t": "Deliver the poor and needy: rid [them] out of the hand of the wicked.",
+        "p": false
+      },
+      {
+        "n": 5,
+        "t": "They know not, neither will they understand; they walk on in darkness: all the foundations of the earth are out of course.",
+        "p": false
+      },
+      {
+        "n": 6,
+        "t": "I have said, Ye [are] gods; and all of you [are] children of the most High.",
+        "p": true
+      },
+      {
+        "n": 7,
+        "t": "But ye shall die like men, and fall like one of the princes.",
+        "p": false
+      },
+      {
+        "n": 8,
+        "t": "Arise, O God, judge the earth: for thou shalt inherit all nations.",
+        "p": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "chapter": {
+    "Cnumber": 128,
+    "verses": [
+      {
+        "n": 1,
+        "t": "A Song of degrees. Blessed [is] every one that feareth the LORD; that walketh in his ways.",
+        "p": true
+      },
+      {
+        "n": 2,
+        "t": "For thou shalt eat the labour of thine hands: happy [shalt] thou [be], and [it shall be] well with thee.",
+        "p": false
+      },
+      {
+        "n": 3,
+        "t": "Thy wife [shall be] as a fruitful vine by the sides of thine house: thy children like olive plants round about thy table.",
+        "p": false
+      },
+      {
+        "n": 4,
+        "t": "Behold, that thus shall the man be blessed that feareth the LORD.",
+        "p": false
+      },
+      {
+        "n": 5,
+        "t": "The LORD shall bless thee out of Zion: and thou shalt see the good of Jerusalem all the days of thy life.",
+        "p": false
+      },
+      {
+        "n": 6,
+        "t": "Yea, thou shalt see thy children's children, [and] peace upon Israel.",
+        "p": false
+      }
+    ]
+  }
+}

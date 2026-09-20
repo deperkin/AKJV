@@ -1,0 +1,47 @@
+{
+  "chapter": {
+    "Cnumber": 130,
+    "verses": [
+      {
+        "n": 1,
+        "t": "A Song of degrees. Out of the depths have I cried unto thee, O LORD.",
+        "p": true
+      },
+      {
+        "n": 2,
+        "t": "Lord, hear my voice: let thine ears be attentive to the voice of my supplications.",
+        "p": false
+      },
+      {
+        "n": 3,
+        "t": "If thou, LORD, shouldest mark iniquities, O Lord, who shall stand?",
+        "p": false
+      },
+      {
+        "n": 4,
+        "t": "But [there is] forgiveness with thee, that thou mayest be feared.",
+        "p": false
+      },
+      {
+        "n": 5,
+        "t": "I wait for the LORD, my soul doth wait, and in his word do I hope.",
+        "p": true
+      },
+      {
+        "n": 6,
+        "t": "My soul [waiteth] for the Lord more than they that watch for the morning: [I say, more than] they that watch for the morning.",
+        "p": false
+      },
+      {
+        "n": 7,
+        "t": "Let Israel hope in the LORD: for with the LORD [there is] mercy, and with him [is] plenteous redemption.",
+        "p": false
+      },
+      {
+        "n": 8,
+        "t": "And he shall redeem Israel from all his iniquities.",
+        "p": false
+      }
+    ]
+  }
+}
